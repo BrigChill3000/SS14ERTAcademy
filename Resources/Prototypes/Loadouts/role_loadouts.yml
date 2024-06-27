@@ -312,6 +312,8 @@
   - SecurityBelt
   - HeadofSecurityOuterClothing
   - SecurityShoes
+  - SecurityOfficerPocket
+  - SecurityOfficerPocket2
   - Trinkets
   - SurvivalSecurity
   - Inventory # Corvax-Loadouts
@@ -325,6 +327,8 @@
   - SecurityBelt
   - WardenOuterClothing
   - SecurityShoes
+  - SecurityPocket
+  - SecurityPocket2
   - Trinkets
   - SurvivalSecurity
   - Inventory # Corvax-Loadouts
@@ -339,6 +343,8 @@
   - SecurityShoes
   - SecurityPDA
   - SecurityBelt
+  - SecurityPocket
+  - SecurityPocket2
   - Trinkets
   - SurvivalSecurity
   - Inventory # Corvax-Loadouts
@@ -352,6 +358,8 @@
   - SecurityBackpack
   - DetectiveOuterClothing
   - SecurityShoes
+  - SecurityPocket
+  - SecurityPocket2
   - Trinkets
   - SurvivalSecurity
   - Inventory # Corvax-Loadouts
@@ -361,6 +369,8 @@
   groups:
   - SecurityCadetJumpsuit
   - SecurityBackpack
+  - SecurityPocket
+  - SecurityPocket2
   - Trinkets
   - SurvivalSecurity
   - Inventory # Corvax-Loadouts

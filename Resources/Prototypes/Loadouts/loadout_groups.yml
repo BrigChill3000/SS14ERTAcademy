@@ -888,10 +888,12 @@
   - HeadofSecurityTurtleneckSkirt
   - HeadofSecurityFormalSuit
   - HeadofSecurityFormalSkirt
-  # Corvax-Loadouts-Start
-  - HeadofSecurityJumpsuitBlack
-  - HeadofSecurityJumpskirtBlack
-  # Corvax-Loadouts-End
+  - HeadofSecurityJumpsuitBlue
+  - HeadofSecurityJumpskirtBlue
+  - HeadofSecurityTurtleneckBlue
+  - HeadofSecurityTurtleneckSkirtBlue
+  - HeadofSecurityFormalSuitBlue
+  - HeadofSecurityFormalSkirtBlue
 
 - type: loadoutGroup
   id: HeadofSecurityNeck
@@ -909,12 +911,20 @@
   - HeadofSecurityWinterCoat
 
 - type: loadoutGroup
+  id: HoSPDA
+  name: loadout-group-security-id
+  loadouts:
+  - HoSPDA
+  - HoSPDABlue
+
+- type: loadoutGroup
   id: WardenHead
   name: loadout-group-warden-head
   minLimit: 0
   loadouts:
   - WardenHead
   - WardenBeret
+  - WardenHeadBlue
 
 - type: loadoutGroup
   id: WardenJumpsuit
@@ -922,13 +932,24 @@
   loadouts:
   - WardenJumpsuit
   - WardenJumpskirt
+  - WardenJumpsuitBlue
+  - WardenJumpskirtBlue
 
 - type: loadoutGroup
   id: WardenOuterClothing
   name: loadout-group-warden-outerclothing
   loadouts:
   - WardenCoat
+  - WardenCoatBlue
   - WardenArmoredWinterCoat
+  - ArmorVestArmorSec
+
+- type: loadoutGroup
+  id: WardenPDA
+  name: loadout-group-security-id
+  loadouts:
+  - WardenPDA
+  - WardenPDABlue
 
 - type: loadoutGroup
   id: SecurityHead
@@ -938,6 +959,8 @@
   - SecurityHelmet
   - SecurityBeret
   - SecurityHat
+  - SecurityBeretBlue
+  - SecurityHatBlue
 
 - type: loadoutGroup
   id: SecurityJumpsuit
@@ -949,6 +972,12 @@
   - SecurityJumpskirtGrey
   - SeniorOfficerJumpsuit
   - SeniorOfficerJumpskirt
+  - SecurityJumpsuitBlue
+  - SecurityJumpskirtBlue
+  - SecurityJumpsuitGreyBlue
+  - SecurityJumpskirtGreyBlue
+  - SeniorOfficerJumpsuitBlue
+  - SeniorOfficerJumpskirtBlue
 
 - type: loadoutGroup
   id: SecurityBackpack
@@ -957,6 +986,9 @@
   - SecurityBackpack
   - SecuritySatchel
   - SecurityDuffel
+  - SecurityBackpackBlue
+  - SecuritySatchelBlue
+  - SecurityDuffelBlue
 
 - type: loadoutGroup
   id: SecurityBelt
@@ -977,7 +1009,6 @@
   id: SecurityShoes
   name: loadout-group-security-shoes
   loadouts:
-  - JackSecBoots # Corvax
   - CombatBoots
   - JackBoots
   - SecurityWinterBoots
@@ -988,6 +1019,8 @@
   loadouts:
   - SecurityPDA
   - SeniorOfficerPDA
+  - SecurityPDABlue
+  - SeniorOfficerPDABlue
 
 - type: loadoutGroup
   id: DetectiveHead
@@ -1025,6 +1058,10 @@
   id: SecurityCadetJumpsuit
   name: loadout-group-security-cadet-jumpsuit
   loadouts:
+  - SecurityJumpsuitGrey
+  - SecurityJumpskirtGrey
+  - SecurityJumpsuitGreyBlue
+  - SecurityJumpskirtGreyBlue
   - RedJumpsuit
   - RedJumpskirt
 

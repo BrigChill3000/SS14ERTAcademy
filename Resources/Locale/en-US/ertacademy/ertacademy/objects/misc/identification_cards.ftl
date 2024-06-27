@@ -1,0 +1,9 @@
+ent-BlueShieldIDCard = ID card officer blueshield
+    .desc = { ent-IDCardStandard.desc }
+    .suffix = { "" }
+ent-HoSAIDCard = ID card head of security academy
+    .desc = { ent-IDCardStandard.desc }
+    .suffix = { "" }
+ent-RecruitIDCard = ID card recruit
+    .desc = { ent-IDCardStandard.desc }
+    .suffix = { "" }

@@ -16,20 +16,20 @@
   - Bartender
   - Borg
   - Botanist
-  - Boxer
-  - Chaplain
+#  - Boxer
+#  - Chaplain
   - Chef
-  - Clown
+#  - Clown
   - HeadOfPersonnel
   - Janitor
-  - Lawyer
-  - Librarian
-  - Mime
-  - Musician
-  - Passenger
-  - Reporter
-  - Visitor
-  - Zookeeper
+#  - Lawyer
+#  - Librarian
+#  - Mime
+#  - Musician
+#  - Passenger
+#  - Reporter
+#  - Visitor
+#  - Zookeeper
   - ServiceWorker
 
 - type: department
@@ -46,6 +46,7 @@
   - HeadOfSecurity
   - ResearchDirector
   - Quartermaster
+  - BlueShield #ERTAcademy
   primary: false
   weight: 100
 
@@ -68,7 +69,7 @@
   - ChiefMedicalOfficer
   - MedicalDoctor
   - MedicalIntern
-  - Psychologist
+#  - Psychologist
   - Paramedic
 
 - type: department
@@ -81,7 +82,7 @@
   - SecurityCadet
   - SecurityOfficer
   - Pilot # Corvax-Pilot
-  - Detective
+#  - Detective
   - Warden
 
 - type: department
@@ -93,15 +94,15 @@
   - Scientist
   - ResearchAssistant
 
-- type: department
-  id: Specific
-  description: department-Specific-description
-  color: "#9FED58"
-  weight: 10
-  roles:
-  - Boxer
-  - Reporter
-  - Zookeeper
-  - Psychologist
-  - Pilot # Corvax-Pilot
-  primary: false
+#- type: department
+#  id: Specific
+#  description: department-Specific-description
+#  color: "#9FED58"
+#  weight: 10
+#  roles:
+#  - Boxer
+#  - Reporter
+#  - Zookeeper
+#  - Psychologist
+#  - Pilot # Corvax-Pilot
+#  primary: false

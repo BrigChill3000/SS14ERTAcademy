@@ -1,0 +1,131 @@
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtBlueshield
+  name: blueshield officer's jumpskirt
+  description: It's a blue jumpskirt with some gold markings denoting the rank of "Captain".
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/blueshield.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/blueshield.rsi
+
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtBlueshieldTurtleneck
+  name: blueshield officer's turtleneck jumpskirt
+  description: It's a blue jumpskirt with some gold markings denoting the rank of "Captain".
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/blueshield_turtleneck.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/blueshield_turtleneck.rsi
+
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtCentcomConsultant
+  name: CentCom consultant jumpskirt
+  description: "A green jumpskirt with gold accents, and wide shoulder pads, for those who like to show off their real power."
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/centcom_consultant.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/centcom_consultant.rsi
+
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtCentcomConsultantFormal
+  name: CentCom consultant's formal jumpskirt
+  description: "The formal jumpskirt of the most important representative on the station. It clearly suits you, sir."
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/centcom_consultant_formal.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/centcom_consultant_formal.rsi
+
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtBrigmedic
+  name: brigmedic jumpskirt
+  description: This uniform is issued to qualified personnel who have been trained. No one cares that the training took half a day.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/brigmedic.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Uniforms/Jumpskirt/brigmedic.rsi
+
+- type: entity
+  parent: ClothingUniformJumpskirtHoS
+  id: ClothingUniformJumpskirtHoSBlue
+  name: head of security's jumpskirt
+  description: It's bright red and rather crisp, much like security's victims tend to be.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/hos.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/hos.rsi
+
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtHoSAltBlue
+  name: head of security's turtleneck
+  description: It's a turtleneck worn by those strong and disciplined enough to achieve the position of Head of Security.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/hos_alt.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/hos_alt.rsi
+
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtHoSParadeMaleBlue
+  name: head of security's parade uniform
+  description: A head of security's luxury-wear, for special occasions.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/hos_parade.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/hos_parade.rsi
+
+- type: entity
+  parent: ClothingUniformJumpskirtSec
+  id: ClothingUniformJumpskirtSecBlue
+  name: security jumpskirt
+  description: A jumpskirt made of strong material, providing robust protection.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/security.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/security.rsi
+
+- type: entity
+  parent: ClothingUniformJumpskirtWarden
+  id: ClothingUniformJumpskirtWardenBlue
+  name: warden's uniform
+  description: A formal security suit for officers complete with Nanotrasen belt buckle.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/warden.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/warden.rsi
+
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtSeniorOfficerBlue
+  name: senior officer jumpskirt
+  description: A sign of skill and prestige within the security department.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/senior_officer.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/senior_officer.rsi
+
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtSecGreyBlue
+  name: grey security jumpskirt
+  description: A tactical relic of years past before Nanotrasen decided it was cheaper to dye the suits red instead of washing out the blood.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/security_grey.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/security_grey.rsi

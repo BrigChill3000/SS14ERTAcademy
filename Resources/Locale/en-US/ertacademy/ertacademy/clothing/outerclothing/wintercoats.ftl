@@ -1,0 +1,9 @@
+ent-ClothingOuterWinterBS =  blueshield officer's winter coat
+    .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
+    .suffix = { "" }
+ent-ClothingOuterArmorJacketBlueShield =  blueshield officer's armored jacket
+    .desc = Armored jacket for Blueshield officer
+    .suffix = { "" }
+ent-ClothingOuterWinterWardenUnarmoredBlue = { ent-ClothingOuterWinterWardenUnarmored }
+    .desc = { ent-ClothingOuterWinterWardenUnarmored.desc }
+    .suffix = Blue

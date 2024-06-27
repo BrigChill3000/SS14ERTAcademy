@@ -17,6 +17,15 @@
   equipment:
     head: ClothingHeadHatBeretWarden
 
+- type: loadout
+  id: WardenHeadBlue
+  equipment: WardenHeadBlue
+
+- type: startingGear
+  id: WardenHeadBlue
+  equipment:
+    head: ClothingHeadHatWardenBlue
+
 # Jumpsuit
 - type: loadout
   id: WardenJumpsuit
@@ -36,6 +45,24 @@
   equipment:
     jumpsuit: ClothingUniformJumpskirtWarden
 
+- type: loadout
+  id: WardenJumpsuitBlue
+  equipment: WardenJumpsuitBlue
+
+- type: startingGear
+  id: WardenJumpsuitBlue
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitWardenBlue
+
+- type: loadout
+  id: WardenJumpskirtBlue
+  equipment: WardenJumpskirtBlue
+
+- type: startingGear
+  id: WardenJumpskirtBlue
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtWardenBlue
+
 # OuterClothing
 - type: loadout
   id: WardenCoat
@@ -54,3 +81,31 @@
   id: WardenArmoredWinterCoat
   equipment:
     outerClothing: ClothingOuterWinterWarden
+
+- type: loadout
+  id: WardenCoatBlue
+  equipment: WardenCoatBlue
+
+- type: startingGear
+  id: WardenCoatBlue
+  equipment:
+    outerClothing: ClothingOuterCoatWardenBlue
+
+# PDA
+- type: loadout
+  id: WardenPDA
+  equipment: WardenPDA
+
+- type: startingGear
+  id: WardenPDA
+  equipment:
+    id: WardenPDA
+
+- type: loadout
+  id: WardenPDABlue
+  equipment: WardenPDABlue
+
+- type: startingGear
+  id: WardenPDABlue
+  equipment:
+    id: WardenPDABlue

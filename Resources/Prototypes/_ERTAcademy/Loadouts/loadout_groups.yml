@@ -1,0 +1,255 @@
+#Consultant
+- type: loadoutGroup
+  id: ConsultantHead
+  name: loadout-group-consultant-head
+  minLimit: 0
+  loadouts:
+  - ConsultantHead
+
+- type: loadoutGroup
+  id: ConsultantJumpsuit
+  name: loadout-group-consultant-jumpsuit
+  loadouts:
+  - ConsultantJumpsuit
+  - ConsultantJumpskirt
+  - ConsultantFormalSuit
+  - ConsultantFormalSkirt
+
+- type: loadoutGroup
+  id: ConsultantNeck
+  name: loadout-group-consultant-neck
+  minLimit: 0
+  loadouts:
+  - ConsultantNeck
+
+- type: loadoutGroup
+  id: ConsultantBackpack
+  name: loadout-group-consultant-backpack
+  loadouts:
+  - ConsultantBackpack
+  - ConsultantSatchel
+  - ConsultantDuffel
+
+- type: loadoutGroup
+  id: ConsultantOuterClothing
+  name: loadout-group-consultant-outerclothing
+  loadouts:
+  - ConsultantOuterClothing
+
+# BlueShield
+- type: loadoutGroup
+  id: BlueShieldHead
+  name: loadout-group-blueshield-head
+  minLimit: 0
+  loadouts:
+  - BlueShieldHead
+
+- type: loadoutGroup
+  id: BlueShieldJumpsuit
+  name: loadout-group-blueshield-jumpsuit
+  loadouts:
+  - BlueShieldJumpsuit
+  - BlueShieldJumpskirt
+  - BlueShieldTurtleneck
+  - BlueShieldTurtleneckSkirt
+
+- type: loadoutGroup
+  id: BlueShieldNeck
+  name: loadout-group-blueshield-neck
+  minLimit: 0
+  loadouts:
+  - BlueShieldMantle
+
+- type: loadoutGroup
+  id: BlueShieldBackpack
+  name: loadout-group-blueshield-backpack
+  loadouts:
+  - BlueShieldBackpack
+  - BlueShieldSatchel
+  - BlueShieldDuffel
+
+- type: loadoutGroup
+  id: BlueShieldOuterClothing
+  name: loadout-group-blueshield-outerclothing
+  loadouts:
+  - BlueShieldOuterClothing
+  - BlueShieldWintercoat
+
+- type: loadoutGroup
+  id: BlueShieldBelt
+  name: loadout-group-blueshield-belt
+  loadouts:
+  - SecurityBelt
+  - BlueShieldWebbing
+
+- type: loadoutGroup #Backmen
+  id: BlueShieldPocket
+  name: loadout-group-blueshield-pocket
+  loadouts:
+  - WeaponRevolverRsh18
+  - WeaponPistolMk58
+  - WeaponPistolG22
+  - WeaponPistolACP14
+  - WeaponPistolG23
+  - WeaponPistolVP78
+  - WeaponRevolverMatebaNew
+
+- type: loadoutGroup #Backmen
+  id: BlueShieldPocket2
+  name: loadout-group-blueshield-pocket2
+  minLimit: 0
+  loadouts:
+  - MagazinePistol
+  - MagazinePistolHighCapacity
+  - SpeedLoaderMagnum
+  - SpeedLoaderUniversal
+  - SpeedLoaderUniversalHV
+
+# Brigmedic
+- type: loadoutGroup
+  id: BrigmedicHead
+  name: loadout-group-brigmedic-head
+  minLimit: 0
+  loadouts:
+  - BrigmedicHead
+
+- type: loadoutGroup
+  id: BrigmedicNeck
+  name: loadout-group-brigmedic-neck
+  minLimit: 0
+  loadouts:
+  - BrigmedicBedsheet
+
+- type: loadoutGroup
+  id: BrigmedicJumpsuit
+  name: loadout-group-brigmedic-jumpsuit
+  loadouts:
+  - BrigmedicJumpsuit
+  - BrigmedicJumpskirt
+  - BrigmedicTurtleneck
+  - BrigmedicTurtleneckSkirt
+
+- type: loadoutGroup
+  id: BrigmedicBackpack
+  name: loadout-group-brigmedic-backpack
+  loadouts:
+  - BrigmedicBackpack
+  - BrigmedicSatchel
+  - BrigmedicDuffel
+
+- type: loadoutGroup
+  id: BrigmedicOuterClothing
+  name: loadout-group-brigmedic-outerclothing
+  minLimit: 0
+  loadouts:
+  - BrigmedicOuterClothing
+  - BrigmedicWindbreaker
+
+- type: loadoutGroup #Backmen
+  id: SecurityPocket
+  name: loadout-group-security-pocket
+  loadouts:
+  - WeaponPistolMk58
+  - WeaponPistolG22
+  - WeaponPistolACP14
+  - WeaponPistolG23
+
+- type: loadoutGroup #Backmen
+  id: SecurityPocket2
+  name: loadout-group-security-pocket2
+  minLimit: 0
+  loadouts:
+  - MagazinePistol
+
+- type: loadoutGroup
+  id: SecurityCadetJumpsuit
+  name: loadout-group-security-cadet-jumpsuit
+  loadouts:
+  - SecurityJumpsuitGrey #Backmen
+  - SecurityJumpskirtGrey #Backmen
+
+- type: loadoutGroup #Backmen
+  id: SecurityOfficerPocket
+  name: loadout-group-security-pocket
+  loadouts:
+  - WeaponPistolMk58
+  - WeaponPistolG22
+  - WeaponPistolACP14
+  - WeaponPistolG23
+  - WeaponPistolVP78
+  - WeaponRevolverMatebaNew
+
+- type: loadoutGroup #Backmen
+  id: SecurityOfficerPocket2
+  name: loadout-group-security-pocket2
+  minLimit: 0
+  loadouts:
+  - MagazinePistol
+  - MagazinePistolHighCapacity
+  - SpeedLoaderMagnum
+
+#NukeOps
+- type: loadoutGroup
+  id: NukeOpsJumpsuit
+  name: loadout-group-nukeops-jumpsuit
+  loadouts:
+  - NukeOpsJumpsuit
+  - NukeOpsJumpskirt
+
+- type: loadoutGroup
+  id: NukeOpsBackpack
+  name: loadout-group-nukeops-backpack
+  loadouts:
+  - NukeOpsBackpack
+
+- type: loadoutGroup
+  id: NukeOpsOuterClothing
+  name: loadout-group-nukeops-outerclothing
+  loadouts:
+  - NukeOpsOuterClothing
+  - NukeOpsOuterClothingBackmen
+  - NukeOpsOuterClothingCorvax
+  - NukeOpsOuterClothingSunRise
+  - NukeOpsOuterClothingXeno
+
+- type: loadoutGroup
+  id: NukeOpsBelt
+  name: loadout-group-nukeops-outerclothing
+  loadouts:
+  - NukeOpsBelt
+
+- type: loadoutGroup
+  id: NukeOpsPDA
+  name: loadout-group-nukeops-id
+  loadouts:
+  - SyndiAgentPDA
+  - SyndiPDA
+  - NukieAgentIDCard
+
+#NukeOps Medic
+- type: loadoutGroup
+  id: NukeOpsMedicOuterClothing
+  name: loadout-group-nukeops-outerclothing
+  loadouts:
+  - NukeOpsMedicOuterClothing
+  - NukeOpsMedicOuterClothingBackmen
+  - NukeOpsMedicOuterClothingCorvax
+  - NukeOpsMedicOuterClothingSunRise
+  - NukeOpsMedicOuterClothingXeno
+
+- type: loadoutGroup
+  id: NukeOpsMedicBelt
+  name: loadout-group-nukeops-outerclothing
+  loadouts:
+  - NukeOpsMedicBelt
+
+#NukeOps Commander
+- type: loadoutGroup
+  id: NukeOpsCommanderOuterClothing
+  name: loadout-group-nukeops-outerclothing
+  loadouts:
+  - NukeOpsCommanderOuterClothing
+  - NukeOpsCommanderOuterClothingBackmen
+  - NukeOpsCommanderOuterClothingCorvax
+  - NukeOpsCommanderOuterClothingSunRise
+  - NukeOpsCommanderOuterClothingXeno

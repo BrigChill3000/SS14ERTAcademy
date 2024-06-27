@@ -1,0 +1,16 @@
+- type: lobbyBackground
+  id: ClownAndHos
+  background: /Textures/ERTAcademy/LobbyScreens/clown_and_hos.png
+
+- type: lobbyBackground
+  id: Insanity
+  background: /Textures/ERTAcademy/LobbyScreens/insanity.png
+
+- type: lobbyBackground
+  id: PapersPls
+  background: /Textures/ERTAcademy/LobbyScreens/paperspls.png
+
+- type: lobbyBackground
+  id: RND
+  background: /Textures/ERTAcademy/LobbyScreens/rnd.png
+

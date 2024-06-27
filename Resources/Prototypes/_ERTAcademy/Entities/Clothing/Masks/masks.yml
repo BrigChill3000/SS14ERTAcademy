@@ -1,0 +1,21 @@
+- type: entity
+  parent: ClothingMaskGasExplorer
+  id: ClothingMaskGasBlueShield
+  name: blueshield gas mask
+  description: A elite issue Blueshield gas mask.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Mask/blueshield.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Mask/blueshield.rsi
+
+- type: entity
+  parent: ClothingMaskGasExplorer
+  id: ClothingMaskGasBrigmedic
+  name: brigmedic gas mask
+  description: A elite issue Brigmedic gas mask.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Mask/brigmedic.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Mask/brigmedic.rsi

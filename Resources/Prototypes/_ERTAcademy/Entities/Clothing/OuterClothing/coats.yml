@@ -1,0 +1,43 @@
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterCoatCentcomConsultant
+  name: CentCom consultant coat
+  description: "A warm and long coat with gold accents, showing who is really in charge."
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/OuterClothing/Coats/centcom_consultant.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/OuterClothing/Coats/centcom_consultant.rsi
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.7
+        Slash: 0.7
+        Piercing: 0.7
+        Heat: 0.7
+        Caustic: 0.75 
+  - type: ExplosionResistance
+    damageCoefficient: 0.9
+
+- type: entity
+  parent: ClothingOuterCoatCentcomConsultant
+  id: ClothingOuterCoatCentcom
+  name: CentCom's coat
+  description: "A warm and long coat with gold accents, showing who is really in charge."
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/OuterClothing/Coats/centcom.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/OuterClothing/Coats/centcom.rsi
+
+- type: entity
+  parent: [ClothingOuterArmorWarden, ClothingOuterStorageBase]
+  id: ClothingOuterCoatWardenBlue
+  name: warden's armored jacket
+  description: A sturdy, utilitarian jacket designed to protect a warden from any brig-bound threats.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/OuterClothing/Coats/warden.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/OuterClothing/Coats/warden.rsi
+

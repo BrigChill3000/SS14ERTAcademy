@@ -1,0 +1,15 @@
+- type: entity
+  parent: ClothingHeadHeadHatBaseFlippable
+  id: ClothingHeadHatSecsoftBlue
+  name: security cap
+  description: It's a robust baseball hat in tasteful red colour.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Head/Soft/secsoft.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Head/Soft/secsoft.rsi
+
+- type: entity
+  parent: [ClothingHeadHeadHatBaseFlipped, ClothingHeadHatSecsoftBlue]
+  id: ClothingHeadHatSecsoftFlipped
+  name: security cap

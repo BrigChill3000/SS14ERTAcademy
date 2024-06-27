@@ -1,0 +1,6 @@
+- type: statusIcon
+  parent: JobIcon
+  id: JobIconBlueShield
+  icon:
+    sprite: ERTAcademy/Interface/Misc/job_icons.rsi
+    state: BlueShield

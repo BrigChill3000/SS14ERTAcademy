@@ -1,0 +1,19 @@
+- type: job
+  id: Recruit
+  name: job-name-recruit
+  description: job-description-recruit
+  playTimeTracker: JobRecruit
+  startingGear: RecruitGear
+  icon: "JobIconPassenger"
+  supervisors: job-supervisors-everyone
+  access:
+  - Maintenance
+
+- type: startingGear
+  id: RecruitGear
+  equipment:
+    id: RecruitPDA
+    ears: ClothingHeadsetGrey
+  storage:
+    back:
+    - BoxSurvival

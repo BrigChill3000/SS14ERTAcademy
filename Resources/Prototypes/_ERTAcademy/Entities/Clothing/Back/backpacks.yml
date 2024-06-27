@@ -1,0 +1,26 @@
+- type: entity
+  parent: ClothingBackpack
+  id: ClothingBackpackBlueShield
+  name: blueshield's backpack
+  description: It's a special backpack made exclusively for Nanotrasen officers.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Back/Backpacks/blueshield.rsi
+
+- type: entity
+  parent: ClothingBackpack
+  id: ClothingBackpackCentСom
+  name: central command backpack
+  description: This is a special backpack designed exclusively for representatives of the Central Command.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Back/Backpacks/centcom.rsi
+
+- type: entity
+  parent: ClothingBackpack
+  id: ClothingBackpackSecurityBlue
+  name: security backpack
+  description: It's a very robust backpack.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Back/Backpacks/security.rsi

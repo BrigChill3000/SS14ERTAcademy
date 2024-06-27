@@ -1,0 +1,9 @@
+ent-ClothingOuterWinterBS =  зимнее пальто офицера синего щита
+    .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
+    .suffix = { "" }
+ent-ClothingOuterArmorJacketBlueShield =  бронированная куртка офицера синего щита
+    .desc = Куртка, оснащенная защитой почти как у бронежилета
+    .suffix = { "" }
+ent-ClothingOuterWinterWardenUnarmoredBlue = { ent-ClothingOuterWinterWardenUnarmored }
+    .desc = { ent-ClothingOuterWinterWardenUnarmored.desc }
+    .suffix = Синий

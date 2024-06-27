@@ -1,0 +1,23 @@
+- type: marking
+  id: HumanHairClassicMessy
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: ERTAcademy/Mobs/Customization/deb_human_hair.rsi
+      state: classicmessy
+
+- type: marking
+  id: HumanHairClassicSpiky
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: ERTAcademy/Mobs/Customization/deb_human_hair.rsi
+      state: classicspiky
+
+- type: marking
+  id: HumanHairModernClassic
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: ERTAcademy/Mobs/Customization/deb_human_hair.rsi
+      state: modern

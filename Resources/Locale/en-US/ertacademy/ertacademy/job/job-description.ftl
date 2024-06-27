@@ -1,0 +1,3 @@
+job-description-blueshield = Don't let the command members die. You should not follow their orders, the goal is one - not to let them die until the end of the shift.
+job-description-hosa = Your task is to control the security department and ensure security for the entire station.
+job-description-recruit = You are a recruit. Your goal is to get into one of the squads and train for one of the positions.

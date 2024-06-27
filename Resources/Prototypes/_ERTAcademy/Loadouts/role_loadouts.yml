@@ -1,0 +1,79 @@
+# Command
+- type: roleLoadout
+  id: JobBlueShield
+  groups:
+  - BlueShieldHead
+  - BlueShieldNeck
+  - BlueShieldJumpsuit
+  - BlueShieldBackpack
+  - BlueShieldOuterClothing
+  - BlueShieldBelt
+  - BlueShieldPocket
+  - BlueShieldPocket2
+  - Trinkets
+  - Medals #backmen
+  - Inventory # Corvax-Loadouts
+
+# CentCom
+- type: roleLoadout
+  id: JobCentComConsultant
+  groups:
+  - ConsultantHead
+  - ConsultantNeck
+  - ConsultantJumpsuit
+  - ConsultantBackpack
+  - ConsultantOuterClothing
+  - Glasses
+  - Trinkets
+  - Medals #backmen
+  - Inventory # Corvax-Loadouts
+
+# Security
+- type: roleLoadout
+  id: JobBrigmedic
+  groups:
+  - BrigmedicHead
+  - BrigmedicNeck
+  - BrigmedicJumpsuit
+  - BrigmedicBackpack
+  - BrigmedicOuterClothing
+  - Trinkets
+  - Medals #backmen
+  - Inventory # Corvax-Loadouts
+
+# NukeOps
+- type: roleLoadout
+  id: Nukeops
+  groups:
+  - NukeOpsJumpsuit
+  - NukeOpsBackpack
+  - NukeOpsOuterClothing
+  - NukeOpsBelt
+  - NukeOpsPDA
+  - Trinkets
+  - Medals #backmen
+  - Inventory # Corvax-Loadouts
+
+- type: roleLoadout
+  id: NukeopsMedic
+  groups:
+  - NukeOpsJumpsuit
+  - NukeOpsBackpack
+  - NukeOpsMedicOuterClothing
+  - NukeOpsMedicBelt
+  - NukeOpsPDA
+  - Trinkets
+  - Medals #backmen
+  - Inventory # Corvax-Loadouts
+
+- type: roleLoadout
+  id: NukeopsCommander
+  groups:
+  - NukeOpsJumpsuit
+  - NukeOpsBackpack
+  - NukeOpsCommanderOuterClothing
+  - NukeOpsBelt
+  - NukeOpsPDA
+  - Trinkets
+  - Medals #backmen
+  - Inventory # Corvax-Loadouts

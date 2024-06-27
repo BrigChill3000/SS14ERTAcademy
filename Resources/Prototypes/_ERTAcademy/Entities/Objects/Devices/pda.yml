@@ -1,0 +1,164 @@
+- type: entity
+  parent: BasePDA
+  id: BlueShieldPDA
+  name: captain PDA
+  description: Surprisingly no different from your PDA.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Objects/Devices/pda.rsi
+  - type: Pda
+    id: BlueShieldIDCard
+    state: pda-blueshield
+    penSlot:
+      startingItem: PenCap
+      priority: -1
+      whitelist:
+        tags:
+        - Write
+  - type: PdaBorderColor
+    borderColor: "#1E1E32"
+    accentHColor: "#2851A4"
+  - type: Icon
+    sprite: ERTAcademy/Objects/Devices/pda.rsi
+    state: pda-blueshield
+
+- type: entity
+  parent: BasePDA
+  id: CentcomConsultantPDA
+  name: CentCom consultant PDA
+  description: Light green sign of walking bureaucracy.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Objects/Devices/pda.rsi
+  - type: Pda
+    id: CentcomConsultantIDCard
+    state: pda-centcom
+    penSlot:
+      startingItem: PenCentcom
+      priority: -1
+      whitelist:
+        tags:
+        - Write
+  - type: PdaBorderColor
+    borderColor: "#15b115"
+    accentHColor: "#dfc910"
+    accentVColor: "#dfc910"
+  - type: Icon
+    sprite: ERTAcademy/Objects/Devices/pda.rsi
+    state: pda-centcom
+
+- type: entity
+  parent: BasePDA
+  id: HoSPDABlue
+  name: head of security PDA
+  description: Whosoever bears this PDA is the law.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Objects/Devices/pda.rsi
+  - type: Pda
+    id: HoSIDCard
+    state: pda-hos
+  - type: PdaBorderColor
+    borderColor: "#A32D26"
+    accentHColor: "#447987"
+  - type: Icon
+    sprite: ERTAcademy/Objects/Devices/pda.rsi
+    state: pda-hos
+
+- type: entity
+  parent: BasePDA
+  id: WardenPDABlue
+  name: warden PDA
+  description: The OS appears to have been jailbroken.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Objects/Devices/pda.rsi
+  - type: Pda
+    id: WardenIDCard
+    state: pda-warden
+  - type: PdaBorderColor
+    borderColor: "#A32D26"
+    accentVColor: "#949137"
+  - type: Icon
+    sprite: ERTAcademy/Objects/Devices/pda.rsi
+    state: pda-warden
+
+- type: entity
+  parent: BasePDA
+  id: SecurityPDABlue
+  name: security PDA
+  description: Red to hide the stains of passenger blood.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Objects/Devices/pda.rsi
+  - type: Pda
+    id: SecurityIDCard
+    state: pda-security
+  - type: PdaBorderColor
+    borderColor: "#A32D26"
+  - type: Icon
+    sprite: ERTAcademy/Objects/Devices/pda.rsi
+    state: pda-security
+
+- type: entity
+  parent: BasePDA
+  id: SeniorOfficerPDABlue
+  name: senior officer PDA
+  description: Beaten, battered and broken, but just barely useable.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Objects/Devices/pda.rsi
+  - type: Pda
+    id: SeniorOfficerIDCard
+    state: pda-seniorofficer
+  - type: PdaBorderColor
+    borderColor: "#A32D26"
+    accentVColor: "#DFDFDF"
+  - type: Icon
+    sprite: ERTAcademy/Objects/Devices/pda.rsi
+    state: pda-seniorofficer
+
+- type: entity
+  parent: BasePDA
+  id: HoSAPDA
+  name: head of security academy PDA
+  description: Whosoever bears this PDA is the law.
+  components:
+  - type: Pda
+    id: HoSAIDCard
+    state: pda-hos
+  - type: PdaBorderColor
+    borderColor: "#A32D26"
+    accentHColor: "#447987"
+  - type: Icon
+    state: pda-hos
+
+- type: entity
+  parent: BasePDA
+  id: HoSAPDABlue
+  name: head of security academy PDA
+  description: Whosoever bears this PDA is the law.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Objects/Devices/pda.rsi
+  - type: Pda
+    id: HoSAIDCard
+    state: pda-hos
+  - type: PdaBorderColor
+    borderColor: "#A32D26"
+    accentHColor: "#447987"
+  - type: Icon
+    sprite: ERTAcademy/Objects/Devices/pda.rsi
+    state: pda-hos
+
+- type: entity
+  parent: BasePDA
+  id: RecruitPDA
+  name: recruit PDA
+  description: Why isn't it gray?
+  components:
+  - type: Pda
+    id: RecruitIDCard
+    state: pda
+  - type: PdaBorderColor
+    borderColor: "#717059"

@@ -53,6 +53,60 @@
   equipment:
     jumpsuit: ClothingUniformJumpskirtHosFormal
 
+- type: loadout
+  id: HeadofSecurityJumpsuitBlue
+  equipment: HeadofSecurityJumpsuitBlue
+
+- type: startingGear
+  id: HeadofSecurityJumpsuitBlue
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitHoSBlue
+
+- type: loadout
+  id: HeadofSecurityJumpskirtBlue
+  equipment: HeadofSecurityJumpskirtBlue
+
+- type: startingGear
+  id: HeadofSecurityJumpskirtBlue
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtHoSBlue
+
+- type: loadout
+  id: HeadofSecurityTurtleneckBlue
+  equipment: HeadofSecurityTurtleneckBlue
+
+- type: startingGear
+  id: HeadofSecurityTurtleneckBlue
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitHoSAltBlue
+
+- type: loadout
+  id: HeadofSecurityTurtleneckSkirtBlue
+  equipment: HeadofSecurityTurtleneckSkirtBlue
+
+- type: startingGear
+  id: HeadofSecurityTurtleneckSkirtBlue
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtHoSAltBlue
+
+- type: loadout
+  id: HeadofSecurityFormalSuitBlue
+  equipment: HeadofSecurityFormalSuitBlue
+
+- type: startingGear
+  id: HeadofSecurityFormalSuitBlue
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitHosFormalBlue
+
+- type: loadout
+  id: HeadofSecurityFormalSkirtBlue
+  equipment: HeadofSecurityFormalSkirtBlue
+
+- type: startingGear
+  id: HeadofSecurityFormalSkirtBlue
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtHosFormalBlue
+
 # Head
 - type: loadout
   id: HeadofSecurityHead
@@ -109,3 +163,22 @@
   id: HeadofSecurityWinterCoat
   equipment:
     outerClothing: ClothingOuterWinterHoS
+
+# PDA
+- type: loadout
+  id: HoSPDA
+  equipment: HoSPDA
+
+- type: startingGear
+  id: HoSPDA
+  equipment:
+    id: HoSPDA
+
+- type: loadout
+  id: HoSPDABlue
+  equipment: HoSPDABlue
+
+- type: startingGear
+  id: HoSPDABlue
+  equipment:
+    id: HoSPDABlue

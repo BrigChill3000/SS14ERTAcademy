@@ -1,0 +1,117 @@
+﻿- type: entity
+  id: BulletCutter
+  name: Cutter bolt
+  parent: BaseBullet
+  noSpawn: true
+  description: Not too bad, but you still don't want to get hit by it.
+  components:
+  - type: Reflective
+    reflective:
+      - NonEnergy
+  - type: Sprite
+    noRot: false
+    sprite: ERTAcademy/Objects/Weapons/Guns/Projectiles/projectiles.rsi
+    layers:
+    - state: scatterlaser
+  - type: GatheringProjectile
+  - type: Projectile
+    damage:
+      types:
+        Heat: 0.5
+  # Short lifespan
+  - type: TimedDespawn
+    lifetime: 0.4
+
+- type: entity
+  id: BulletUniversalPT1
+  name: bullet (12.7 rifle)
+  parent: BaseBullet
+  noSpawn: true
+  components:
+  - type: Projectile
+    damage:
+      types:
+        Piercing: 28
+
+- type: entity
+  id: BulletUniversalVPS
+  name: bullet (12.7 rifle armor-piercing)
+  parent: BaseBullet
+  noSpawn: true
+  components:
+  - type: Projectile
+    damage:
+      types:
+        Piercing: 19
+    ignoreResistances: true
+
+- type: entity
+  id: BulletCutterAdv
+  name: cutter bolt advanced
+  parent: BulletCutter
+  noSpawn: true
+  components:
+  - type: Projectile
+    damage:
+      types:
+        Heat: 15
+  - type: TimedDespawn
+    lifetime: 0.25
+
+- type: entity
+  id: BulletAcid2
+  name: acid spit
+  parent: BaseBullet
+  noSpawn: true
+  components:
+    - type: Projectile
+      damage:
+        types:
+          Caustic: 12
+    - type: Sprite
+      sprite: Objects/Weapons/Guns/Projectiles/xeno_toxic.rsi
+      layers:
+        - state: xeno_toxic
+    - type: Ammo
+      muzzleFlash: null
+
+- type: entity
+  name: EMP impulse
+  parent: BaseBulletTrigger
+  id: BulletEMP
+  noSpawn: true
+  components:
+  - type: Sprite
+    sprite: Effects/emp.rsi
+    layers:
+    - state: emp_pulse
+  - type: EmpOnTrigger
+    range: 2
+    energyConsumption: 30000
+    disableDuration: 10
+  - type: Ammo
+    muzzleFlash: null
+  - type: PointLight
+    radius: 3.5
+    color: blue
+    energy: 0.5
+
+- type: entity
+  id: BulletImpactEffectRedDisabler
+  noSpawn: true
+  components:
+  - type: TimedDespawn
+    lifetime: 0.2
+  - type: Sprite
+    drawdepth: Effects
+    layers:
+    - shader: unshaded
+      map: ["enum.EffectLayers.Unshaded"]
+      sprite: Objects/Weapons/Guns/Projectiles/projectiles_tg.rsi
+      state: impact_laser_greyscale
+      color: red
+  - type: EffectVisuals
+  - type: Tag
+    tags:
+    - HideContextMenu
+

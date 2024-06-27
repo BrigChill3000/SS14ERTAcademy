@@ -1,0 +1,51 @@
+﻿- type: entity
+  parent: IDCardStandard
+  id: BlueShieldIDCard
+  name: blueshield ID card
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Objects/Misc/id_cards.rsi
+    layers:
+    - state: blue
+    - state: idblueshield
+  - type: Item
+    heldPrefix: blue
+  - type: PresetIdCard
+    job: BlueShield
+
+- type: entity
+  parent: IDCardStandard
+  id: CentcomConsultantIDCard
+  name: CentCom consultant ID card
+  components:
+  - type: Sprite
+    layers:
+    - state: centcom
+  - type: PresetIdCard
+    job: CentComConsultant
+
+- type: entity
+  parent: IDCardStandard
+  id: HoSAIDCard
+  name: head of security academy ID card
+  components:
+  - type: Sprite
+    layers:
+    - state: silver
+    - state: idheadofsecurity
+  - type: Item
+    heldPrefix: silver
+  - type: PresetIdCard
+    job: HeadOfSecurityAcademy
+
+- type: entity
+  parent: IDCardStandard
+  id: RecruitIDCard
+  name: recruit ID card
+  components:
+  - type: Sprite
+    layers:
+    - state: default
+    - state: idpassenger
+  - type: PresetIdCard
+    job: Recruit

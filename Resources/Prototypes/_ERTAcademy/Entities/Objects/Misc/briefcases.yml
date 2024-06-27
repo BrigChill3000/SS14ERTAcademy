@@ -1,0 +1,46 @@
+- type: entity
+  parent: BaseStorageItem
+  abstract: true
+  id: BriefcaseNTBase
+  description: Case for real patriots NanoTrasen.
+  components:
+  - type: Item
+    size: Ginormous
+  - type: Storage
+    grid:
+    - 0,0,10,5
+  - type: Tag
+    tags:
+    - Briefcase
+
+- type: entity
+  name: brown briefcase
+  parent: BriefcaseNTBase
+  id: BriefcaseNT
+  description: Case for real patriots NanoTrasen.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Objects/Storage/Briefcases/blueshield_case.rsi
+    state: icon
+  - type: Item
+    sprite: ERTAcademy/Objects/Storage/Briefcases/blueshield_case.rsi
+
+- type: entity
+  parent: PresentRandom
+  id: MysteryWeaponBox
+  name: mystery spacemen minifigure box
+  description: A box containing a mystery minifigure. The side of the box depicts a few blacked-out 'rare' figures, including one with a large, non-humanoid shilouette.
+  components:
+  - type: Item
+    sprite: ERTAcademy/Objects/Storage/Briefcases/blueshield_case.rsi
+  - type: Sprite
+    sprite: ERTAcademy/Objects/Storage/Briefcases/blueshield_case.rsi
+    layers:
+      - state: icon
+  - type: SpawnItemsOnUse
+    items:
+      - id: WeaponCaseAsh9
+        orGroup: WeaponCaseRandom
+      - id: WeaponCaseSaiga
+        orGroup: WeaponCaseRandom
+      - id: ClothingOuterHardsuitBlueShield

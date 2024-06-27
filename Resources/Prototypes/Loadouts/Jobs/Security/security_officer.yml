@@ -41,6 +41,24 @@
   equipment:
     head: ClothingHeadHatBeretSecurity
 
+- type: loadout
+  id: SecurityHatBlue
+  equipment: SecurityHat
+
+- type: startingGear
+  id: SecurityHatBlue
+  equipment:
+    head: ClothingHeadHatSecsoftBlue
+
+- type: loadout
+  id: SecurityBeretBlue
+  equipment: SecurityBeretBlue
+
+- type: startingGear
+  id: SecurityBeretBlue
+  equipment:
+    head: ClothingHeadHatBeretSecurityBlue
+
 # Jumpsuit
 - type: loadout
   id: SecurityJumpsuit
@@ -102,6 +120,66 @@
   equipment:
     jumpsuit: ClothingUniformJumpskirtSeniorOfficer
 
+- type: loadout
+  id: SecurityJumpsuitBlue
+  equipment: SecurityJumpsuitBlue
+
+- type: startingGear
+  id: SecurityJumpsuitBlue
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitSecBlue
+
+- type: loadout
+  id: SecurityJumpskirtBlue
+  equipment: SecurityJumpskirtBlue
+
+- type: startingGear
+  id: SecurityJumpskirtBlue
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtSecBlue
+
+- type: loadout
+  id: SecurityJumpsuitGreyBlue
+  equipment: SecurityJumpsuitGreyBlue
+
+- type: startingGear
+  id: SecurityJumpsuitGreyBlue
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitSecGreyBlue
+
+- type: loadout
+  id: SecurityJumpskirtGreyBlue
+  equipment: SecurityJumpskirtGreyBlue
+
+- type: startingGear
+  id: SecurityJumpskirtGreyBlue
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtSecGreyBlue
+
+- type: loadout
+  id: SeniorOfficerJumpsuitBlue
+  equipment: SeniorOfficerJumpsuitBlue
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: SeniorOfficer
+
+- type: startingGear
+  id: SeniorOfficerJumpsuitBlue
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitSeniorOfficerBlue
+
+- type: loadout
+  id: SeniorOfficerJumpskirt
+  equipment: SeniorOfficerJumpskirtBlue
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: SeniorOfficer
+
+- type: startingGear
+  id: SeniorOfficerJumpskirtBlue
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtSeniorOfficerBlue
+
 # Back
 - type: loadout
   id: SecurityBackpack
@@ -129,6 +207,33 @@
   id: SecurityDuffel
   equipment:
     back: ClothingBackpackDuffelSecurity
+
+- type: loadout
+  id: SecurityBackpackBlue
+  equipment: SecurityBackpackBlue
+
+- type: startingGear
+  id: SecurityBackpackBlue
+  equipment:
+    back: ClothingBackpackSecurityBlue
+
+- type: loadout
+  id: SecuritySatchelBlue
+  equipment: SecuritySatchelBlue
+
+- type: startingGear
+  id: SecuritySatchelBlue
+  equipment:
+    back: ClothingBackpackSatchelSecurityBlue
+
+- type: loadout
+  id: SecurityDuffelBlue
+  equipment: SecurityDuffelBlue
+
+- type: startingGear
+  id: SecurityDuffelBlue
+  equipment:
+    back: ClothingBackpackDuffelSecurityBlue
 
 # Belt
 - type: loadout
@@ -226,3 +331,24 @@
   id: SeniorOfficerPDA
   equipment:
     id: SeniorOfficerPDA
+
+- type: loadout
+  id: SecurityPDABlue
+  equipment: SecurityPDABlue
+
+- type: startingGear
+  id: SecurityPDABlue
+  equipment:
+    id: SecurityPDABlue
+
+- type: loadout
+  id: SeniorOfficerPDABlue
+  equipment: SeniorOfficerPDABlue
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: SeniorOfficer
+
+- type: startingGear
+  id: SeniorOfficerPDABlue
+  equipment:
+    id: SeniorOfficerPDABlue

@@ -1,0 +1,77 @@
+- type: entity
+  parent: BriefcaseNT
+  id: WeaponCaseRifle
+  name: case smg
+  description: "Case blueshield officer with Drozd .35 auto"
+  components:
+  - type: StorageFill
+    contents:
+      - id: WeaponSubMachineGunDrozd
+      - id: MagazinePistolSubMachineGun
+      - id: MagazinePistolSubMachineGun
+      - id: WeaponRevolverPythonAP
+
+- type: entity
+  parent: BriefcaseNT
+  id: WeaponCaseVector
+  name: case vector
+  description: "Case blueshield officer with Vector."
+  components:
+  - type: StorageFill
+    contents:
+      - id: WeaponSubMachineGunVector
+      - id: MagazineMagnumSubMachineGun
+      - id: MagazineMagnumSubMachineGun
+      - id: WeaponRevolverPythonAP
+
+- type: entity
+  parent: BriefcaseNT
+  id: WeaponCaseShotgun
+  name: case shotgun
+  description: "Case blueshield officer with bulldog"
+  components:
+  - type: StorageFill
+    contents:
+      - id: WeaponShotgunBulldog
+      - id: MagazineShotgun
+      - id: MagazineShotgun
+      - id: WeaponRevolverPythonAP
+
+- type: entity
+  parent: ClothingBackpackDuffelSyndicateBundle
+  id: ClothingBackpackDuffelSyndicateBundleKR51
+  name: KR51 bundle
+  description: "Hidden threat: The classic KR51 automatic rifle, bundled with three magazines."
+  components:
+  - type: StorageFill
+    contents:
+      - id: WeaponRifleKR51
+      - id: MagazineLightRifle
+        amount: 2
+
+- type: entity
+  parent: BriefcaseNT
+  id: WeaponCaseAsh9
+  name: case with Ash9
+  description: i hate this shit
+  components:
+  - type: StorageFill
+    contents:
+      - id: WeaponRifleAsh9
+      - id: MagazineUniversal
+        amount: 2
+      - id: MagazineUniversalShortHv
+      - id: WeaponRevolverRsh18
+
+- type: entity
+  parent: BriefcaseNT
+  id: WeaponCaseSaiga
+  name: case with Saiga
+  description: bozo xd
+  components:
+  - type: StorageFill
+    contents:
+      - id: WeaponShotgunSaiga
+      - id: MagazineShotgunSaiga
+        amount: 2
+      - id: WeaponRevolverRsh18

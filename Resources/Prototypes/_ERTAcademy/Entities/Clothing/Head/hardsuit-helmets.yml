@@ -1,0 +1,467 @@
+#BlueShield
+- type: entity
+  parent: ClothingHeadHelmetHardsuitSyndie
+  id: ClothingHeadHelmetHardsuitBlueShield
+  noSpawn: true
+  name: blueshield hardsuit helmet
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/blueshield.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/blueshield.rsi
+  - type: PointLight
+    color: "#6088FF"
+
+#QM Hardsuit
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase
+  id: ClothingHeadHelmetHardsuitQM
+  noSpawn: true
+  name: quartermaster hardsuit helmet
+  description: A special helmet quatermaster.
+  components:
+  - type: Sprite
+    sprite: Debiloid1984/Clothing/Head/Hardsuits/kmsuit.rsi
+  - type: Clothing
+    sprite: Debiloid1984/Clothing/Head/Hardsuits/kmsuit.rsi
+  - type: PressureProtection
+    highPressureMultiplier: 0.525
+    lowPressureMultiplier: 1000
+  - type: PointLight
+    radius: 7
+    energy: 3
+
+#ANTAG HARDSUITS
+#Backmen
+#Blood-red Hardsuit
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase
+  id: ClothingHeadHelmetHardsuitSyndieBackmen
+  name: blood-red hardsuit helmet
+  description: A heavily armored helmet designed for work in special operations. Property of Gorlex Marauders.
+  components:
+  - type: Sprite
+    sprite: Backmen/Clothing/Head/Hardsuits/syndicate.rsi #backmen resprite
+  - type: Clothing
+    sprite: Backmen/Clothing/Head/Hardsuits/syndicate.rsi #backmen resprite
+  - type: PointLight
+    color: green
+  - type: PressureProtection
+    highPressureMultiplier: 0.08
+    lowPressureMultiplier: 1000
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+  - type: TinfoilHat
+    destroyOnFry: false
+
+#Blood-red Medic Hardsuit
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase
+  id: ClothingHeadHelmetHardsuitSyndieMedicBackmen
+  name: blood-red medic hardsuit helmet
+  description: An advanced red hardsuit helmet specifically designed for field medic operations.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Hardsuits/syndiemedic.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Hardsuits/syndiemedic.rsi
+  - type: PointLight
+    color: green
+  - type: PressureProtection
+    highPressureMultiplier: 0.08
+    lowPressureMultiplier: 1000
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+  - type: TinfoilHat
+    destroyOnFry: false
+
+#Syndicate Elite Hardsuit
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase
+  id: ClothingHeadHelmetHardsuitSyndieEliteBackmen
+  name: syndicate elite helmet
+  description: An elite version of the blood-red hardsuit's helmet, with improved armor and fireproofing. Property of Gorlex Marauders.
+  components:
+  - type: Sprite
+    sprite: Backmen/Clothing/Head/Hardsuits/syndieelite.rsi #backmen resprite
+  - type: Clothing
+    sprite: Backmen/Clothing/Head/Hardsuits/syndieelite.rsi #backmen resprite
+  - type: PointLight
+    color: red
+  - type: PressureProtection
+    highPressureMultiplier: 0.08
+    lowPressureMultiplier: 1000
+  - type: TemperatureProtection
+    coefficient: 0.005
+  - type: FireProtection
+    reduction: 0.2
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+  - type: TinfoilHat
+    destroyOnFry: false
+
+#Syndicate Commander Hardsuit
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase
+  id: ClothingHeadHelmetHardsuitSyndieCommanderBackmen
+  name: syndicate commander helmet
+  description: A bulked up version of the blood-red hardsuit's helmet, purpose-built for the commander of a syndicate operative squad. Has significantly improved armor for those deadly front-lines firefights.
+  components:
+  - type: Sprite
+    sprite: Backmen/Clothing/Head/Hardsuits/syndiecommander.rsi #backmen resprite
+  - type: Clothing
+    sprite: Backmen/Clothing/Head/Hardsuits/syndiecommander.rsi #backmen resprite
+  - type: PointLight
+    color: green
+  - type: PressureProtection
+    highPressureMultiplier: 0.08
+    lowPressureMultiplier: 1000
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+  - type: TinfoilHat
+    destroyOnFry: false
+
+#Cybersun Juggernaut Hardsuit
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase # Corvax-Resprite
+  id: ClothingHeadHelmetHardsuitCybersunBackmen
+  name: cybersun juggernaut helmet
+  description: Made of compressed red matter, this helmet was designed in the Tau chromosphere facility.
+  components:
+  - type: Sprite
+    sprite: Backmen/Clothing/Head/Hardsuits/cybersun.rsi #backmen resprite
+  - type: Clothing
+    sprite: Backmen/Clothing/Head/Hardsuits/cybersun.rsi #backmen resprite
+  - type: PointLight # Corvax-Resprite
+    color: red
+  - type: PressureProtection
+    highPressureMultiplier: 0.3
+    lowPressureMultiplier: 1000
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+  - type: TinfoilHat
+    destroyOnFry: false
+
+#Corvax
+#Blood-red Hardsuit
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase
+  id: ClothingHeadHelmetHardsuitSyndieCorvax
+  name: blood-red hardsuit helmet
+  description: A heavily armored helmet designed for work in special operations. Property of Gorlex Marauders.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/Corvax/syndicate.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/Corvax/syndicate.rsi
+  - type: PointLight
+    color: green
+  - type: PressureProtection
+    highPressureMultiplier: 0.08
+    lowPressureMultiplier: 1000
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+
+#Blood-red Medic Hardsuit
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase
+  id: ClothingHeadHelmetHardsuitSyndieMedicCorvax
+  name: blood-red medic hardsuit helmet
+  description: An advanced red hardsuit helmet specifically designed for field medic operations.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/Corvax/syndiemedic.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/Corvax/syndiemedic.rsi
+  - type: PointLight
+    color: green
+  - type: PressureProtection
+    highPressureMultiplier: 0.08
+    lowPressureMultiplier: 1000
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+
+#Syndicate Elite Hardsuit
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase
+  id: ClothingHeadHelmetHardsuitSyndieEliteCorvax
+  name: syndicate elite helmet
+  description: An elite version of the blood-red hardsuit's helmet, with improved armor and fireproofing. Property of Gorlex Marauders.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/Corvax/syndieelite.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/Corvax/syndieelite.rsi
+  - type: PointLight
+    color: red
+  - type: PressureProtection
+    highPressureMultiplier: 0.08
+    lowPressureMultiplier: 1000
+  - type: TemperatureProtection
+    coefficient: 0.005
+  - type: FireProtection
+    reduction: 0.2
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+
+#Syndicate Commander Hardsuit
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase
+  id: ClothingHeadHelmetHardsuitSyndieCommanderCorvax
+  name: syndicate commander helmet
+  description: A bulked up version of the blood-red hardsuit's helmet, purpose-built for the commander of a syndicate operative squad. Has significantly improved armor for those deadly front-lines firefights.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/Corvax/syndiecommander.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/Corvax/syndiecommander.rsi
+  - type: PointLight
+    color: green
+  - type: PressureProtection
+    highPressureMultiplier: 0.08
+    lowPressureMultiplier: 1000
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+
+#Cybersun Juggernaut Hardsuit
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase # Corvax-Resprite
+  id: ClothingHeadHelmetHardsuitCybersunCorvax
+  name: cybersun juggernaut helmet
+  description: Made of compressed red matter, this helmet was designed in the Tau chromosphere facility.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/Corvax/cybersun.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/Corvax/cybersun.rsi
+  - type: PointLight # Corvax-Resprite
+    color: red
+  - type: PressureProtection
+    highPressureMultiplier: 0.3
+    lowPressureMultiplier: 1000
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+
+#SunRise
+#Blood-red Hardsuit
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase
+  id: ClothingHeadHelmetHardsuitSyndieSunRise
+  name: blood-red hardsuit helmet
+  description: A heavily armored helmet designed for work in special operations. Property of Gorlex Marauders.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/SunRise/syndicate.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/SunRise/syndicate.rsi
+  - type: PointLight
+    color: green
+  - type: PressureProtection
+    highPressureMultiplier: 0.08
+    lowPressureMultiplier: 1000
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+
+#Blood-red Medic Hardsuit
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase
+  id: ClothingHeadHelmetHardsuitSyndieMedicSunRise
+  name: blood-red medic hardsuit helmet
+  description: An advanced red hardsuit helmet specifically designed for field medic operations.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/SunRise/syndiemedic.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/SunRise/syndiemedic.rsi
+  - type: PointLight
+    color: green
+  - type: PressureProtection
+    highPressureMultiplier: 0.08
+    lowPressureMultiplier: 1000
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+
+#Syndicate Elite Hardsuit
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase
+  id: ClothingHeadHelmetHardsuitSyndieEliteSunRise
+  name: syndicate elite helmet
+  description: An elite version of the blood-red hardsuit's helmet, with improved armor and fireproofing. Property of Gorlex Marauders.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/SunRise/syndieelite.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/SunRise/syndieelite.rsi
+  - type: PointLight
+    color: red
+  - type: PressureProtection
+    highPressureMultiplier: 0.08
+    lowPressureMultiplier: 1000
+  - type: TemperatureProtection
+    coefficient: 0.005
+  - type: FireProtection
+    reduction: 0.2
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+
+#Syndicate Commander Hardsuit
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase
+  id: ClothingHeadHelmetHardsuitSyndieCommanderSunRise
+  name: syndicate commander helmet
+  description: A bulked up version of the blood-red hardsuit's helmet, purpose-built for the commander of a syndicate operative squad. Has significantly improved armor for those deadly front-lines firefights.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/SunRise/syndiecommander.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/SunRise/syndiecommander.rsi
+  - type: PointLight
+    color: green
+  - type: PressureProtection
+    highPressureMultiplier: 0.08
+    lowPressureMultiplier: 1000
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+
+#XenoStation/IanStation
+#Blood-red Hardsuit
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase
+  id: ClothingHeadHelmetHardsuitSyndieXeno
+  name: blood-red hardsuit helmet
+  description: A heavily armored helmet designed for work in special operations. Property of Gorlex Marauders.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/XenoStation/syndicate.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/XenoStation/syndicate.rsi
+  - type: PointLight
+    color: green
+  - type: PressureProtection
+    highPressureMultiplier: 0.08
+    lowPressureMultiplier: 1000
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+
+#Blood-red Medic Hardsuit
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase
+  id: ClothingHeadHelmetHardsuitSyndieMedicXeno
+  name: blood-red medic hardsuit helmet
+  description: An advanced red hardsuit helmet specifically designed for field medic operations.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/XenoStation/syndiemedic.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/XenoStation/syndiemedic.rsi
+  - type: PointLight
+    color: green
+  - type: PressureProtection
+    highPressureMultiplier: 0.08
+    lowPressureMultiplier: 1000
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+
+#Syndicate Commander Hardsuit
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase
+  id: ClothingHeadHelmetHardsuitSyndieCommanderXeno
+  name: syndicate commander helmet
+  description: A bulked up version of the blood-red hardsuit's helmet, purpose-built for the commander of a syndicate operative squad. Has significantly improved armor for those deadly front-lines firefights.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/XenoStation/syndiecommander.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Head/Hardsuits/NukeOps/XenoStation/syndiecommander.rsi
+  - type: PointLight
+    color: green
+  - type: PressureProtection
+    highPressureMultiplier: 0.08
+    lowPressureMultiplier: 1000
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9

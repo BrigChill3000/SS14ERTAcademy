@@ -1,0 +1,9 @@
+# Jumpsuit
+- type: loadout
+  id: RecruitJumpsuit
+  equipment: RecruitJumpsuit
+
+- type: startingGear
+  id: RecruitJumpsuit
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitERTRecruit
