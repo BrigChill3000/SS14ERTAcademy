@@ -1,4 +1,5 @@
 ﻿using System.Threading.Tasks;
+using Content.Server.Backmen.TTS;
 using Content.Server.SS220.Chat.Systems;
 using Content.Shared.Corvax.TTS;
 using Content.Shared.SS220.AnnounceTTS;
@@ -20,7 +21,16 @@ public sealed partial class TTSSystem
             return;
         }
 
-        var soundData = await GenerateTtsAnnouncement(args.Message, protoVoice.Speaker);
+        byte[]? soundData = null;
+        try
+        {
+            soundData = await GenerateTtsAnnouncement(args.Message, protoVoice.Speaker);
+
+        }
+        catch (Exception)
+        {
+            // skip!
+        }
         soundData ??= new byte[] { };
         RaiseNetworkEvent(new AnnounceTTSEvent(soundData, args.AnnouncementSound, args.AnnouncementSoundParams), args.Source);
     }
