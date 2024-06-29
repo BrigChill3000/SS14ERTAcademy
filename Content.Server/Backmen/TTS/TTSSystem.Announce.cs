@@ -1,5 +1,4 @@
 ﻿using System.Threading.Tasks;
-using Content.Server.Backmen.TTS;
 using Content.Server.SS220.Chat.Systems;
 using Content.Shared.Corvax.TTS;
 using Content.Shared.SS220.AnnounceTTS;
