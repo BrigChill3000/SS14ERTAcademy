@@ -10,4 +10,3 @@ ent-ClothingHeadHatSecsoftBlue = { ent-ClothingHeadHatSecsoft }
 ent-ClothingHeadHatBeretAmilitary = берет начальника безопасности академии
     .desc = { ent-ClothingHeadHatBeretHoS.desc }
     .suffix = { "" }
-	
