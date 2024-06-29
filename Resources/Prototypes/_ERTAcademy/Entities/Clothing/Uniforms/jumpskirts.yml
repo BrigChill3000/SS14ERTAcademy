@@ -55,7 +55,7 @@
 
 - type: entity
   parent: ClothingUniformJumpskirtHoS
-  id: ClothingUniformJumpskirtHoSBlue
+  id: ClothingUniformJumpskirtHoS2Blue
   name: head of security's jumpskirt
   description: It's bright red and rather crisp, much like security's victims tend to be.
   components:
@@ -88,7 +88,7 @@
 
 - type: entity
   parent: ClothingUniformJumpskirtSec
-  id: ClothingUniformJumpskirtSecBlue
+  id: ClothingUniformJumpskirtSec2Blue
   name: security jumpskirt
   description: A jumpskirt made of strong material, providing robust protection.
   components:
