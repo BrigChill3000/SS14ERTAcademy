@@ -18,6 +18,15 @@
 
 - type: entity
   parent: ClothingBackpackSatchel
+  id: ClothingBackpackSatchelBrigmedicNew
+  name: brigmedic satchel
+  description: A sterile satchel for medical related needs.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Back/Satchels/brigmedic.rsi
+
+- type: entity
+  parent: ClothingBackpackSatchel
   id: ClothingBackpackSatchelSecurityBlue
   name: security satchel
   description: A robust satchel for security related needs.
