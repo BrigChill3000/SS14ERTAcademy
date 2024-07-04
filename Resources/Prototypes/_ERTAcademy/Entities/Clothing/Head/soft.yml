@@ -11,5 +11,5 @@
 
 - type: entity
   parent: [ClothingHeadHeadHatBaseFlipped, ClothingHeadHatSecsoftBlue]
-  id: ClothingHeadHatSecsoftFlipped
+  id: ClothingHeadHatSecsoftBlueFlipped
   name: security cap
