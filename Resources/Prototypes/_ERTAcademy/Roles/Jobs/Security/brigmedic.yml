@@ -10,7 +10,7 @@
     - !type:DepartmentTimeRequirement
       department: Security
       time: 25200 #7 hrs
-  startingGear: BrigmedicGear
+  startingGear: BrigmedicGearNew
   icon: "JobIconBrigmedic"
   supervisors: job-supervisors-hos
   canBeAntag: false
@@ -26,16 +26,11 @@
     implants: [ MindShieldImplant ]
 
 - type: startingGear
-  id: BrigmedicGear
+  id: BrigmedicNewGear
   equipment:
-    shoes: ClothingShoesBootsJack
-    gloves: ClothingHandsGlovesLatex
     eyes: ClothingEyesGlassesMed
     id: BrigmedicPDA
     ears: ClothingHeadsetBrigmedic
-    belt: ClothingBeltMedicalFilled
-    pocket1: WeaponPistolMk58Nonlethal
-    pocket2: TelescopicBaton
   storage:
     back:
     - BoxSurvivalBrigmedic
