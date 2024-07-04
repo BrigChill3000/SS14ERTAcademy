@@ -113,15 +113,6 @@
 
 # Belt
 - type: loadout
-  id: SecurityBelt
-  equipment: SecurityBelt
-
-- type: startingGear
-  id: SecurityBelt
-  equipment:
-    belt: ClothingBeltSecurityFilled
-
-- type: loadout
   id: BlueShieldWebbing
   equipment: BlueShieldWebbing
 
