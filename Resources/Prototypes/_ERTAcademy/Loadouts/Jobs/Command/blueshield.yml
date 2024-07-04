@@ -117,7 +117,7 @@
   equipment: BlueShieldWebbing
 
 - type: startingGear
-  id: SecurityWebbing
+  id: BlueShieldWebbing
   equipment:
     belt: ClothingBeltBlueShieldWebbingFilled
 
