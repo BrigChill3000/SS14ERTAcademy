@@ -18,6 +18,15 @@
 
 - type: entity
   parent: ClothingBackpackDuffel
+  id: ClothingBackpackDuffelBrigmedicNew
+  name: brigmedic duffel bag
+  description: A large duffel bag for holding extra medical related goods.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Back/Duffels/brigmedic.rsi
+
+- type: entity
+  parent: ClothingBackpackDuffel
   id: ClothingBackpackDuffelSecurityBlue
   name: security duffel bag
   description: A large duffel bag for holding extra security related goods.
