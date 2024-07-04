@@ -169,7 +169,7 @@
     jumpsuit: ClothingUniformJumpsuitSeniorOfficerBlue
 
 - type: loadout
-  id: SeniorOfficerJumpskirt
+  id: SeniorOfficerJumpskirtBlue
   equipment: SeniorOfficerJumpskirtBlue
   effects:
   - !type:GroupLoadoutEffect
