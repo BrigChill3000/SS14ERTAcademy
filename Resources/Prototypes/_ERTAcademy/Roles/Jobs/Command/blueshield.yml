@@ -40,15 +40,11 @@
 - type: startingGear
   id: BlueShieldGear
   equipment:
-    shoes: ClothingShoesBootsSpetsnazFilled
     eyes: ClothingEyesGlassesSunglassesBlueShield
-    head: ClothingHeadHatBeretBlueShield
     gloves: ClothingHandsTacticalBlueShield
     outerClothing: ClothingOuterArmorBlueshield
     id: BlueShieldPDA
     ears: ClothingHeadsetAltCommand
-    belt: ClothingBeltBlueShieldWebbingFilled
-    pocket1: WeaponRevolverRsh18
   storage:
     back:
     - BoxSurvivalBlueShield
