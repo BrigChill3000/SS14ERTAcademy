@@ -8,26 +8,8 @@
       role: JobBlueShield
       time: 54000 #15 hrs
     - !type:RoleTimeRequirement
-      role: JobCaptain
-      time: 72000 #20 hrs
-    - !type:RoleTimeRequirement
-      role: JobHeadOfSecurity
-      time: 54000 #15 hrs
-    - !type:RoleTimeRequirement
-      role: JobChiefMedicalOfficer
-      time: 54000 #15 hrs
-    - !type:RoleTimeRequirement
       role: JobHeadOfPersonnel
       time: 54000 #15 hrs
-    - !type:RoleTimeRequirement
-      role: JobResearchDirector
-      time: 54000 #15 hrs
-    - !type:RoleTimeRequirement
-      role: JobChiefEngineer
-      time: 54000 #15 hrs
-    - !type:RoleTimeRequirement
-      role: JobQuartermaster
-      time: 36000 #10 hrs
     - !type:DepartmentTimeRequirement
       department: Command
       time: 468000  # 130 hours
