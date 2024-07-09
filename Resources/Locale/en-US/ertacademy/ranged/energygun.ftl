@@ -3,8 +3,6 @@ energygun-examine-fire-mode = The firemode is set to {$mode}
 ent-WeaponEnergyGun = energy gun
     .desc = Basic hybrid energy with two modes of operation: disarm and fly.
 
-ent-WeaponEnergyGunMultiphase = X-01 multiphase energy gun
-    .desc = This is an expensive modern reconstruction of an antique laser pistol. The pistol has several unique firing modes, but lacks the ability to reload over time.
 ent-WeaponEnergyGunMini = miniature energy cannon
     .desc = A lighter version of the energy pistol with a smaller capacity.
 
