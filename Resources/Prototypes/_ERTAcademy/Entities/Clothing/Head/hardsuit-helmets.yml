@@ -56,8 +56,6 @@
         Slash: 0.9
         Piercing: 0.9
         Heat: 0.9
-  - type: TinfoilHat
-    destroyOnFry: false
 
 #Blood-red Medic Hardsuit
 - type: entity
@@ -82,8 +80,6 @@
         Slash: 0.9
         Piercing: 0.9
         Heat: 0.9
-  - type: TinfoilHat
-    destroyOnFry: false
 
 #Syndicate Elite Hardsuit
 - type: entity
@@ -112,8 +108,6 @@
         Slash: 0.9
         Piercing: 0.9
         Heat: 0.9
-  - type: TinfoilHat
-    destroyOnFry: false
 
 #Syndicate Commander Hardsuit
 - type: entity
@@ -138,8 +132,6 @@
         Slash: 0.9
         Piercing: 0.9
         Heat: 0.9
-  - type: TinfoilHat
-    destroyOnFry: false
 
 #Cybersun Juggernaut Hardsuit
 - type: entity
@@ -164,8 +156,6 @@
         Slash: 0.9
         Piercing: 0.9
         Heat: 0.9
-  - type: TinfoilHat
-    destroyOnFry: false
 
 #Corvax
 #Blood-red Hardsuit
