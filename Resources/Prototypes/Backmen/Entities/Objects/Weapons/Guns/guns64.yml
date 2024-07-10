@@ -3910,7 +3910,6 @@
         layer:
         - MidImpassable
         mask:
-        - BlobImpassable
         - MidImpassable
   - type: PointLight
     enabled: true
