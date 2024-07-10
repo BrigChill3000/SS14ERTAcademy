@@ -129,25 +129,3 @@
     sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/security_grey.rsi
   - type: Clothing
     sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/security_grey.rsi
-
-- type: entity
-  parent: ClothingUniformSkirtBase
-  id: ClothingUniformJumpskirtCentcomConsultant
-  name: CentCom consultant jumpskirt
-  description: "A green jumpskirt with gold accents, and wide shoulder pads, for those who like to show off their real power."
-  components:
-  - type: Sprite
-    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/centcom_consultant.rsi
-  - type: Clothing
-    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/centcom_consultant.rsi
-
-- type: entity
-  parent: ClothingUniformSkirtBase
-  id: ClothingUniformJumpskirtCentcomConsultantFormal
-  name: CentCom consultant's formal jumpskirt
-  description: "The formal jumpskirt of the most important representative on the station. It clearly suits you, sir."
-  components:
-  - type: Sprite
-    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/centcom_consultant_formal.rsi
-  - type: Clothing
-    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/centcom_consultant_formal.rsi
