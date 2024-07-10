@@ -868,8 +868,8 @@
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/akms/tiny.rsi
   - type: Item
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/akms/tiny.rsi
-  - type: BkmGunWieldBonus
-    cameraRecoilScalar: -3.5
+#  - type: BkmGunWieldBonus
+#    cameraRecoilScalar: -3.5
   - type: GunWieldBonus
     minAngle: -23
     maxAngle: 0
@@ -940,8 +940,8 @@
   - type: Item
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/aksu.rsi
     size: NormalLarge
-  - type: BkmGunWieldBonus
-    cameraRecoilScalar: -3
+#  - type: BkmGunWieldBonus
+#    cameraRecoilScalar: -3
   - type: GunWieldBonus
     minAngle: -23
     maxAngle: 0
@@ -1005,8 +1005,8 @@
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/ar18/tiny.rsi
   - type: Item
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/ar18/tiny.rsi
-  - type: BkmGunWieldBonus
-    cameraRecoilScalar: -4
+#  - type: BkmGunWieldBonus
+#    cameraRecoilScalar: -4
   - type: GunWieldBonus
     minAngle: -23
     maxAngle: 0
@@ -1070,8 +1070,8 @@
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/g36/tiny.rsi
   - type: Item
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/g36/tiny.rsi
-  - type: BkmGunWieldBonus
-    cameraRecoilScalar: -4
+#  - type: BkmGunWieldBonus
+#    cameraRecoilScalar: -4
   - type: GunWieldBonus
     minAngle: -23
     maxAngle: 0
@@ -1140,8 +1140,8 @@
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/m28/tiny.rsi
   - type: Item
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/m28/tiny.rsi
-  - type: BkmGunWieldBonus
-    cameraRecoilScalar: -4
+#  - type: BkmGunWieldBonus
+#    cameraRecoilScalar: -4
   - type: GunWieldBonus
     minAngle: -23
     maxAngle: 0
@@ -1226,8 +1226,8 @@
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/stg44/tiny.rsi
   - type: Item
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/stg44/tiny.rsi
-  - type: BkmGunWieldBonus
-    cameraRecoilScalar: -4
+#  - type: BkmGunWieldBonus
+#    cameraRecoilScalar: -4
   - type: GunWieldBonus
     minAngle: -23
     maxAngle: 0
@@ -1291,8 +1291,8 @@
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/m16/tiny.rsi
   - type: Item
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/m16/tiny.rsi
-  - type: BkmGunWieldBonus
-    cameraRecoilScalar: -4
+#  - type: BkmGunWieldBonus
+#    cameraRecoilScalar: -4
   - type: GunWieldBonus
     minAngle: -23
     maxAngle: 0
@@ -1354,8 +1354,8 @@
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/famas/tiny.rsi
   - type: Item
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/famas/tiny.rsi
-  - type: BkmGunWieldBonus
-    cameraRecoilScalar: -4
+#  - type: BkmGunWieldBonus
+#    cameraRecoilScalar: -4
   - type: GunWieldBonus
     minAngle: -23
     maxAngle: 0
