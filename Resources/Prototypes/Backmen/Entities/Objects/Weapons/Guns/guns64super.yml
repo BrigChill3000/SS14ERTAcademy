@@ -16,8 +16,8 @@
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/akms/tinysuper.rsi
   - type: Item
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/akms/tinysuper.rsi
-  - type: BkmGunWieldBonus
-    cameraRecoilScalar: -4.5
+#  - type: BkmGunWieldBonus
+#    cameraRecoilScalar: -4.5
   - type: GunWieldBonus
     angleIncrease: -3
   - type: Gun
@@ -51,8 +51,8 @@
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/m28/tinysuper.rsi
   - type: Item
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/m28/tinysuper.rsi
-  - type: BkmGunWieldBonus
-    cameraRecoilScalar: -4.5
+#  - type: BkmGunWieldBonus
+#    cameraRecoilScalar: -4.5
   - type: GunWieldBonus
     minAngle: -23
     maxAngle: 0
@@ -89,8 +89,8 @@
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/g36/tinysuper.rsi
   - type: Item
     sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/g36/tinysuper.rsi
-  - type: BkmGunWieldBonus
-    cameraRecoilScalar: -4.5
+#  - type: BkmGunWieldBonus
+#    cameraRecoilScalar: -4.5
   - type: GunWieldBonus
     minAngle: -23
     maxAngle: 0
@@ -130,8 +130,8 @@
       path: /Audio/Weapons/Guns/Gunshots/silenced.ogg
       params:
         volume: -3
-  - type: BkmGunWieldBonus
-    cameraRecoilScalar: -4.5
+#  - type: BkmGunWieldBonus
+#    cameraRecoilScalar: -4.5
   - type: GunWieldBonus
     minAngle: -22
     maxAngle: -28
@@ -162,8 +162,8 @@
     sprite: Backmen/Objects/Weapons/Gunsx64/SMGs/mp5/tinysuper.rsi
   - type: Item
     sprite: Backmen/Objects/Weapons/Gunsx64/SMGs/mp5/tinysuper.rsi
-  - type: BkmGunWieldBonus
-    cameraRecoilScalar: -4.5
+#  - type: BkmGunWieldBonus
+#    cameraRecoilScalar: -4.5
   - type: GunWieldBonus
     minAngle: -22
     maxAngle: 0
