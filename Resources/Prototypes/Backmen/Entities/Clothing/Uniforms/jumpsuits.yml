@@ -5,9 +5,9 @@
   description: The galactic suit contains pieces of redspace. Created by the ancient dwarf Myphistopheles for the purposes of the Red Order.
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/blue_fuvala.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/blue_fuvala.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/blue_fuvala.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/blue_fuvala.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -16,9 +16,9 @@
   description: The galactic suit contains pieces of redspace. Created by the ancient dwarf Myphistopheles for the purposes of the Red Order.
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/red_fuvala.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/red_fuvala.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/red_fuvala.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/red_fuvala.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -27,9 +27,9 @@
   description: Военная форма немецких войск
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/germansoldierbel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/germansoldierbel.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/germansoldierbel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/germansoldierbel.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -38,9 +38,9 @@
   description: Форма которую носят немецкие офицеры
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/officergermanbel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/officergermanbel.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/officergermanbel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/officergermanbel.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -49,9 +49,9 @@
   description: Опрятная форма бойца фракции СССП
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/ssspsuitbel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/ssspsuitbel.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/ssspsuitbel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/ssspsuitbel.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -60,9 +60,9 @@
   description: Опрятная форма офицера фракции СССП
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/officerssspsuitbel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/officerssspsuitbel.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/officerssspsuitbel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/officerssspsuitbel.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -71,9 +71,9 @@
   description: Великолепно опрятный, элегантный и очень дорогой президента корпорации.
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/elpresidentenanobel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/elpresidentenanobel.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/elpresidentenanobel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/elpresidentenanobel.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -82,9 +82,9 @@
   description: Великолепный костюм корпорационной шишки
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/nanotrasenpredstavbel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/nanotrasenpredstavbel.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/nanotrasenpredstavbel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/nanotrasenpredstavbel.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -93,9 +93,9 @@
   description: Покажите кто тут главный в транс-солнечной-федерации!
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/solgovpredstavbel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/solgovpredstavbel.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/solgovpredstavbel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/solgovpredstavbel.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -104,9 +104,9 @@
   description: Руководите военными силами ТСФ!
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/solgovleutetantbel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/solgovleutetantbel.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/solgovleutetantbel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/solgovleutetantbel.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -115,9 +115,9 @@
   description: Служите во славу ТСФ!
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/solgovsoldierbel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/solgovsoldierbel.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/solgovsoldierbel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/solgovsoldierbel.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -126,9 +126,9 @@
   description: Светло-серая водолазка без опознавательных знаков, которая носится членами МОГ спецподразделения Браво-716
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/mtf_turtleneck.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/mtf_turtleneck.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/mtf_turtleneck.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/mtf_turtleneck.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -137,9 +137,9 @@
   description: A suit imbued with strong male relationships and solidarity!
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/gachi.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/gachi.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/gachi.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/gachi.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -148,9 +148,9 @@
   description:  Невероятно дорогой костюм Арбитра неизвестной корпорации.В комплекте идет золотая серьга в виде черепа и 2 золотых кольца
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/arbitr_eblan.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/arbitr_eblan.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/arbitr_eblan.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/arbitr_eblan.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -159,9 +159,9 @@
   description: A sturdy jumpskirt, issued to members of the Cargo department for postal work.
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/cargopostal.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/cargopostal.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/cargopostal.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/cargopostal.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -170,9 +170,9 @@
   description: Дорогой костюм распространенный в дорогих местах.
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/avdpoloska.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/avdpoloska.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/avdpoloska.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/avdpoloska.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -181,9 +181,9 @@
   description: Дорогой костюм распространенный в дорогих местах.
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/avdvictoriavest.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/avdvictoriavest.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/avdvictoriavest.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/avdvictoriavest.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -192,9 +192,9 @@
   description: Тот самый костюм который носил преступник под псевдонимом Джокер
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/jokersuitbel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/jokersuitbel.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/jokersuitbel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/jokersuitbel.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -203,9 +203,9 @@
   description: Костюм сделанный по специальному заказу, ранее пренадлежал агенту 47
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/syndicatetactic.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/syndicatetactic.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/syndicatetactic.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/syndicatetactic.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -214,9 +214,9 @@
   description: Увольте пару срочников!
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/magistratebel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/magistratebel.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/magistratebel.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/magistratebel.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -225,9 +225,9 @@
   description: Носитель данного костюма обязан защищать глав.
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/blueshieldformal.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/blueshieldformal.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/blueshieldformal.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/blueshieldformal.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -236,9 +236,9 @@
   description: Вот прелесть карпоративной жизни, стильные костюмы в тему!
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/centcom-official.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/centcom-official.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/centcom-official.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/centcom-official.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -247,9 +247,9 @@
   description: Носитель данного костюма обязан принести чащечку кофе.
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/centcom-intern.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/centcom-intern.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/centcom-intern.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/centcom-intern.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -258,9 +258,9 @@
   description: Свободная и крепкая униформа спец сил ЦК.
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/centcom-military.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/centcom-military.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/centcom-military.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/centcom-military.rsi
   - type: Armor
     modifiers:
       coefficients:
@@ -276,9 +276,9 @@
   description: Пахнет пиццей
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/space_club.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/space_club.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/space_club.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/space_club.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -287,9 +287,9 @@
   description: A rugged set of overalls for trekking across the stars.
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/explorer.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/explorer.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/explorer.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/explorer.rsi
 
 - type: entity
   parent: ClothingOuterStorageBase
@@ -309,9 +309,9 @@
   description: Some drab but functional clothing.
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/tshirt_khaki.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/tshirt_khaki.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/tshirt_khaki.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/tshirt_khaki.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -320,9 +320,9 @@
   description: Enemy of dogs everywhere.
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/mailman.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/mailman.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/mailman.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/mailman.rsi
 #    - type: ClothingAddFaction
 #      faction: Mailman
 
@@ -346,9 +346,9 @@
   description: Лёгкая и комфортная водолазка
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/eug-jumpsuit.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/eug-jumpsuit.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/eug-jumpsuit.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/eug-jumpsuit.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -357,9 +357,9 @@
   description: Униформа с безполезным камуфляжем. Лучше не связыватся с её обладателями
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/eug-officer-jumpsuit.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/eug-officer-jumpsuit.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/eug-officer-jumpsuit.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/eug-officer-jumpsuit.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -368,9 +368,9 @@
   description: Полевая униформа канонира.
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/cannonier.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/cannonier.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/cannonier.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/cannonier.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -379,9 +379,9 @@
   description: Парадная униформа канонира.
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/cannonier_uniform.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/cannonier_uniform.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/cannonier_uniform.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/cannonier_uniform.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -390,9 +390,9 @@
   description: Полевая униформа Приватного Офицера СБ ЦК
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/centcom-private_officer.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/centcom-private_officer.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/centcom-private_officer.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/centcom-private_officer.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -401,9 +401,9 @@
   description: Полевая униформа Старшего Офицера ЦК
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/centcom-senior_officer.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/centcom-senior_officer.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/centcom-senior_officer.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/centcom-senior_officer.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -412,9 +412,9 @@
   description: Парадная униформа Старшего Офицера ЦК
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/centcom-senior_officer_uniform.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/centcom-senior_officer_uniform.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/centcom-senior_officer_uniform.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/centcom-senior_officer_uniform.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -423,9 +423,9 @@
   description: Полевая униформа Аналитика Информационной Безопасности
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/information_security_analyst.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/information_security_analyst.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/information_security_analyst.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/information_security_analyst.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -434,9 +434,9 @@
   description: Полевая униформа Штурмана
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/stutman.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/stutman.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/stutman.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/stutman.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -445,9 +445,9 @@
   description: Парадная униформа Штурмана
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/stutman_uniform.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/stutman_uniform.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/stutman_uniform.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/stutman_uniform.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -456,9 +456,9 @@
   description: По всей видимости это классический костюм французской горничной.
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/maid_black.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/maid_black.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/maid_black.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/maid_black.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -467,9 +467,9 @@
   description: Он такой же как и черный, но синий, не обижайте его владельца ;)
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/maid_blue.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/maid_blue.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/maid_blue.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/maid_blue.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -478,9 +478,9 @@
   description: Он такой же как и черный, но розовый, не обижайте его владельца ;)
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/maid_pink.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/maid_pink.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/maid_pink.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/maid_pink.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -489,9 +489,9 @@
   description: Униформа так и кричит "за ВДВ"
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/naval_uniform.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/naval_uniform.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/naval_uniform.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/naval_uniform.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -500,9 +500,9 @@
   description: Может сегодня повезёт и пообщаемся с капитаном достойно.
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/tracksuit.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/tracksuit.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/tracksuit.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/tracksuit.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -511,9 +511,9 @@
   description:  Весьма стильно для данного рода занятий
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/vampsuit.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/vampsuit.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/vampsuit.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/vampsuit.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -522,9 +522,9 @@
   description: Вы чувствуете себя чем-то диким!
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/alxlaiho.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/alxlaiho.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/alxlaiho.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/alxlaiho.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -574,9 +574,9 @@
   description: Что вы знаете о нулях и хроносе?
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/psycrimson.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/psycrimson.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/psycrimson.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/psycrimson.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -585,9 +585,9 @@
   description: Халат у которого порван рукав, но для костюма на хэллоуин
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/null.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/null.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/null.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/null.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -596,9 +596,9 @@
   description: Вы чувствуете себя чем-то диким!
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/jecket.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/jecket.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/jecket.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/jecket.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -607,9 +607,9 @@
   description: Вы чувствуете себя чем-то диким!
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/biker.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/biker.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/biker.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/biker.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -618,9 +618,9 @@
   description: Jumpsuit made of dense camouflage fabric. Doesn't make you invisible.
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/marine_suit.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/marine_suit.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/marine_suit.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/marine_suit.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -629,9 +629,9 @@
   description: Navy officer uniform. Better than any stripes will emphasize your importance and rank.
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/officer_suit.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/officer_suit.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/officer_suit.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/officer_suit.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -640,9 +640,9 @@
   description: Officer uniform. Better than any stripes will emphasize your importance and rank.
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/officer_suitALT.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/officer_suitALT.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/officer_suitALT.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/officer_suitALT.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -651,9 +651,9 @@
   description: Inspector uniform. Better than any stripes will emphasize your importance and rank.
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/mvd.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/mvd.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/mvd.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/mvd.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -662,9 +662,9 @@
   description: White uniform.
   components:
     - type: Sprite
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/white.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/white.rsi
     - type: Clothing
-      sprite: Backmen/Clothing/Uniforms/jumpsuit/white.rsi
+      sprite: Backmen/Clothing/Uniforms/Jumpsuit/white.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -672,9 +672,9 @@
   name: officer uniform
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/officer.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/officer.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/officer.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/officer.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -682,9 +682,9 @@
   name: flot officer uniform
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/flot.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/flot.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/flot.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/flot.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -692,9 +692,9 @@
   name: grey uniform
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/grey.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/grey.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/grey.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/grey.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -702,9 +702,9 @@
   name: green uniform
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/green.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/green.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/green.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/green.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -712,9 +712,9 @@
   name: special force uniform
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/special.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/special.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/special.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/special.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -722,6 +722,6 @@
   name: staff officer uniform
   components:
   - type: Sprite
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/shtab.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/shtab.rsi
   - type: Clothing
-    sprite: Backmen/Clothing/Uniforms/jumpsuit/shtab.rsi
+    sprite: Backmen/Clothing/Uniforms/Jumpsuit/shtab.rsi
