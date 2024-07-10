@@ -162,3 +162,25 @@
     state: pda
   - type: PdaBorderColor
     borderColor: "#717059"
+
+- type: entity
+  parent: BasePDA
+  id: CentcomConsultantPDA
+  name: CentCom consultant PDA
+  description: Light green sign of walking bureaucracy.
+  components:
+  - type: Pda
+    id: CentcomConsultantIDCard
+    state: pda-centcom
+    penSlot:
+      startingItem: PenCentcom
+      priority: -1
+      whitelist:
+        tags:
+        - Write
+  - type: PdaBorderColor
+    borderColor: "#15b115"
+    accentHColor: "#dfc910"
+    accentVColor: "#dfc910"
+  - type: Icon
+    state: pda-centcom
