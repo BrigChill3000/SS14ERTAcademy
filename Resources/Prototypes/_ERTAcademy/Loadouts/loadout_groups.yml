@@ -1,7 +1,7 @@
 #CentCom
 - type: loadoutGroup
   id: CentComBackpack
-  name: loadout-group-CentCom-backpack
+  name: loadout-group-centcom-backpack
   loadouts:
   - CentComBackpack
   - CentComSatchel
