@@ -10,8 +10,8 @@ loadout-group-blueshield-outerclothing = Верхняя одежда синег�
 loadout-group-blueshield-belt = Пояс синего щита
 
 # CentCom
-loadout-group-consultant-head = Голова консультанта цк
-loadout-group-consultant-jumpsuit = Комбинезон консультанта цк
-loadout-group-consultant-neck = Шея консультанта цк
-loadout-group-consultant-backpack = Рюкзак консультанта цк
-loadout-group-consultant-outerclothing = Верхняя одежда консультанта цк
+loadout-group-consultant-head = Голова консультанта ЦК
+loadout-group-consultant-jumpsuit = Комбинезон консультанта ЦК
+loadout-group-consultant-neck = Шея консультанта ЦК
+loadout-group-centcom-backpack = Рюкзак ЦентКом
+loadout-group-consultant-outerclothing = Верхняя одежда консультанта ЦК
