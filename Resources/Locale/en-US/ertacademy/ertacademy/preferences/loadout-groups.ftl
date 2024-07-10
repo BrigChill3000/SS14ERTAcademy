@@ -15,5 +15,5 @@ loadout-group-blueshield-belt = Belt Blueshield
 loadout-group-consultant-head = Head Consultant
 loadout-group-consultant-jumpsuit = Jumpsuit Consultant
 loadout-group-consultant-neck = Neck Consultant
-loadout-group-consultant-backpack = Backpack Consultant
+loadout-group-centcom-backpack = Backpack CentCom
 loadout-group-consultant-outerclothing = Outerwear Consultant
