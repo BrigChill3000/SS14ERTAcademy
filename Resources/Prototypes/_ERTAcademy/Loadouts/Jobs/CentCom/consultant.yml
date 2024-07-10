@@ -57,29 +57,29 @@
 
 # Back
 - type: loadout
-  id: ConsultantBackpack
+  id: CentComBackpack
   equipment: ConsultantBackpack
 
 - type: startingGear
-  id: ConsultantBackpack
+  id: CentComBackpack
   equipment:
     back: ClothingBackpackCentcom
 
 - type: loadout
-  id: ConsultantSatchel
+  id: CentComSatchel
   equipment: ConsultantSatchel
 
 - type: startingGear
-  id: ConsultantSatchel
+  id: CentComSatchel
   equipment:
     back: ClothingBackpackSatchelCentcom
 
 - type: loadout
-  id: ConsultantDuffel
+  id: CentComDuffel
   equipment: ConsultantDuffel
 
 - type: startingGear
-  id: ConsultantDuffel
+  id: CentComDuffel
   equipment:
     back: ClothingBackpackDuffelCentcom
 
