@@ -4,24 +4,49 @@
   description: job-description-consultant
   playTimeTracker: JobCentComConsultant
   requirements:
-    - !type:RoleTimeRequirement
-      role: JobBlueShield
-      time: 54000 #15 hrs
-    - !type:RoleTimeRequirement
-      role: JobHeadOfPersonnel
-      time: 54000 #15 hrs
     - !type:DepartmentTimeRequirement
       department: Command
       time: 468000  # 130 hours
   startingGear: ConsultantGear
-  icon: "JobIconNanotrasen"
+  icon: "JobIconConsultant"
   requireAdminNotify: true
   joinNotifyCrew: true
   supervisors: job-supervisors-centcom
   canBeAntag: false
   access:
-  accessGroups:
-    - AllAccess
+  - EmergencyShuttleRepealAll
+  - Captain
+  - HeadOfPersonnel
+  - ChiefEngineer
+  - ChiefMedicalOfficer
+  - HeadOfSecurity
+  - ResearchDirector
+  - Command
+  - Security
+  - Detective
+  - Armory
+  - Brig
+  - Lawyer
+  - Engineering
+  - Medical
+  - Quartermaster
+  - Miner
+  - Salvage
+  - Cargo
+  - Research
+  - Service
+  - Maintenance
+  - External
+  - Janitor
+  - Theatre
+  - Bar
+  - Chemistry
+  - Kitchen
+  - Chapel
+  - Hydroponics
+  - Atmospherics
+  - CentralCommand
+  - Cryogenics
   special:
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant ]
