@@ -123,7 +123,7 @@
   description: A light version of the Energy gun with a smaller capacity.
   components:
   - type: Sprite
-    sprite: _Sunrise/Objects/Weapons/Guns/Battery/mini_energygun.rsi
+    sprite: ERTAcademy/Objects/Weapons/Guns/Battery/mini_energygun.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
