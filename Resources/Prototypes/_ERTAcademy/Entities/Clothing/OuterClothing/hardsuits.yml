@@ -6,9 +6,9 @@
   description: A special suit for quartermaster.
   components:
   - type: Sprite
-    sprite: Debiloid1984/Clothing/OuterClothing/Hardsuits/kmsuit.rsi
+    sprite: ERTAcademy/Clothing/OuterClothing/Hardsuits/kmsuit.rsi
   - type: Clothing
-    sprite: Debiloid1984/Clothing/OuterClothing/Hardsuits/kmsuit.rsi
+    sprite: ERTAcademy/Clothing/OuterClothing/Hardsuits/kmsuit.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
