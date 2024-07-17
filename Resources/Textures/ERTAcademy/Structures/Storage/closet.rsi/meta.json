@@ -1,56 +1,56 @@
 {
-  "version": 1,
-  "license": "CC-BY-SA-3.0",
-  "copyright": "By Debiloid3000",
-  "size": {
-    "x": 32,
-    "y": 32
-  },
-  "states": [
-    {
-      "name": "generic"
+    "version": 1,
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Debiloid3000",
+    "size": {
+        "x": 32,
+        "y": 32
     },
-    {
-      "name": "generic_door"
-    },
-    {
-      "name": "generic_open"
-    },
-    {
-      "name": "welded"
-    },
-    {
-      "name": "blueshield_door"
-    },
-    {
-      "name": "blueshield"
-    },
-    {
-      "name": "blueshield_open"
-    },
-    {
-      "name": "ссс_door"
-    },
-    {
-      "name": "ссс"
-    },
-    {
-      "name": "ccc_open"
-    },
-    {
-      "name": "сс_door"
-    },
-    {
-      "name": "сс"
-    },
-    {
-      "name": "cc_open"
-    },
-    {
-      "name": "locked"
-    },
-    {
-      "name": "unlocked"
-    }
-  ]
+    "states": [
+        {
+            "name": "generic"
+        },
+        {
+            "name": "generic_door",
+        },
+        {
+            "name": "generic_open",
+        },
+        {
+            "name": "welded"
+        },
+        {
+            "name": "blueshield_door",
+        },
+        {
+            "name": "blueshield",
+        },
+        {
+            "name": "blueshield_open"
+        },
+        {
+            "name": "ссс_door",
+        },
+        {
+            "name": "ccc",
+        },
+        {
+            "name": "ccc_open"
+        },
+        {
+            "name": "cc_door",
+        },
+        {
+            "name": "cc",
+        },
+        {
+            "name": "cc_open"
+        },
+        {
+            "name": "locked",
+        },
+        {
+            "name": "unlocked"
+        }
+    ]
 }
