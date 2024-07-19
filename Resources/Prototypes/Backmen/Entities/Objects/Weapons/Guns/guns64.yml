@@ -2506,10 +2506,6 @@
   - type: Wieldable
   - type: UseDelay
     delay: 1.3
-  - type: ClothingGrant
-    component:
-    - type: OpticZoomEffect
-      targetZoom: 1.5
 
 - type: entity
   id: MagazineAntiMaterielRifleSR
