@@ -9,15 +9,6 @@
     outerClothing: ClothingOuterHardsuitSyndieMedic
 
 - type: loadout
-  id: NukeOpsMedicOuterClothingBackmen
-  equipment: NukeOpsMedicOuterClothingBackmen
-
-- type: startingGear
-  id: NukeOpsMedicOuterClothingBackmen
-  equipment:
-    outerClothing: ClothingOuterHardsuitSyndieMedicBackmen
-
-- type: loadout
   id: NukeOpsMedicOuterClothingCorvax
   equipment: NukeOpsMedicOuterClothingCorvax
 
