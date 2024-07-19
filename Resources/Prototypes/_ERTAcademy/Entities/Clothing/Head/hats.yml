@@ -5,9 +5,9 @@
   description: Beret for a officer blueshield.
   components:
   - type: Sprite
-    sprite: ERTAcademy/Clothing/Head/Hats/beret_blueshield.rsi
+    sprite: ERTAcademy/Clothing/Head/Hats/blueshield.rsi
   - type: Clothing
-    sprite: ERTAcademy/Clothing/Head/Hats/beret_blueshield.rsi
+    sprite: ERTAcademy/Clothing/Head/Hats/blueshield.rsi
   - type: Tag
     tags:
     - ClothMade
