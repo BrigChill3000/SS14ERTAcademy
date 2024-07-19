@@ -1,5 +1,5 @@
 - type: entity
-  parent: ClothingEyesGlassesSunglasses
+  parent: [ClothingEyesGlassesSunglasses, ShowSecurityIcons]
   id: ClothingEyesGlassesSunglassesBlueShield
   name: sun glasses
   description: Useful both for security and cargonia.
@@ -10,10 +10,9 @@
     sprite: ERTAcademy/Clothing/Eyes/Glasses/blueshieldglasses.rsi
   - type: FlashImmunity
   - type: EyeProtection
-  - type: ShowSecurityIcons
 
 - type: entity
-  parent: ClothingEyesBase
+  parent: [ClothingEyesBase, ShowSecurityIcons]
   id: ClothingEyesGlassesMed
   name: medical sunglasses
   description: They perfectly protect the eyes from flashes, showing all the information about the health of others. A field medic's best friend.
@@ -29,7 +28,6 @@
     damageContainers: 
     - Biological
   - type: FlashImmunity
-  - type: ShowSecurityIcons
   - type: EyeProtection
     protectionTime: 5
   - type: Tag
