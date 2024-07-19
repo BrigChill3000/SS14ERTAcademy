@@ -226,7 +226,6 @@
   name: loadout-group-nukeops-outerclothing
   loadouts:
   - NukeOpsMedicOuterClothing
-  - NukeOpsMedicOuterClothingBackmen
   - NukeOpsMedicOuterClothingCorvax
   - NukeOpsMedicOuterClothingSunRise
   - NukeOpsMedicOuterClothingXeno
