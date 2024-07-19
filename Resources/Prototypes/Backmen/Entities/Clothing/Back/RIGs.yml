@@ -132,11 +132,6 @@
     maxItemSize: Huge
     grid:
     - 0,0,15,5
-  - type: ClothingGrant
-    component:
-    - type: PsionicInvisibilityPower
-      actionPsionicInvisibility: ActionToggleSuitInvisiblePower
-      stunSecond: 0
   - type: ContainerContainer
     containers:
       toggleable-clothing: !type:ContainerSlot
