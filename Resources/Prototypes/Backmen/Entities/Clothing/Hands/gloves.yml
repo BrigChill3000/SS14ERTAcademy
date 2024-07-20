@@ -84,9 +84,6 @@
   - type: Tag
     tags:
     - WhitelistChameleon
-  - type: Construction
-    graph: HandsBint
-    node: Hands_Bint
 
 - type: entity
   parent: ClothingHandsBase
