@@ -5,7 +5,7 @@ using Content.Shared.Examine;
 using Content.Shared.Interaction;
 using Content.Shared.Verbs;
 using Content.Shared.Item;
-using Content.Shared._Sunrise.Weapons.Ranged;
+using Content.Shared.ERTAcademy.Weapons.Ranged;
 using Content.Shared.Weapons.Ranged.Components;
 using Robust.Shared.Prototypes;
 using System.Linq;
