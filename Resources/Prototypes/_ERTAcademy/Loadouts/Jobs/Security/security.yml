@@ -1,0 +1,82 @@
+# Pistols
+- type: loadout
+  id: WeaponPistolMk58
+  equipment: WeaponPistolMk58
+
+- type: startingGear
+  id: WeaponPistolMk58
+  equipment:
+    pocket1: WeaponPistolMk58
+
+- type: loadout
+  id: WeaponPistolG22
+  equipment: WeaponPistolG22
+
+- type: startingGear
+  id: WeaponPistolG22
+  equipment:
+    pocket1: WeaponPistolG22
+
+- type: loadout
+  id: WeaponPistolACP14
+  equipment: WeaponPistolACP14
+
+- type: startingGear
+  id: WeaponPistolACP14
+  equipment:
+    pocket1: WeaponPistolACP14
+
+- type: loadout
+  id: WeaponPistolG23
+  equipment: WeaponPistolG23
+
+- type: startingGear
+  id: WeaponPistolG23
+  equipment:
+    pocket1: WeaponPistolG23
+
+- type: loadout
+  id: WeaponPistolVP78
+  equipment: WeaponPistolVP78
+
+- type: startingGear
+  id: WeaponPistolVP78
+  equipment:
+    pocket1: WeaponPistolVP78
+
+- type: loadout
+  id: WeaponRevolverMatebaNew
+  equipment: WeaponRevolverMatebaNew
+
+- type: startingGear
+  id: WeaponRevolverMatebaNew
+  equipment:
+    pocket1: WeaponRevolverMatebaNew
+
+# Pocket 2
+- type: loadout
+  id: MagazinePistol
+  equipment: MagazinePistol
+
+- type: startingGear
+  id: MagazinePistol
+  equipment:
+    pocket2: MagazinePistol
+
+- type: loadout
+  id: MagazinePistolHighCapacity
+  equipment: MagazinePistolHighCapacity
+
+- type: startingGear
+  id: MagazinePistolHighCapacity
+  equipment:
+    pocket2: MagazinePistolHighCapacity
+
+- type: loadout
+  id: SpeedLoaderMagnum
+  equipment: SpeedLoaderMagnum
+
+- type: startingGear
+  id: SpeedLoaderMagnum
+  equipment:
+    pocket2: SpeedLoaderMagnum
