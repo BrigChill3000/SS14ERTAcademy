@@ -370,8 +370,8 @@
     - state: default
     - state: id_sergeant
   - type: Access
-    tags:
-    - EarthGov
+    groups:
+    - AllAccess
 
 - type: entity
   parent: IDbadgeStandard
