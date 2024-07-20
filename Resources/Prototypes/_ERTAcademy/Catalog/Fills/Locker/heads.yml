@@ -10,6 +10,8 @@
       - id: MedkitCombatFilled
       - id: Handcuffs
       - id: Flash
+      - id: ClothingMaskGasBlueShield
+      - id: ClothingOuterHardsuitBlueShield
       - id: ClothingBeltBlueShieldWebbing
       - id: ClothingShoesBootsSpetsnazFilled
       - id: ClothingUniformJumpsuitBlueShield
