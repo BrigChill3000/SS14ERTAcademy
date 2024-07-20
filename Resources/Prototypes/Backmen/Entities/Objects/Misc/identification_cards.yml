@@ -6,8 +6,6 @@
     - type: Sprite
       layers:
         - state: orange
-    - type: PresetIdCard
-      job: Prisoner
 
 - type: entity
   parent: IDCardStandard
@@ -18,8 +16,6 @@
       layers:
         - state: default
         - state: idroboticist
-    - type: PresetIdCard
-      job: Roboticist
 
 - type: entity
   parent: IDCardStandard
@@ -45,8 +41,6 @@
       layers:
         - state: unaffiliated
         - state: idexplorer
-    - type: PresetIdCard
-      job: Explorer
 
 - type: entity
   parent: UnaffiliatedIDCard
@@ -57,8 +51,6 @@
       layers:
         - state: unaffiliated
         - state: idstudent
-    - type: PresetIdCard
-      job: Student
 
 - type: entity
   parent: UnaffiliatedIDCard
@@ -69,8 +61,6 @@
       layers:
         - state: unaffiliated
         - state: idfreelancer
-    - type: PresetIdCard
-      job: Freelancer
 
 - type: entity
   parent: CentcomIDCardDeathsquad
@@ -127,8 +117,6 @@
       layers:
         - state: default
         - state: iddelivery
-    - type: PresetIdCard
-      job: Deliveryman
 
 - type: entity
   parent: IDCardStandard
