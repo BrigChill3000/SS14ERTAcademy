@@ -21,6 +21,26 @@
 - type: entity
   name: survival box
   parent: BoxCardboard
+  id: BoxSurvivalBlueShieldNitrogen
+  description: It's a box with basic internals inside.
+  suffix: Security
+  components:
+  - type: StorageFill
+    contents:
+      - id: ClothingMaskGasBlueShield
+      - id: EmergencyNitrogenTankFilled
+      - id: EmergencyMedipen
+      - id: Flare
+      - id: FoodSnackNutribrick
+      - id: DrinkWaterBottleFull
+  - type: Sprite
+    layers:
+      - state: internals
+      - state: emergencytank
+
+- type: entity
+  name: survival box
+  parent: BoxCardboard
   id: BoxSurvivalBrigmedic
   description: It's a box with basic internals inside.
   suffix: MedSec
@@ -38,4 +58,22 @@
       - state: internals
       - state: emergencytank
 
-
+- type: entity
+  name: survival box
+  parent: BoxCardboard
+  id: BoxSurvivalBrigmedicNitrogen
+  description: It's a box with basic internals inside.
+  suffix: MedSec
+  components:
+  - type: StorageFill
+    contents:
+      - id: ClothingMaskGasBrigmedic
+      - id: EmergencyNitrogenTankFilled
+      - id: EmergencyMedipen
+      - id: Flare
+      - id: FoodSnackNutribrick
+      - id: DrinkWaterBottleFull
+  - type: Sprite
+    layers:
+      - state: internals
+      - state: emergencytank
