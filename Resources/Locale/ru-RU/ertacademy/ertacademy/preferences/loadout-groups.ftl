@@ -24,7 +24,5 @@ loadout-group-nukeops-id = ID карта Ядерного Оперативник
 
 # Security
 loadout-group-brigmedic-head = Голова Бригмедика
-loadout-group-brigmedic-jumpsuit = Комбинезон Бригмедика
 loadout-group-brigmedic-neck = Шея Бригмедика
-loadout-group-brigmedic-backpack = Рюкзак Бригмедика
 loadout-group-brigmedic-outerclothing = Верхняя одежда Бригмедика
