@@ -32,7 +32,7 @@
       - id: Handcuffs
       - id: WeaponRevolverMateba
       - id: SpeedLoaderMagnum
-      - id: SpeedLoaderMagnumRubber
+      - id: SpeedLoaderMagnum #Rubber
       - id: CigarGoldCase
         prob: 0.25
 
@@ -51,7 +51,7 @@
       - id: Handcuffs
       - id: WeaponRevolverMateba
       - id: SpeedLoaderMagnum
-      - id: SpeedLoaderMagnumRubber
+      - id: SpeedLoaderMagnum #Rubber
       - id: CigarGoldCase
         prob: 0.25
 
