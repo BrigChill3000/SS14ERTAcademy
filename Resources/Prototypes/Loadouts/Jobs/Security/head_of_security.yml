@@ -53,6 +53,7 @@
   equipment:
     jumpsuit: ClothingUniformJumpskirtHosFormal
 
+#Blue - ERTAcdemy
 - type: loadout
   id: HeadofSecurityJumpsuitBlue
   equipment: HeadofSecurityJumpsuitBlue
@@ -60,7 +61,7 @@
 - type: startingGear
   id: HeadofSecurityJumpsuitBlue
   equipment:
-    jumpsuit: ClothingUniformJumpsuitHoSBlue
+    jumpsuit: ClothingUniformJumpsuitHoS2Blue
 
 - type: loadout
   id: HeadofSecurityJumpskirtBlue
@@ -69,7 +70,7 @@
 - type: startingGear
   id: HeadofSecurityJumpskirtBlue
   equipment:
-    jumpsuit: ClothingUniformJumpskirtHoSBlue
+    jumpsuit: ClothingUniformJumpskirtHoS2Blue
 
 - type: loadout
   id: HeadofSecurityTurtleneckBlue
@@ -96,7 +97,7 @@
 - type: startingGear
   id: HeadofSecurityFormalSuitBlue
   equipment:
-    jumpsuit: ClothingUniformJumpsuitHosFormalBlue
+    jumpsuit: ClothingUniformJumpsuitHoSFormalBlue
 
 - type: loadout
   id: HeadofSecurityFormalSkirtBlue
@@ -105,7 +106,7 @@
 - type: startingGear
   id: HeadofSecurityFormalSkirtBlue
   equipment:
-    jumpsuit: ClothingUniformJumpskirtHosFormalBlue
+    jumpsuit: ClothingUniformJumpskirtHoSFormalBlue
 
 # Head
 - type: loadout
