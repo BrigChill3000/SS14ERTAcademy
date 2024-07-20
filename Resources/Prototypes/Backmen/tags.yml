@@ -69,3 +69,6 @@
 
 - type: Tag
   id: CartridgeAntitank
+
+- type: Tag
+  id: FullBodyOuter
