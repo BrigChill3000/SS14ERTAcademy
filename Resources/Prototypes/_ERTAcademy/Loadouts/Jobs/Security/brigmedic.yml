@@ -8,6 +8,15 @@
   equipment:
     head: ClothingHeadHatBeretBrigmedic
 
+- type: loadout
+  id: HelmetSecurityMedic
+  equipment: HelmetSecurityMedic
+
+- type: startingGear
+  id: HelmetSecurityMedic
+  equipment:
+    head: ClothingHeadHelmetSecurityMedic
+
 # Neck
 - type: loadout
   id: BrigmedicBedsheet
@@ -101,3 +110,21 @@
   id: BrigmedicWindbreaker
   equipment:
     outerClothing: ClothingOuterCoatBrigmedicWB
+
+- type: loadout
+  id: VestSecurityMedic
+  equipment: VestSecurityMedic
+
+- type: startingGear
+  id: VestSecurityMedic
+  equipment:
+    outerClothing: ClothingOuterVestSecurityMedic
+
+- type: loadout
+  id: CoatLabSecurityMedic
+  equipment: CoatLabSecurityMedic
+
+- type: startingGear
+  id: CoatLabSecurityMedic
+  equipment:
+    outerClothing: ClothingOuterCoatLabSecurityMedic
