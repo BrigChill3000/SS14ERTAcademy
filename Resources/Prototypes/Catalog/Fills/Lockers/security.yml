@@ -80,10 +80,10 @@
     contents:
       - id: ClothingEyesGlassesSecurity
       - id: WeaponDisabler
-      - id: TrackingImplanter
-        amount: 2
+      - id: BoxCardboardTrackImp
       - id: ClothingOuterHardsuitBrigmedic
       - id: BoxSterileMask
+      - id: ClothingMaskGasBrigmedic
       - id: ClothingHeadHatBeretBrigmedic
       - id: ClothingOuterCoatAMG
       - id: ClothingUniformJumpsuitBrigmedic
