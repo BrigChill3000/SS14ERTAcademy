@@ -2,7 +2,7 @@
   name: M1911
   parent: BaseWeaponPistol
   id: WeaponPistolM1911
-  description: Самозарядный пистолет M1911, использует .35 калибр
+  description: Самозарядный пистолет M1911, использует .35 калибр # rus???
   components:
   - type: Sprite
     sprite: ERTAcademy/Objects/Weapons/Guns/Pistols/m1911.rsi
@@ -21,7 +21,7 @@
       path: /Audio/ERTAcademy/Weapons/Guns/GunShots/m1911.ogg
 
 
-#path: /Audio/Debiloid1984/Weapons/Guns/GunShots/m1911.ogg
+#path: /Audio/Debiloid1984/Weapons/Guns/GunShots/m1911.ogg ??? 
 #path: /Audio/Weapons/Guns/Gunshots/mk58.ogg
 
 - type: entity
@@ -66,26 +66,26 @@
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/mk58.ogg
 
-- type: entity
-  id: WeaponPistolMk68Nonlethal
-  parent: WeaponPistolMk68
-  suffix: Non-lethal
-  components:
-  - type: ItemSlots
-    slots:
-      gun_magazine:
-        name: Magazine
-        startingItem: MagazinePistolRubber
-        insertSound: /Audio/Weapons/Guns/MagIn/pistol_magin.ogg
-        ejectSound: /Audio/Weapons/Guns/MagOut/pistol_magout.ogg
-        priority: 2
-        whitelist:
-          tags:
-            - MagazinePistol
-      gun_chamber:
-        name: Chamber
-        startingItem: CartridgePistolRubber
-        priority: 1
-        whitelist:
-          tags:
-            - CartridgePistol
+#- type: entity
+#  id: WeaponPistolMk68Nonlethal
+#  parent: WeaponPistolMk68
+#  suffix: Non-lethal
+#  components:
+#  - type: ItemSlots
+#    slots:
+#      gun_magazine:
+#        name: Magazine
+#        startingItem: MagazinePistolRubber
+#        insertSound: /Audio/Weapons/Guns/MagIn/pistol_magin.ogg
+#        ejectSound: /Audio/Weapons/Guns/MagOut/pistol_magout.ogg
+#        priority: 2
+#        whitelist:
+#          tags:
+#            - MagazinePistol
+#      gun_chamber:
+#        name: Chamber
+#        startingItem: CartridgePistolRubber
+#        priority: 1
+#        whitelist:
+#          tags:
+#            - CartridgePistol
