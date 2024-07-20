@@ -26,7 +26,5 @@ loadout-group-nukeops-id = ID card Nuclear Operative
 
 # Security
 loadout-group-brigmedic-head = Head Brigmedic
-loadout-group-brigmedic-jumpsuit = Jumpsuit Brigmedic
 loadout-group-brigmedic-neck = Neck Brigmedic
-loadout-group-brigmedic-backpack = Backpack Brigmedic
 loadout-group-brigmedic-outerclothing = Outerwear Brigmedic
