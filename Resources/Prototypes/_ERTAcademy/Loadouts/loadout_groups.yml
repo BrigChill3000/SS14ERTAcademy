@@ -113,6 +113,7 @@
   minLimit: 0
   loadouts:
   - BrigmedicHead
+  - HelmetSecurityMedic
 
 - type: loadoutGroup
   id: BrigmedicNeck
@@ -145,6 +146,8 @@
   loadouts:
   - BrigmedicOuterClothing
   - BrigmedicWindbreaker
+  - VestSecurityMedic
+  - CoatLabSecurityMedic
 
 - type: loadoutGroup #Backmen
   id: SecurityPocket
