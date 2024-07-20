@@ -15,3 +15,16 @@ loadout-group-consultant-jumpsuit = Комбинезон консультант�
 loadout-group-consultant-neck = Шея консультанта ЦК
 loadout-group-centcom-backpack = Рюкзак ЦентКом
 loadout-group-consultant-outerclothing = Верхняя одежда консультанта ЦК
+
+# NukeOps
+loadout-group-nukeops-jumpsuit = Комбинезон Ядерного Оперативника
+loadout-group-nukeops-backpack = Рюкзак Ядерного Оперативника
+loadout-group-nukeops-outerclothing = Скафандр Ядерного Оперативника
+loadout-group-nukeops-id = ID карта Ядерного Оперативника
+
+# Security
+loadout-group-brigmedic-head = Голова Бригмедика
+loadout-group-brigmedic-jumpsuit = Комбинезон Бригмедика
+loadout-group-brigmedic-neck = Шея Бригмедика
+loadout-group-brigmedic-backpack = Рюкзак Бригмедика
+loadout-group-brigmedic-outerclothing = Верхняя одежда Бригмедика
