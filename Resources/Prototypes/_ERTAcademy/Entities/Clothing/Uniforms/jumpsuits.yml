@@ -110,7 +110,7 @@
 
 - type: entity
   parent: ClothingUniformBase
-  id: ClothingUniformJumpsuitHoSParadeMaleBlue
+  id: ClothingUniformJumpsuitHoSParadeBlue
   name: head of security's parade uniform
   description: A male head of security's luxury-wear, for special occasions.
   components:
