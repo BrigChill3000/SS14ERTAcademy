@@ -1,6 +1,6 @@
 - type: entity
   name: survival box
-  parent: BoxCardboard
+  parent: BoxCardboard2
   id: BoxSurvivalBlueShield
   description: It's a box with basic internals inside.
   suffix: Security
@@ -20,7 +20,7 @@
 
 - type: entity
   name: survival box
-  parent: BoxCardboard
+  parent: BoxCardboard2
   id: BoxSurvivalBlueShieldNitrogen
   description: It's a box with basic internals inside.
   suffix: Security
@@ -40,7 +40,7 @@
 
 - type: entity
   name: survival box
-  parent: BoxCardboard
+  parent: BoxCardboard2
   id: BoxSurvivalBrigmedic
   description: It's a box with basic internals inside.
   suffix: MedSec
@@ -60,7 +60,7 @@
 
 - type: entity
   name: survival box
-  parent: BoxCardboard
+  parent: BoxCardboard2
   id: BoxSurvivalBrigmedicNitrogen
   description: It's a box with basic internals inside.
   suffix: MedSec
