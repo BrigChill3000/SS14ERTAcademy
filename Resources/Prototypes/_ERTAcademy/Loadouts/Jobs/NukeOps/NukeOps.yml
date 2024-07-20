@@ -38,6 +38,15 @@
     outerClothing: ClothingOuterHardsuitSyndie
 
 - type: loadout
+  id: NukeOpsOuterClothingCorvax
+  equipment: NukeOpsOuterClothingCorvax
+
+- type: startingGear
+  id: NukeOpsOuterClothingCorvax
+  equipment:
+    outerClothing: ClothingOuterHardsuitSyndieCorvax
+
+- type: loadout
   id: NukeOpsOuterClothingBackmen
   equipment: NukeOpsOuterClothingBackmen
 
