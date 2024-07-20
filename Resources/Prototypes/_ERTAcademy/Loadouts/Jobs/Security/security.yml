@@ -80,3 +80,14 @@
   id: SpeedLoaderMagnum
   equipment:
     pocket2: SpeedLoaderMagnum
+
+# OuterClothing
+
+- type: loadout
+  id: ArmorVestArmorSec
+  equipment: ArmorVestArmorSec
+
+- type: startingGear
+  id: ArmorVestArmorSec
+  equipment:
+    outerClothing: ArmorVestArmorSec
