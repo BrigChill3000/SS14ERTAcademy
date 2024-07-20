@@ -2,7 +2,7 @@
   id: Recruit
   name: job-name-recruit
   description: job-description-recruit
-  playTimeTracker: JobRecruit
+  playTimeTracker: JobPassenger
   startingGear: RecruitGear
   icon: "JobIconPassenger"
   supervisors: job-supervisors-everyone
