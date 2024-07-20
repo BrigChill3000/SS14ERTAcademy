@@ -10,7 +10,7 @@
     - !type:DepartmentTimeRequirement
       department: Security
       time: 25200 #7 hrs
-  startingGear: BrigmedicGearNew
+  startingGear: BrigmedicNewGear
   icon: "JobIconBrigmedic"
   supervisors: job-supervisors-hos
   canBeAntag: false
