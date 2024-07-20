@@ -1,6 +1,6 @@
 using Robust.Shared.Serialization;
 
-namespace Content.Shared._Sunrise.Weapons.Ranged;
+namespace Content.Shared.ERTAcademy.Weapons.Ranged;
 
 [Serializable, NetSerializable]
 public enum EnergyGunFireModeVisuals : byte
