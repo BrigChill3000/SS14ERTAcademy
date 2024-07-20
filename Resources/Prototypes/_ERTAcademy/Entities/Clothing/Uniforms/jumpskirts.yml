@@ -129,3 +129,14 @@
     sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/security_grey.rsi
   - type: Clothing
     sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/security_grey.rsi
+
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtBrigmedicTurtle
+  name: brigmedic turtleneck
+  description: Comfortable and warm turtleneck. Especially for the guardian angel.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/brigmedic_turtleneck.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpskirt/brigmedic_turtleneck.rsi

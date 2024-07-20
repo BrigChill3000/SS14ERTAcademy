@@ -9,7 +9,7 @@
 
 - type: entity
   parent: ClothingBackpack
-  id: ClothingBackpackCentСom
+  id: ClothingBackpackCentCom
   name: central command backpack
   description: This is a special backpack designed exclusively for representatives of the Central Command.
   components:

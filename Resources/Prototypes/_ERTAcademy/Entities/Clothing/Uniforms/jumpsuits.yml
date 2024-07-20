@@ -184,3 +184,47 @@
     sprite: ERTAcademy/Clothing/Uniforms/Jumpsuit/ert_cburn.rsi
   - type: Clothing
     sprite: ERTAcademy/Clothing/Uniforms/Jumpsuit/ert_cburn.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitBearBase
+  name: head of security's turtleneck
+  description: It's a turtleneck worn by those strong and disciplined enough to achieve the position of Head of Security.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpsuit/bearbase.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpsuit/bearbase.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitBearfbifast
+  name: head of security's turtleneck
+  description: It's a turtleneck worn by those strong and disciplined enough to achieve the position of Head of Security.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpsuit/bearfbifast.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpsuit/bearfbifast.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitBearG99
+  name: head of security's turtleneck
+  description: It's a turtleneck worn by those strong and disciplined enough to achieve the position of Head of Security.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpsuit/bearg99.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpsuit/bearg99.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitBrigmedicTurtle
+  name: brigmedic turtleneck
+  description: Comfortable and warm turtleneck. Especially for the guardian angel.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpsuit/brigmedic_turtleneck.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Uniforms/Jumpsuit/brigmedic_turtleneck.rsi

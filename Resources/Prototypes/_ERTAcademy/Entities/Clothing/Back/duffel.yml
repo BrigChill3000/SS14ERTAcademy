@@ -9,7 +9,7 @@
 
 - type: entity
   parent: ClothingBackpackDuffel
-  id: ClothingBackpackDuffelCentСom
+  id: ClothingBackpackDuffelCentCom
   name: central command duffel bag
   description: A duffel bag for storing expensive items of Central Command representatives.
   components:

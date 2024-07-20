@@ -90,4 +90,14 @@
 - type: startingGear
   id: ArmorVestArmorSec
   equipment:
-    outerClothing: ArmorVestArmorSec
+    outerClothing: ClothingOuterVestArmorSec
+
+# Uniform
+- type: loadout
+  id: HECUUniform
+  equipment: HECUUniform
+
+- type: startingGear
+  id: HECUUniform
+  equipment:
+    jumpsuit: ClothingUniformHECU
