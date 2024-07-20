@@ -64,3 +64,8 @@
 - type: Tag
   id: SwordSquadRO
 
+- type: Tag
+  id: NoSpinOnThrow
+
+- type: Tag
+  id: CartridgeAntitank
