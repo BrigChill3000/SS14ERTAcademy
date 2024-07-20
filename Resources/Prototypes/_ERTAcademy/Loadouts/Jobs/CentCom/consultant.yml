@@ -63,25 +63,25 @@
 - type: startingGear
   id: CentComBackpack
   equipment:
-    back: ClothingBackpackCentcom
+    back: ClothingBackpackCentCom
 
 - type: loadout
   id: CentComSatchel
-  equipment: ConsultantSatchel
+  equipment: CentComSatchel
 
 - type: startingGear
   id: CentComSatchel
   equipment:
-    back: ClothingBackpackSatchelCentcom
+    back: ClothingBackpackSatchelCentСom
 
 - type: loadout
   id: CentComDuffel
-  equipment: ConsultantDuffel
+  equipment: CentComDuffel
 
 - type: startingGear
   id: CentComDuffel
   equipment:
-    back: ClothingBackpackDuffelCentcom
+    back: ClothingBackpackDuffelCentСom
 
 # Outer clothing
 - type: loadout
