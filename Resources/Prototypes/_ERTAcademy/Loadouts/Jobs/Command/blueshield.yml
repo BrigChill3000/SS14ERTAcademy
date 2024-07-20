@@ -43,7 +43,7 @@
 - type: startingGear
   id: BlueShieldHead
   equipment:
-    head: ClothingHeadHatBeretBS
+    head: ClothingHeadHatBlueShieldBeret
 
 # Neck
 - type: loadout
@@ -122,7 +122,6 @@
     belt: ClothingBeltBlueShieldWebbingFilled
 
 # Pocket
-
 - type: loadout
   id: WeaponRevolverRsh18
   equipment: WeaponRevolverRsh18
@@ -133,7 +132,6 @@
     pocket1: WeaponRevolverRsh18
 
 # Pocket 2
-
 - type: loadout
   id: SpeedLoaderUniversal
   equipment: SpeedLoaderUniversal
