@@ -1001,6 +1001,7 @@
   id: SecurityOuterClothing
   name: loadout-group-security-outerclothing
   loadouts:
+  - ArmorVestArmorSec
   - ArmorVest
   - ArmorVestSlim
   - SecurityOfficerWintercoat
