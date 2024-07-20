@@ -1,0 +1,20 @@
+- type: entity
+  name: box cardboard
+  parent: BoxCardboard
+  id: BoxCardboard2
+  description: It's a box with basic internals inside.
+  components:
+  - type: Sprite
+    sprite: Objects/Storage/boxes.rsi
+  - type: Item
+    sprite: Objects/Storage/boxes.rsi
+    size: Large
+    shape:
+    - 0,0,3,3
+  - type: Storage
+    maxItemSize: Small
+    grid:
+    - 0,0,3,3
+  - type: ContainerContainer
+    containers:
+      storagebase: !type:Container
