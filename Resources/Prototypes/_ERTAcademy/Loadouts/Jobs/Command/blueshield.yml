@@ -142,3 +142,12 @@
   id: SpeedLoaderUniversal
   equipment:
     pocket2: SpeedLoaderUniversal
+
+- type: loadout
+  id: SpeedLoaderUniversalHV
+  equipment: SpeedLoaderUniversalHV
+
+- type: startingGear
+  id: SpeedLoaderUniversalHV
+  equipment:
+    pocket2: SpeedLoaderUniversalHV
