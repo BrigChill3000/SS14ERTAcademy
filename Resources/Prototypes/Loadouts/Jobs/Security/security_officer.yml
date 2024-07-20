@@ -120,6 +120,7 @@
   equipment:
     jumpsuit: ClothingUniformJumpskirtSeniorOfficer
 
+#Blue - ERTAcdemy
 - type: loadout
   id: SecurityJumpsuitBlue
   equipment: SecurityJumpsuitBlue
@@ -127,7 +128,7 @@
 - type: startingGear
   id: SecurityJumpsuitBlue
   equipment:
-    jumpsuit: ClothingUniformJumpsuitSecBlue
+    jumpsuit: ClothingUniformJumpsuitSec2Blue
 
 - type: loadout
   id: SecurityJumpskirtBlue
@@ -136,7 +137,7 @@
 - type: startingGear
   id: SecurityJumpskirtBlue
   equipment:
-    jumpsuit: ClothingUniformJumpskirtSecBlue
+    jumpsuit: ClothingUniformJumpskirtSec2Blue
 
 - type: loadout
   id: SecurityJumpsuitGreyBlue
