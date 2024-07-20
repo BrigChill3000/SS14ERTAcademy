@@ -23,7 +23,6 @@
         Heat: 0.3
         Radiation: 0.25
         Caustic: 0.75
-        Stun: 0.4
   - type: TemperatureProtection
     coefficient: 0.001
   - type: ExplosionResistance
@@ -56,7 +55,6 @@
         Heat: 0.30
         Radiation: 0.1
         Caustic: 0.15
-        Stun: 0.15
   - type: TemperatureProtection
     coefficient: 0.01
   - type: ExplosionResistance
@@ -89,7 +87,6 @@
         Heat: 0.2
         Radiation: 0.25
         Caustic: 0.85
-        Stun: 0.65
   - type: TemperatureProtection
     coefficient: 0.01
   - type: ExplosionResistance
@@ -123,7 +120,6 @@
         Radiation: 0.6
         Caustic: 0.6
         Heat: 0.4
-        Stun: 0.4
   - type: ClothingSpeedModifier
     walkModifier: 0.85
     sprintModifier: 0.85
@@ -154,7 +150,6 @@
         Radiation: 0.6
         Caustic: 0.6
         Heat: 0.4
-        Stun: 0.4
   - type: ClothingSpeedModifier
     walkModifier: 0.85
     sprintModifier: 0.85
@@ -180,7 +175,6 @@
         Piercing: 0.3
         Heat: 0.3
         Radiation: 0.3
-        Stun: 0.2
   - type: ExplosionResistance
     damageCoefficient: 0.8
 
@@ -281,7 +275,6 @@
         Heat: 0.2
         Radiation: 0.01
         Caustic: 0.5
-        Stun: 0.2
 
 - type: entity
   parent: ClothingOuterHardsuitDeathsquad
