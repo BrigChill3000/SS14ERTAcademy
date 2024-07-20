@@ -96,7 +96,7 @@
 - type: startingGear
   id: HeadofSecurityFormalSuitBlue
   equipment:
-    jumpsuit: ClothingUniformJumpsuitHoSFormalBlue
+    jumpsuit: ClothingUniformJumpsuitHoSParadeBlue
 
 - type: loadout
   id: HeadofSecurityFormalSkirtBlue
@@ -105,7 +105,7 @@
 - type: startingGear
   id: HeadofSecurityFormalSkirtBlue
   equipment:
-    jumpsuit: ClothingUniformJumpskirtHoSFormalBlue
+    jumpsuit: ClothingUniformJumpskirtHoSParadeBlue
 
 # Head
 - type: loadout
