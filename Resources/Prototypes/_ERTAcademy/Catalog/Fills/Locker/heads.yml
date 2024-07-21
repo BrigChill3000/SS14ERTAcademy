@@ -11,7 +11,6 @@
       - id: Handcuffs
       - id: Flash
       - id: ClothingMaskGasBlueShield
-      - id: ClothingOuterHardsuitBlueShield
       - id: ClothingBeltBlueShieldWebbing
       - id: ClothingShoesBootsSpetsnazFilled
       - id: ClothingUniformJumpsuitBlueShield
@@ -56,4 +55,3 @@
       - id: SpeedLoaderMagnum #Rubber
       - id: CigarGoldCase
         prob: 0.25
-

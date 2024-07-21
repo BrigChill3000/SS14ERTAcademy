@@ -74,7 +74,7 @@
   name: loadout-group-blueshield-outerclothing
   loadouts:
   - BlueShieldOuterClothing
-  - BlueShieldWintercoat
+  - BlueShieldJacket
 
 - type: loadoutGroup
   id: BlueShieldBelt
