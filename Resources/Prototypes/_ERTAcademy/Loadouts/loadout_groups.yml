@@ -128,6 +128,8 @@
   loadouts:
   - BrigmedicJumpsuit
   - BrigmedicJumpskirt
+  - BrigmedicJumpsuitOld
+  - BrigmedicJumpskirtOld
   - BrigmedicTurtleneck
   - BrigmedicTurtleneckSkirt
 
@@ -138,6 +140,9 @@
   - BrigmedicBackpack
   - BrigmedicSatchel
   - BrigmedicDuffel
+  - BrigmedicBackpackOld
+  - BrigmedicSatchelOld
+  - BrigmedicDuffelOld
 
 - type: loadoutGroup
   id: BrigmedicOuterClothing
