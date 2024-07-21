@@ -1,1 +1,0 @@
-department-CentralCommand = Центральное Командование 
