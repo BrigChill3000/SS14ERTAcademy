@@ -101,3 +101,13 @@
   id: HECUUniform
   equipment:
     jumpsuit: ClothingUniformHECU
+
+# Helmet
+- type: loadout
+  id: SecurityHelmet2
+  equipment: SecurityHelmet2
+
+- type: startingGear
+  id: SecurityHelmet2
+  equipment:
+    head: ClothingHeadHelmetBasic2
