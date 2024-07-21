@@ -35,7 +35,7 @@
 - type: startingGear
   id: BrigmedicJumpsuit
   equipment:
-    jumpsuit: ClothingUniformJumpsuitBrigmedic
+    jumpsuit: ClothingUniformJumpsuitBrigmedicNew
 
 - type: loadout
   id: BrigmedicJumpskirt
@@ -43,6 +43,24 @@
 
 - type: startingGear
   id: BrigmedicJumpskirt
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtBrigmedicNew
+
+- type: loadout
+  id: BrigmedicJumpsuitOld
+  equipment: BrigmedicJumpsuitOld
+
+- type: startingGear
+  id: BrigmedicJumpsuitOld
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitBrigmedic
+
+- type: loadout
+  id: BrigmedicJumpskirtOld
+  equipment: BrigmedicJumpskirtOld
+
+- type: startingGear
+  id: BrigmedicJumpskirtOld
   equipment:
     jumpsuit: ClothingUniformJumpskirtBrigmedic
 
@@ -89,6 +107,33 @@
 
 - type: startingGear
   id: BrigmedicDuffel
+  equipment:
+    back: ClothingBackpackDuffelBrigmedic
+
+- type: loadout
+  id: BrigmedicBackpackOld
+  equipment: BrigmedicBackpackOld
+
+- type: startingGear
+  id: BrigmedicBackpackOld
+  equipment:
+    back: ClothingBackpackBrigmedic
+
+- type: loadout
+  id: BrigmedicSatchelOld
+  equipment: BrigmedicSatchel
+
+- type: startingGear
+  id: BrigmedicSatchelOld
+  equipment:
+    back: ClothingBackpackSatchelBrigmedic
+
+- type: loadout
+  id: BrigmedicDuffelOld
+  equipment: BrigmedicDuffelOld
+
+- type: startingGear
+  id: BrigmedicDuffelOld
   equipment:
     back: ClothingBackpackDuffelBrigmedic
 
