@@ -8,19 +8,19 @@
   },
   "states": [
     {
-      "name": "equipped-BELT"
-    },
-    {
-      "name": "equipped-IDCARD"
-    },
-    {
       "name": "id_overlay"
     },
     {
-      "name": "inhand-left"
+      "name": "equipped-BELT",
+      "directions": 4
     },
     {
-      "name": "inhand-right"
+      "name": "inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "inhand-left",
+      "directions": 4
     },
     {
       "name": "insert_overlay"
@@ -29,10 +29,30 @@
       "name": "light_overlay"
     },
     {
-      "name": "pda-blueshield"
+      "name": "pda-blueshield",
+      "delays": [
+        [
+          0.8,
+          0.8,
+          0.8,
+          0.8
+        ]
+      ]
     },
     {
-      "name": "pda-centcom"
+      "name": "pda-centcom",
+      "delays": [
+        [
+          1.2,
+          1.2,
+          1.2,
+          1.2
+        ]
+      ]
+    },
+    {
+      "name": "equipped-IDCARD",
+      "directions": 4
     }
   ]
 }
