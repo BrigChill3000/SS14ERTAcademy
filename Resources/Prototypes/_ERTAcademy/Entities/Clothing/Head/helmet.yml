@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingHeadHelmetBasic
+  id: ClothingHeadHelmetBasic2
+  name: helmet
+  description: Standard security gear. Protects the head from impacts.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Head/Helmets/security.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Head/Helmets/security.rsi
