@@ -957,6 +957,7 @@
   minLimit: 0
   loadouts:
   - SecurityHelmet
+  - SecurityHelmet2
   - SecurityBeret
   - SecurityHat
   - SecurityBeretBlue
