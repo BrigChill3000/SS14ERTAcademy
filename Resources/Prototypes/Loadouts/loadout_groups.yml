@@ -978,6 +978,7 @@
   - SecurityJumpskirtGreyBlue
   - SeniorOfficerJumpsuitBlue
   - SeniorOfficerJumpskirtBlue
+  - HECUUniform
 
 - type: loadoutGroup
   id: SecurityBackpack
