@@ -9,6 +9,15 @@
     head: ClothingHeadHatBeretBrigmedic
 
 - type: loadout
+  id: BeretSecurityMedic
+  equipment: BeretSecurityMedic
+
+- type: startingGear
+  id: BeretSecurityMedic
+  equipment:
+    head: ClothingHeadHatBeretSecurityMedic
+
+- type: loadout
   id: HelmetSecurityMedic
   equipment: HelmetSecurityMedic
 
@@ -81,6 +90,15 @@
   id: BrigmedicTurtleneckSkirt
   equipment:
     jumpsuit: ClothingUniformJumpskirtBrigmedicTurtle
+
+- type: loadout
+  id: ClothingUniformJumpskirtOfLife
+  equipment: ClothingUniformJumpskirtOfLife
+
+- type: startingGear
+  id: ClothingUniformJumpskirtOfLife
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtOfLife
 
 # Back
 - type: loadout
