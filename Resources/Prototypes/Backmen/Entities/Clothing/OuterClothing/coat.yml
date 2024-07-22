@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingOuterWinterCoat
   id: Clothinghoscoat
-  name: Пальто ГСБ
-  description: Обычное пальто главы СБ, ничего примечательного.
+  name: head of security's coat
+  description: An ordinary coat for the head of the security, nothing remarkable.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/OuterClothing/Coats/coathosbelov.rsi
@@ -12,8 +12,8 @@
 - type: entity
   parent: ClothingOuterWinterCoat
   id: ClothingSovietCoat
-  name: Пальто СССП
-  description: Пальто которые носят высокие чины в СССП
+  name: coat USSP
+  description: Coats worn by high ranks in the USSP
   components:
   - type: Sprite
     sprite: Backmen/Clothing/OuterClothing/Coats/ssspcoatbelov.rsi
@@ -23,8 +23,8 @@
 - type: entity
   parent: ClothingOuterCoatSecurityOvercoat
   id: ClothingOuterCoatSecurityOfficerOvercoat
-  name: шинель офицер СБ
-  description: Легкобронированная кожаная шинель, предназначенная для повседневной носки офицерами. Имеет логотип компании Nanotrasen Security.
+  name: security officer's overcoat
+  description: Lightly armored leather overcoat designed for everyday wear by officers. Has the Nanotrasen Security company logo.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/OuterClothing/Coats/sec_greatcoat.rsi
@@ -34,8 +34,8 @@
 - type: entity
   parent: ClothingOuterWinterCoat
   id: ClothingOuterWinterCoatBomber
-  name: куртка-бомбер
-  description: Толстая, поношенная кожаная куртка-бомбер периода Второй мировой войны.
+  name: bomber jacket
+  description: Thick, well-worn WWII leather bomber jacket.
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/Coats/bomber.rsi
