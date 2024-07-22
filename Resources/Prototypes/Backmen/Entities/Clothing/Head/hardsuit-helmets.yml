@@ -68,7 +68,7 @@
 - type: entity
   parent: ClothingHeadHardsuitWithLightBase
   id: ClothingHeadHelmetHardsuitCentcomCarporate
-  name: helmet of the spacesuit of the CentCom
+  name: helmet hardsuit corporate CentCom
   description: Special Carporate space helmet made for various situations with a good flashlight of the NanoTraisen loyalist.
   components:
   - type: Sprite
