@@ -1,7 +1,7 @@
 - type: entity
   parent: ClothingBackpack
   id: ClothingOrderBackpack
-  name: Backpack of the Red Order.
+  name: backpack of the Red Order.
   description: A backpack of the death squad, taken as a trophy and remade to fit their needs by the order!
   components:
   - type: Storage
@@ -13,7 +13,7 @@
 - type: entity
   parent: ClothingBackpackSatchel
   id: ClothingNinjaSatchel
-  name: Ninja satchel
+  name: ninja satchel
   description: Space ninja backpack
   components:
   - type: Sprite
