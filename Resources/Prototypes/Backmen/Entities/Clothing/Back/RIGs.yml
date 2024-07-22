@@ -142,17 +142,3 @@
         showEnts: False
         occludes: True
         ents: [ ]
-
-- type: entity
-  id: ActionToggleSuitInvisiblePower
-  name: Включить маскировку
-  description: Включает маскировку в местности, вас не видно от слова совсем.
-  noSpawn: true
-  components:
-  - type: InstantAction
-    itemIconStyle: BigAction
-    icon:
-      sprite: Backmen/Clothing/Back/RIGs/chrono.rsi
-      state: icon
-    useDelay: 2
-    event: !type:PsionicInvisibilityPowerActionEvent
