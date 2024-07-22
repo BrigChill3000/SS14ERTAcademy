@@ -29,8 +29,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatPilotkaSec
-  name: пилотка СБ
-  description: Пилотка сотрудников СБ НТ, в основном используется силами космической обороны. Имеет двойную окантовку и кокарду НТ.
+  name: pilot cap security
+  description: The pilot cap of security NT employees is mainly used by the space defense forces. It has a double edging and an NT cockade.
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Head/Soft/secpilotka.rsi
@@ -51,8 +51,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatMVDCap
-  name: кепка полиции ОПЗ
-  description: Кепка полиции ОПЗ, имеет какарду министерства внутренних дел ОПЗ.
+  name: cap police MVD
+  description: MVD police cap, has the MVD Ministry of Internal Affairs cap.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Soft/mvdcap.rsi
