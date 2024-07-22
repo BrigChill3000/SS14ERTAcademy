@@ -64,3 +64,7 @@
             # cargo
             SalvageSpecialist: [ 3, 3 ]
             CargoTechnician: [ 2, 2 ]
+            #ERTAcademy
+            BlueShield: [ 1, 1 ]
+            Brigmedic: [ 1, 1 ]
+            CentComConsultant: [ 1, 1 ]
