@@ -23,8 +23,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: GermanSuit
-  name: Форма Немецкого Солдата
-  description: Военная форма немецких войск
+  name: german soldier uniform
+  description: Military uniform of German troops.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/germansoldierbel.rsi
@@ -34,8 +34,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: GermanOfficerSuit
-  name: Форма немецкого офицера
-  description: Форма которую носят немецкие офицеры
+  name: german officer uniform
+  description: The uniform worn by German officers
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/officergermanbel.rsi
@@ -45,8 +45,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: SovietSoldierUniformSuit
-  name: Униформа солдата СССП
-  description: Опрятная форма бойца фракции СССП
+  name: USSP soldier uniform
+  description: The neat uniform of a fighter of the USSP faction
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/ssspsuitbel.rsi
@@ -56,8 +56,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: SovietOfficerUniformSuit
-  name: Униформа офицера СССП
-  description: Опрятная форма офицера фракции СССП
+  name: USSP officer uniform
+  description: The neat uniform of an officer of the USSP faction
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/officerssspsuitbel.rsi
@@ -67,8 +67,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ElPresidenteNanotrasenSuit
-  name: Костюм Президента Nanotrasen
-  description: Великолепно опрятный, элегантный и очень дорогой президента корпорации.
+  name: nanotrasen presidential Suit
+  description: The superbly neat, elegant and very expensive president of the corporation.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/elpresidentenanobel.rsi
@@ -78,8 +78,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: PredstavitelNanotrasenSuit
-  name: Костюм Представителя корпорации NT
-  description: Великолепный костюм корпорационной шишки
+  name: NT corporation representative costume
+  description: Gorgeous suit of a corporate bigwig
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/nanotrasenpredstavbel.rsi
@@ -89,8 +89,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: tsfPredstavSuit
-  name: Костюм Представителя ТСФ
-  description: Покажите кто тут главный в транс-солнечной-федерации!
+  name: TSF representative costume
+  description: Show who's boss here in the trans-solar federation!
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/solgovpredstavbel.rsi
@@ -100,8 +100,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: LeutenantUniformtfsSuit
-  name: Униформа лейтенанта войск ТСФ
-  description: Руководите военными силами ТСФ!
+  name: uniform of a lieutenant of the TSF troops
+  description: Lead the TSF military forces!
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/solgovleutetantbel.rsi
@@ -111,8 +111,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: soldiertsfuniformSuit
-  name: Униформа бойца ТСФ
-  description: Служите во славу ТСФ!
+  name: TSF fighter uniform
+  description: Serve for the glory of TSF!
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/solgovsoldierbel.rsi
@@ -122,8 +122,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitMTF
-  name: Водолазка сотрудника МОГ
-  description: Светло-серая водолазка без опознавательных знаков, которая носится членами МОГ спецподразделения Браво-716
+  name: MTF Turtleneck
+  description: An unmarked light gray turtleneck worn by members of MTF Bravo-716
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/mtf_turtleneck.rsi
@@ -133,7 +133,7 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitGachi
-  name: Men's suit
+  name: men's suit
   description: A suit imbued with strong male relationships and solidarity!
   components:
   - type: Sprite
@@ -144,8 +144,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformArbitr
-  name: Костюм Арбитра
-  description:  Невероятно дорогой костюм Арбитра неизвестной корпорации.В комплекте идет золотая серьга в виде черепа и 2 золотых кольца
+  name: arbiter Suit
+  description: Incredibly expensive Arbiter costume from an unknown corporation. Includes a gold earring in the shape of a skull and 2 gold rings
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/arbitr_eblan.rsi
@@ -155,7 +155,7 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitCargoPostal
-  name: Postal jumpsuit
+  name: postal jumpsuit
   description: A sturdy jumpskirt, issued to members of the Cargo department for postal work.
   components:
   - type: Sprite
@@ -166,8 +166,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: AgentUniformOneSuit
-  name: Полосатый деловой костюм
-  description: Дорогой костюм распространенный в дорогих местах.
+  name: striped business suit
+  description: An expensive suit common in expensive places.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/avdpoloska.rsi
@@ -177,8 +177,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: AgentUniformTwoSuit
-  name: Деловая жилетка
-  description: Дорогой костюм распространенный в дорогих местах.
+  name: business vest
+  description: An expensive suit common in expensive places.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/avdvictoriavest.rsi
@@ -188,8 +188,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: JokerSuit
-  name: Костюм Джокера
-  description: Тот самый костюм который носил преступник под псевдонимом Джокер
+  name: joker's costume
+  description: The same costume worn by the criminal under the pseudonym Joker
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/jokersuitbel.rsi
@@ -199,8 +199,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: AgentfoursevenSuit
-  name: Деловой костюм агента синдиката
-  description: Костюм сделанный по специальному заказу, ранее пренадлежал агенту 47
+  name: syndicate agent business suit
+  description: Custom-made suit, previously owned by Agent 47.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/syndicatetactic.rsi
@@ -210,8 +210,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: MagistratUniformSuit
-  name: Костюм магистрата
-  description: Увольте пару срочников!
+  name: magistrate costume
+  description: Fire a couple of conscripts!
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/magistratebel.rsi
@@ -221,8 +221,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: BlueshieldUniformSuit
-  name: Костюм Блюшилд
-  description: Носитель данного костюма обязан защищать глав.
+  name: blueshield costume
+  description: The wearer of this costume is obliged to protect the heads.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/blueshieldformal.rsi
@@ -232,8 +232,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitCentcomVeryOfficial
-  name: Официальная рубашка сотрудника ЦК
-  description: Вот прелесть карпоративной жизни, стильные костюмы в тему!
+  name: official shirt of a CentCom
+  description: That's the beauty of corporate life, stylish suits to match the theme!
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/centcom-official.rsi
@@ -243,8 +243,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitCentcomIntern
-  name: Форма ассистента ЦК
-  description: Носитель данного костюма обязан принести чащечку кофе.
+  name: jumpsuit centcom intern
+  description: The wearer of this costume is required to bring a cup of coffee.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/centcom-intern.rsi
@@ -254,8 +254,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitCentcomMilitary
-  name: Военная униформа Начальника Безопасности ЦК
-  description: Свободная и крепкая униформа спец сил ЦК.
+  name: military uniform head of security CentCom
+  description: Loose and strong uniform of the Central Commander special forces.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/centcom-military.rsi
@@ -272,8 +272,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitDeliveryman
-  name: Костюм доставщика
-  description: Пахнет пиццей
+  name: jumpsuit deliveryman
+  description: Smells like pizza!
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/space_club.rsi
@@ -342,8 +342,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitUEG
-  name: Водолазка представителя ОПЗ
-  description: Лёгкая и комфортная водолазка
+  name: UEG representative turtleneck
+  description: Lightweight and comfortable turtleneck
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/eug-jumpsuit.rsi
@@ -353,8 +353,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitUEGofficer
-  name: Униформа офицера ОПЗ
-  description: Униформа с безполезным камуфляжем. Лучше не связыватся с её обладателями
+  name: UEG officer uniform
+  description: Uniform with useless camouflage. It's better not to contact its owners
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/eug-officer-jumpsuit.rsi
@@ -364,8 +364,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitcannonier
-  name: Униформа Канонира
-  description: Полевая униформа канонира.
+  name: jumpsuit gunner
+  description: Gunner's field uniform.
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Uniforms/Jumpsuit/cannonier.rsi
@@ -375,8 +375,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitcannonieruniform
-  name: Парадная Униформа Канонира
-  description: Парадная униформа канонира.
+  name: gunner's dress uniform
+  description: Gunner's dress uniform.
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Uniforms/Jumpsuit/cannonier_uniform.rsi
@@ -386,8 +386,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitprivateofficer
-  name: Униформа Приватного Офицера СБ ЦК
-  description: Полевая униформа Приватного Офицера СБ ЦК
+  name: uniform of a private officer of the security CentCom
+  description: Field uniform of a private security officer CentCom
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Uniforms/Jumpsuit/centcom-private_officer.rsi
@@ -397,8 +397,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitseniorofficer
-  name: Униформа Старшего Офицера ЦК
-  description: Полевая униформа Старшего Офицера ЦК
+  name: uniform of a senior officer CentCom
+  description: Field uniform of a senior officer CentCom
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Uniforms/Jumpsuit/centcom-senior_officer.rsi
@@ -408,8 +408,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitseniorofficeruniform
-  name: Парадная Униформа Старшего Офицера ЦК
-  description: Парадная униформа Старшего Офицера ЦК
+  name: ceremonial uniform of a senior officer CentCom
+  description: Ceremonial uniform of a senior officer CentCom
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Uniforms/Jumpsuit/centcom-senior_officer_uniform.rsi
@@ -419,8 +419,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitinformationsecurityanalyst
-  name: Униформа Аналитика Информационной Безопасности
-  description: Полевая униформа Аналитика Информационной Безопасности
+  name: information security analyst uniform
+  description: Field uniform Information Security Analyst
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Uniforms/Jumpsuit/information_security_analyst.rsi
@@ -430,8 +430,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitstutman
-  name: Униформа Штурмана
-  description: Полевая униформа Штурмана
+  name: navigator's uniform
+  description: Navigator's field uniform
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Uniforms/Jumpsuit/stutman.rsi
@@ -441,8 +441,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitstutmanuniform
-  name: Парадная Униформа Штурмана
-  description: Парадная униформа Штурмана
+  name: navigator's dress uniform
+  description: Navigator's dress uniform
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Uniforms/Jumpsuit/stutman_uniform.rsi
@@ -452,8 +452,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitmaidblack
-  name: Черный Костюм Горничной
-  description: По всей видимости это классический костюм французской горничной.
+  name: black maid costume
+  description: Apparently this is a classic French maid costume.
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Uniforms/Jumpsuit/maid_black.rsi
@@ -463,8 +463,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitmaidblue
-  name: Синий Костюм Горничной
-  description: Он такой же как и черный, но синий, не обижайте его владельца ;)
+  name: blue maid costume
+  description: It's the same as black, but blue, don't offend its owner ;)
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Uniforms/Jumpsuit/maid_blue.rsi
@@ -474,8 +474,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitmaidpink
-  name: Розовый Костюм Горничной
-  description: Он такой же как и черный, но розовый, не обижайте его владельца ;)
+  name: pink maid costume
+  description: It's the same as black, but pink, don't offend its owner ;)
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Uniforms/Jumpsuit/maid_pink.rsi
@@ -485,8 +485,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitNavalUniform
-  name: Морская униформа
-  description: Униформа так и кричит "за ВДВ"
+  name: naval uniform
+  description: The uniform screams “for AF!”
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Uniforms/Jumpsuit/naval_uniform.rsi
@@ -496,8 +496,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitSuitSssp
-  name: Спортивный костюм.
-  description: Может сегодня повезёт и пообщаемся с капитаном достойно.
+  name: sports suit
+  description: Maybe today we’ll get lucky and have a decent conversation with the captain.
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Uniforms/Jumpsuit/tracksuit.rsi
@@ -507,8 +507,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformVamp
-  name: Деловая жилетка вампира
-  description:  Весьма стильно для данного рода занятий
+  name: business vampire vest
+  description: Very stylish for this type of activity
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/vampsuit.rsi
@@ -518,8 +518,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitAlxLaiho
-  name: Чёрная футболка и зелёные карго
-  description: Вы чувствуете себя чем-то диким!
+  name: black t-shirt and green cargo
+  description: You feel something wild!
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/alxlaiho.rsi
@@ -529,8 +529,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitSpetsnaz
-  name: форма спецвойск
-  description: Форма бойцов спецвойск.
+  name: special forces uniform
+  description: uniform of special forces soldiers.
   components:
   - type: Armor
     modifiers:
@@ -570,8 +570,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitPsychologistCrimson
-  name: малиновый костюм психолога
-  description: Что вы знаете о нулях и хроносе?
+  name: crimson psychologist costume
+  description: What do you know about zeros and chronos?
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/psycrimson.rsi
@@ -581,8 +581,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitNull
-  name: Порванный халат
-  description: Халат у которого порван рукав, но для костюма на хэллоуин
+  name: torn robe
+  description: A robe with a torn sleeve, but for a Halloween costume
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/null.rsi
@@ -592,8 +592,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitRichard # Backmen
-  name: Бомбер Ричарда
-  description: Вы чувствуете себя чем-то диким!
+  name: richard's bomber
+  description: You feel something wild!
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/jecket.rsi
@@ -603,8 +603,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitbiker # Backmen
-  name: Байкерская жилетка
-  description: Вы чувствуете себя чем-то диким!
+  name: biker vest
+  description: You feel something wild!
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/Jumpsuit/biker.rsi
