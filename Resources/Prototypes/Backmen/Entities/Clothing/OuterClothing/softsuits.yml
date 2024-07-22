@@ -3,7 +3,7 @@
   parent: ClothingOuterEVASuitBase
   id: ClothingOuterHardsuitCargoEVA
   name: EVA cargo suit
-  description: Скафандр EVA изготовленный специально для отдела снабжения.
+  description: EVA suit made specifically for the supply department.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/OuterClothing/Hardsuits/eva_cargo.rsi
