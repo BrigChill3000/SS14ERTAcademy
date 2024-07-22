@@ -1,8 +1,8 @@
 - type: entity
-  name: Рапира
+  name: rapier
   parent: BaseItem
   id: Rapier
-  description: Рапира выкована стариком Мифистофелем.
+  description: The rapier was forged by the old man Mephistopheles.
   components:
   - type: Sharp
   - type: Sprite
