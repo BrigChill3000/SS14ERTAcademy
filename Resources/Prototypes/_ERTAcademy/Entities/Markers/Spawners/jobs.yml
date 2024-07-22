@@ -11,3 +11,15 @@
       - state: green
       - state: blueshield
 
+- type: entity
+  id: SpawnPointCentComConsultant
+  parent: SpawnPointJobBase
+  name: centcom consultant
+  components:
+  - type: SpawnPoint
+    job_id: CentComConsultant
+  - type: Sprite
+    sprite: ERTAcademy/Markers/jobs.rsi
+    layers:
+      - state: green
+      - state: consultant
