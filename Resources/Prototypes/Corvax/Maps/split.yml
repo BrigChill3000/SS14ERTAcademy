@@ -62,9 +62,9 @@
             SalvageSpecialist: [ 1, 1 ]
             CargoTechnician: [ 3, 3 ]
             #ERTAcademy
-            BlueShield: [ 1, 1 ]
-            Brigmedic: [ 1, 1 ]
-            CentComConsultant: [ 1, 1 ]
+            #BlueShield: [ 1, 1 ]
+            #Brigmedic: [ 1, 1 ]
+            #CentComConsultant: [ 1, 1 ]
     Payback:
       stationProto: NanotrasenStationNoArrivals
       components:
@@ -119,9 +119,9 @@
             SalvageSpecialist: [ 1, 1 ]
             CargoTechnician: [ 2, 3 ]
             #ERTAcademy
-            BlueShield: [ 1, 1 ]
-            Brigmedic: [ 1, 1 ]
-            CentComConsultant: [ 1, 1 ]
+            #BlueShield: [ 1, 1 ]
+            #Brigmedic: [ 1, 1 ]
+            #CentComConsultant: [ 1, 1 ]
     Lumber:
       stationProto: NanotrasenStationNoArrivals
       components:
@@ -194,6 +194,6 @@
             SalvageSpecialist: [ 3, 3 ]
             CargoTechnician: [ 3, 4 ]
             #ERTAcademy
-            BlueShield: [ 1, 1 ]
-            Brigmedic: [ 1, 1 ]
-            CentComConsultant: [ 1, 1 ]
+            #BlueShield: [ 1, 1 ]
+            #Brigmedic: [ 1, 1 ]
+            #CentComConsultant: [ 1, 1 ]
