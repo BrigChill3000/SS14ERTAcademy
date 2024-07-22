@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatUshankaSSSP
-  name: Ушанка СССП
-  description: "Отлично подходит для Сибири, да?"
+  name: ushanka USSP
+  description: "Great for Siberia, right?"
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Hats/ushankaSSSP.rsi
@@ -14,8 +14,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatCapGerman
-  name: Фуражка немецкого офицера
-  description: Довольно старая фуражка офицера руководящего немецкими войсками
+  name: german officer's cap
+  description: Quite an old cap of an officer leading German troops.
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Head/Hats/germancapofficerbel.rsi
@@ -25,8 +25,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatCapOfficerSoviet
-  name: Фуражка Советского Офицера
-  description: Современная версия фуражки офицера руководящего войсками СССП
+  name: soviet officer's cap
+  description: A modern version of the cap of an officer who led the troops of the USSP.
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Head/Hats/sovietcapbel.rsi
@@ -35,9 +35,9 @@
 
 - type: entity
   parent: ClothingHeadBase
-  id: ClothingWhitsHunter
-  name: Шляпа охотника за ведьмами
-  description: Шляпа охотника за мифическими существами, а именно ведьмами в стиле средневековья
+  id: ClothingHatWitchHunter
+  name: witch hunter hat
+  description: Hat of a hunter of mythical creatures, namely witches in the style of the Middle Ages.
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Head/Hats/whitshunterbelov.rsi
@@ -47,8 +47,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatBeretHoSCentcom
-  name: Берет Начальника Безопасности ЦК
-  description: Стильный чёрный берет с зелёным значком показывает кто тут следит запорядком.
+  name: centcom security beret
+  description: A stylish clothing option for CentCom security officers.
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Head/Hats/cchos_beret.rsi
@@ -102,8 +102,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatSoldier
-  name: фуражка солдата СССП
-  description: Гласит приказ "Ни шагу назад"!
+  name: USSP soldier's cap
+  description: The order says "Not a step back"!
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Hats/capsssp.rsi
@@ -117,8 +117,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatCapSec
-  name: Фуражка офицера СБ
-  description: Фуражка сотрудника СБ, имеет эмблему НТ.
+  name: security officer's cap
+  description: The cap of an security officer has the NT emblem.
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Head/Hats/seccap.rsi
@@ -128,7 +128,7 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatEgovNavyOfficerCap
-  name: navy officer cap #имеется ввиду фуражка :humanTorch:
+  name: navy officer cap
   description: Navy officer cap. Better than any stripes will emphasize your importance and rank.
   components:
   - type: Sprite
@@ -139,7 +139,7 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatEgovShtabCap
-  name: staff officer cap #имеется ввиду фуражка :humanTorch:
+  name: staff officer cap
   description: Officer cap. Better than any stripes will emphasize your importance and rank.
   components:
   - type: Sprite
@@ -150,7 +150,7 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatEgovShtabGuardCap
-  name: staff guard cap #имеется ввиду кепка :humanTorch:
+  name: staff guard cap
   description: Officer cap. Better than any stripes will emphasize your importance and rank.
   components:
   - type: Sprite
@@ -194,8 +194,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatMVDBeret
-  name: берет полиции ОПЗ
-  description: Берет офицеров полиции ОПЗ, имеет эмблему министерства внутренних дел ОПЗ.
+  name: beret police MVD
+  description: Beret police officers MVD, has the emblem of the Ministry of Internal Affairs MVD.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Hats/mvdberet.rsi
@@ -205,8 +205,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatMVDOfficerCap
-  name: фуражка ОПЗ
-  description: Фуражка полиции ОПЗ, имеет какарду с винками министерства внутренних дел ОПЗ.
+  name: MVD cap
+  description: The cap of the MVD police has a cockade with the pins of the Ministry of Internal Affairs of the MVD.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Hats/mvdcapofficer.rsi
@@ -224,14 +224,14 @@
   noSpawn: true
   parent: ClothingHeadHatBeretHoS
   id: ClothingHeadHatBeretMobileTaskForce
-  name: берет отдела специальных операций
-  description: Черный берет с вышитой командирской эмблемой. Для офицеров, которые предпочитают стиль безопасности.
+  name: beret the special operations department
+  description: Black beret with embroidered commander's emblem. For officers who prefer a security style.
 
 - type: entity
   parent: ClothingMaskBase
   id: ClothingAnonMask
-  name: Маска Анонимуса
-  description: Анон!
+  name: anonymous mask
+  description: Che za actualo4ka?
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Hats/anon.rsi
@@ -241,8 +241,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatAlex
-  name: Алекс
-  description: Кто пригласил всех этих идиотов?
+  name: Alex
+  description: Who invited all these idiots?
   components:
    - type: Sprite
      sprite: Backmen/Clothing/Head/Hats/alex.rsi
@@ -254,8 +254,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatJake
-  name: Джейк
-  description: Что, бля, за неуважение?
+  name: Jake
+  description: Show some goddamn respect!
   components:
    - type: Sprite
      sprite: Backmen/Clothing/Head/Hats/jake.rsi
@@ -267,8 +267,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatRasmus
-  name: Расмус
-  description: Я не знаю тебя! Зачем ты здесь? Я тебя не приглашал.
+  name: Rasmus
+  description: I don't know you! Why are you here? You're no guest of mine!
   components:
    - type: Sprite
      sprite: Backmen/Clothing/Head/Hats/rasmus.rsi
@@ -280,8 +280,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatRichter
-  name: Рихтер
-  description: Ааа, вот ты где! А я всё думал, когда ты вернёшься?
+  name: Richter
+  description: Ahh, there you are! And I kept wondering, when will you come back?
   components:
    - type: Sprite
      sprite: Backmen/Clothing/Head/Hats/richter.rsi
@@ -293,8 +293,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatTony
-  name: Тони
-  description: Чувак, эта вечеринка отстой. Я ненавижу этих людей.
+  name: Tony
+  description: Dude, this party sucks. I hate these people.
   components:
    - type: Sprite
      sprite: Backmen/Clothing/Head/Hats/tony.rsi

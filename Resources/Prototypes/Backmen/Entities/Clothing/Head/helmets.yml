@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingMogHelmet
-  name: Баллистический Шлем МОГ
-  description: Баллистический Шлем корпорации CSH для бойцов МОГ, покрыт желтым слоем стекла, обеспечивает защиту от осколков, разработан инженером CSH Беловым.
+  name: mog ballistic helmet
+  description: Ballistic Helmet of the CSH Corporation for MOG fighters, covered with a yellow layer of glass, provides protection from fragments, designed by CSH engineer Belov.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Helmets/mog_helmet.rsi
@@ -17,8 +17,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadIOGHelmet
-  name: Шлем биологической защиты ИОГ.
-  description: Шлем биологической защиты ИОГ. Оснащен прокладками из прочного материала, способного сдержать выстрел мелкокалиберного оружия.
+  name: iog biological protection helmet.
+  description: IOG biological protection helmet. Equipped with gaskets made of durable material capable of holding back shots from small-caliber weapons.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Helmets/biohazardIOG.rsi
@@ -35,8 +35,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHelmetPoloskiAltin
-  name: Тяжёлый шлем Алтын
-  description: Тяжелый шлем марки АЛТЫН, способен выдержать выстрел крупнокалиберного оружия.
+  name: heavy helmet Altyn
+  description: A heavy helmet of the ALTYN brand is capable of withstanding a shot from a large-caliber weapon.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Helmets/altinbelov.rsi
@@ -54,8 +54,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadGermanHelmet
-  name: Старый немецкий шлем
-  description: Довольно старый шлем, который потрепало временем.
+  name: old german helmet
+  description: Quite an old helmet that has been worn out by time.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Helmets/germanhelmetbelov.rsi
@@ -71,8 +71,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHelmetSSSP
-  name: Легкий советский шлем
-  description: Легкий шлем советских войск
+  name: light soviet helmet
+  description: Light helmet of the Soviet troops
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Helmets/helmetssspbel.rsi
@@ -90,8 +90,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHelmetIhsCombathelmet
-  name: Тяжелый тактический шлем IHS
-  description: Тяжелый шлем неизвестной корпорации, никто не знает кому принадлежат бойцы которые носят данный шлем.
+  name: IHS heavy tactical helmet
+  description: A heavy helmet from an unknown corporation; no one knows who owns the fighters who wear this helmet.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Helmets/ihscombathelmetbelsuper.rsi
@@ -112,7 +112,7 @@
   id: ClothingHeadHelmetCargoEVA
   noSpawn: true
   name: EVA cargo helmet
-  description: Встроенный шлем скафандра EVA отдела снабжения. Есть фонарик.
+  description: Integrated supply department EVA suit helmet. There is a flashlight.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Helmets/eva_cargo.rsi
@@ -129,8 +129,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHelmetRed
-  name: красный мотошлем
-  description: Вы чувствуете жажду. Не только скорости.
+  name: red motorcycle helmet
+  description: You feel thirsty. Not just speed.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Helmets/motohelmetred.rsi
@@ -147,8 +147,8 @@
 - type: entity
   parent: ClothingHeadHelmetRed
   id: ClothingHeadHelmetGreen
-  name: зелёный мотошлем
-  description: Вы чувствуете жажду. Не только скорости.
+  name: green motorcycle helmet
+  description: You feel thirsty. Not just speed.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Helmets/motohelmetgreen.rsi
@@ -158,8 +158,8 @@
 - type: entity
   parent: ClothingHeadHelmetRed
   id: ClothingHeadHelmetBlue
-  name: синий мотошлем
-  description: Вы чувствуете жажду. Не только скорости.
+  name: blue motorcycle helmet
+  description: You feel thirsty. Not just speed.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Helmets/motohelmetblue.rsi
@@ -169,8 +169,8 @@
 - type: entity
   parent: ClothingHeadHelmetRed
   id: ClothingHeadHelmetBlack
-  name: чёрный мотошлем
-  description: Вы чувствуете жажду. Не только скорости.
+  name: black motorcycle helmet
+  description: You feel thirsty. Not just speed.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Helmets/motohelmetblack.rsi
@@ -180,8 +180,8 @@
 - type: entity
   parent: ClothingHeadHelmetRed
   id: ClothingHeadHelmetWhite
-  name: белый мотошлем
-  description: Вы чувствуете жажду. Не только скорости.
+  name: white motorcycle helmet
+  description: You feel thirsty. Not just speed.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Helmets/motohelmetwhite.rsi
@@ -191,8 +191,8 @@
 - type: entity
   parent: ClothingHeadHelmetRed
   id: ClothingHeadHelmetYellow
-  name: жёлтый мотошлем
-  description: Вы чувствуете жажду. Не только скорости.
+  name: yellow motorcycle helmet
+  description: You feel thirsty. Not just speed.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Helmets/motohelmetyellow.rsi
@@ -254,8 +254,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHelmetMVD
-  name: противоударный шлем
-  description: Обычный шлем с желтым визором.
+  name: impact helmet
+  description: A regular helmet with a yellow visor.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Helmets/helmetmvd.rsi

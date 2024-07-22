@@ -1,7 +1,7 @@
 - type: entity
   name: shinai
   parent: BaseItem
-  id: Shinai
+  id: shinai
   description: A bamboo sword, commonly used in kendo. Made some time after the realization that wooden swords hurt a lot.
   components:
   - type: Sprite
@@ -24,10 +24,10 @@
   - type: DisarmMalus
 
 - type: entity
-  name: дубинка-шокер спецсил
+  name: special forces stun baton
   parent: Stunbaton
   id: StunbatonSuper
-  description: Электрошоковая дубинка для обездвиживания людей. Слишком усердное причинение вреда с помощью этого предмета считается дурным тоном.
+  description: Electric shock baton for immobilizing people. It is considered bad manners to try too hard to cause harm with this item.
   components:
     - type: Stunbaton
       energyPerUse: 10

@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingOuterHardsuitBase
   id: ClothingOuterHardsuitBerserk
-  name: Скафандр берсерка
-  description: Самая лучшая броня, для самого лучшего мазилы!
+  name: berserker suit
+  description: The best armor, for the best rubbed!
   components:
   - type: Sprite
     sprite: Backmen/Clothing/OuterClothing/Armor/hardsuit/hardsuit_berserk.rsi
@@ -33,7 +33,7 @@
 - type: entity
   parent: ClothingOuterHardsuitBase
   id: ClothingOuterHardsuitOrdersuit
-  name: Suit of the elite special squad of the red order
+  name: suit of the elite special squad of the red order
   description: Extremely valuable and desirable for any corporation. an unreadable name engraved on the shoulder
   components:
   - type: Sprite
@@ -65,7 +65,7 @@
 - type: entity
   parent: ClothingOuterHardsuitBase
   id: ClothingOuterHardsuitOrdinaryOrdersuit
-  name: Suit of the special detachment of the red order
+  name: suit of the special detachment of the red order
   description: Extremely valuable and desirable for any corporation. an unreadable name engraved on the shoulder
   components:
   - type: Sprite
@@ -99,8 +99,8 @@
 - type: entity
   parent: ClothingOuterHardsuitBase
   id: ClothingOuterHardsuitCentcomCarporate
-  name: Скафандр ЦК (Корпорат)
-  description: Специальный космический костюм Корпорат сделаный для различных ситуация и весьма лёгкий в ношении.
+  name: hardsuit corporate CentCom
+  description: Special space suit Korporat made for various situations and very easy to wear.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/OuterClothing/Hardsuits/centcom_corparat.rsi
@@ -129,8 +129,8 @@
 - type: entity
   parent: ClothingOuterHardsuitBase
   id: ClothingOuterHardsuitUEG
-  name: Скафандр С.О.Н
-  description: Обычный скафандр С.О.Н который выдаётся оперативникам С.О.Н и некоторым офицерам ОПЗ
+  name: spacesuit S.O.N
+  description: A regular S.O.N suit issued to S.O.N operatives and some UEG officers
   components:
   - type: Sprite
     sprite: Backmen/Clothing/OuterClothing/Hardsuits/ueg-hardsuit.rsi
@@ -159,7 +159,7 @@
 - type: entity
   parent: ClothingOuterHardsuitERTEngineer
   id: ClothingOuterHardsuitERTEngineerReal
-  suffix: Нормальная
+  suffix: Normal
   components:
   - type: PressureProtection
     highPressureMultiplier: 0.2

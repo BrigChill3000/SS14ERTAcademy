@@ -1,7 +1,7 @@
 - type: entity
   parent: ClothingHandsBase
   id: ClothingHandsGlovesOrdenHands
-  name: Gloves of the Elite Squad of the Red Order.
+  name: gloves of the Elite Squad of the Red Order.
   description: Gloves given to important members of the Red Order. they are inlaid with gold.
   components:
   - type: Sprite
@@ -19,8 +19,8 @@
 - type: entity
   parent: ClothingHandsBase
   id: ClothingHandsGlovesmantis
-  name: клинки богомола
-  description: Боевой кибернетический имплант. Клинки исходят из предплечья, что позволяет использовать их как оружие ближнего боя.
+  name: mantis blades
+  description: Combat cybernetic implant. The blades extend from the forearm, allowing them to be used as melee weapons.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Hands/Gloves/mantis.rsi
@@ -41,8 +41,8 @@
 - type: entity
   parent: ClothingHandsBase
   id: ClothingHandsGlovesSpetsnazcombat
-  name: боевые перчатки спецназа
-  description: Эти тактические перчатки огнеупорны и ударопрочны.
+  name: special forces combat gloves
+  description: These tactical gloves are fire and impact resistant.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Hands/Gloves/ihscombat.rsi
@@ -68,8 +68,8 @@
 - type: entity
   parent: ClothingHandsBase
   id: ClothingHandsBint # Backmen
-  name: боксерский бинт
-  description: полоса ткани, которую используют боксёры и представители других спортивных единоборств .
+  name: boxing bandage
+  description: A strip of fabric used by boxers and other combat sports.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Hands/Gloves/binti.rsi

@@ -1,7 +1,7 @@
 - type: entity
   parent: Clothing
   id: idcoin
-  name: жетон
+  name: coin
   components:
   - type: Sprite
     sprite: Backmen/Objects/Misc/dogtags.rsi
@@ -20,13 +20,13 @@
 
 - type: entity
   parent: idcoin
-  id: idcoinRXBZZ
-  name: жетон РХБЗЗ
+  id: idcoinCBURN
+  name: coin CBURN
   noSpawn: true
   components:
   - type: IdCard
-    jobTitle: Войска РХБЗЗ Sierra-6
-    fullName: Оперативник
+    jobTitle: Troops CBURN Sierra-6
+    fullName: Operative
     jobIcon: JobIconMarin
   - type: Access
     groups:
@@ -34,13 +34,13 @@
 
 - type: entity
   parent: idcoin
-  id: idcoinRXBZZSergant
-  name: жетон РХБЗЗ Лидер
+  id: idcoinCBURNSergant
+  name: coin CBURN sergant
   noSpawn: true
   components:
   - type: IdCard
-    jobTitle: Войска РХБЗЗ Sierra-6
-    fullName: Командир Отряда
+    jobTitle: Troops CBURN Sierra-6
+    fullName: Squad Leader
     jobIcon: JobIconSergant
   - type: Access
     groups:

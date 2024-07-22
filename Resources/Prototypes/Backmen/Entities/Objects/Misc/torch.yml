@@ -1,8 +1,8 @@
 - type: entity
-  name: факел из огненной смеси
+  name: fire mixture torch
   parent: Torch
   id: TorchSuper
-  description: Обычный факел, облитый смесью для розжига
+  description: An ordinary torch doused with lighter mixture
   components:
     - type: ExpendableLight
       spentName: expendable-light-burnt-torch-name

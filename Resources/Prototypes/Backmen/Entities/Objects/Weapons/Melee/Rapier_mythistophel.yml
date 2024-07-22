@@ -1,8 +1,8 @@
 - type: entity
-  name: Рапира Мифистофеля
+  name: mephistophele's rapier
   parent: BaseItem
   id: MythistophelRapier
-  description: Рапира выкована стариком Мифистофелем, чувствуется запах напалма
+  description: The rapier was forged by the old man Mephistopheles, you can smell napalm
   components:
   - type: IgniteOnMeleeHit
     fireStacks: 1

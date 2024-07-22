@@ -1,8 +1,8 @@
 - type: entity
-  name: ПП Витязь
+  name: PP Vityaz
   parent: BaseWeaponRifle
   id: WeaponSmgVityazsssp
-  description: Пистолет пулемет витязь, стоит на вооружении у военных сил СССП. использует .20 калибр
+  description: The Knight submachine gun is in service with the military forces of the USSP. uses .20 caliber
   components:
   - type: Sprite
     sprite: Backmen/Objects/Weapons/Guns/SMG/vityazbel.rsi

@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingHeadHardsuitBase
   id: ClothingHeadHelmetHardsuitBerserk
-  name: Шлем берсерка
-  description: Хоть в нем ничего не видно, но лучшему мазиле это и не надо!
+  name: helmet berserk
+  description: Although you can’t see anything in it, the best guy doesn’t need it!
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Helmets/hardsuits/berserkhelm.rsi
@@ -15,7 +15,7 @@
 - type: entity
   parent: ClothingHeadHardsuitWithLightBase
   id: ClothingHeadHelmetHardsuitOrden
-  name: Helmet of the space suit of the elite special squad of the Red Order.
+  name: helmet of the space suit of the elite special squad of the Red Order.
   description: An indispensable part of the suit, it has small scratches.
   components:
   - type: Sprite
@@ -41,7 +41,7 @@
 - type: entity
   parent: ClothingHeadHardsuitWithLightBase
   id: ClothingHeadHelmetHardsuitOrdinaryOrden
-  name: Helmet of the space suit of the Red Order.
+  name: helmet of the space suit of the Red Order.
   description: An indispensable part of the suit, it has small scratches.
   components:
   - type: Sprite
@@ -68,8 +68,8 @@
 - type: entity
   parent: ClothingHeadHardsuitWithLightBase
   id: ClothingHeadHelmetHardsuitCentcomCarporate
-  name: Шлем скафандра ЦК (Корпорат)
-  description: Специальный космический шлем Корпорат сделаный для различных ситуация с хорошим фанариком лоялиста НаноТрайзен.
+  name: helmet hardsuit corporate CentCom
+  description: Special Carporate space helmet made for various situations with a good flashlight of the NanoTraisen loyalist.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Hardsuits/centcom_corparat.rsi
@@ -94,8 +94,8 @@
 - type: entity
   parent: ClothingHeadHardsuitWithLightBase
   id: ClothingHeadHelmetHardsuitUEG
-  name: Шлем скафандра охраны ОПЗ
-  description: Этот шлем был нагло скопирован с шлема лидера ОБР NanoTrasen
+  name: UEG security suit helmet
+  description: This helmet was blatantly copied from the helmet of the leader of the ERT NanoTrasen
   components:
   - type: Sprite
     sprite: Clothing/Head/Hardsuits/ERThelmets/ertleader.rsi

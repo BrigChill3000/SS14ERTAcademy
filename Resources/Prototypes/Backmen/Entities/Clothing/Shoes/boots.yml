@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingShoesBaseButcherable
   id: ClothingShoesBootsIHScombat
-  name: Боевая обувь IHS
-  description: Удобная обувь наемников IHS, защищает от взрывов
+  name: combat boots IHS
+  description: Comfortable shoes for IHS mercenaries, protects against explosions.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Shoes/Boots/ihscombatbootsbel.rsi
@@ -15,9 +15,9 @@
 - type: entity
   parent: ClothingShoesBase
   id: ClothingShoesBootsSpetsnaz
-  name: обувь спецназа
+  name: special forces shoes
   suffix: noslip
-  description: Обувь спецназа Nanotrasen, для боевых операций или боевых действий. Борьба - всё, борьба - всегда.
+  description: Nanotrasen special forces footwear, for combat operations or combat. Fight is everything, fight is always.
   components:
   - type: Sprite
     sprite: Clothing/Shoes/Specific/swat.rsi
@@ -40,8 +40,8 @@
 - type: entity
   parent: ClothingShoesBase
   id: ClothingShoesBootsNedoSpetsnaz
-  name: боевая обувь
-  description: Обувь спецназа Nanotrasen, для боевых операций или боевых действий. Борьба - всё, борьба - всегда.
+  name: combat boots
+  description: Nanotrasen special forces footwear, for combat operations or combat. Fight is everything, fight is always.
   components:
   - type: Sprite
     sprite: Clothing/Shoes/Boots/jackboots.rsi

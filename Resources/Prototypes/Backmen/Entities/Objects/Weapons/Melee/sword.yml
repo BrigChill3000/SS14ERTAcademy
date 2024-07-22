@@ -1,5 +1,5 @@
 - type: entity
-  name: Saber of the Leader of the Red Orden
+  name: saber of the Leader of the Red Orden
   parent: BaseItem
   id: OrdenSabre
   description: Unusual saber. Instead of a blade, this weapon uses the teeth of a space dragon, which cut and cling to the victim's flesh, tearing open wounds. Nightmare weapon.
@@ -147,10 +147,10 @@
   - type: DisarmMalus
 
 - type: entity
-  name: энергетический меч спецназа
+  name: special forces energy sword
   parent: EnergySword
-  id: EnergySwordDedSad
-  description: Энергетический меч спецвойск NanoTrasen, используеться для веселой нарезки экипажа.
+  id: EnergySwordDeathSquad
+  description: The energy sword of the NanoTrasen special forces is used for cheerful slicing of the crew.
   components:
   - type: Sprite
     sprite: Objects/Weapons/Melee/e_sword.rsi

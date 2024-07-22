@@ -34,8 +34,8 @@
 - type: entity
   parent: BasePlushieBk
   id: RubberPig
-  name: Резиновая свинья
-  description: Диментий гони свиней
+  name: rubber pig
+  description: Dementia drive the pigs
   components:
   - type: Sprite
     state: pig

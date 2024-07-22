@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingBeltStorageBase
   id: ClothingBeltRapier
-  name: Ножны рапиры
-  description: Ножны для рапиры
+  name: rapier scabbard
+  description: Rapier scabbard
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Belt/rapier.rsi
@@ -26,8 +26,8 @@
 - type: entity
   parent: ClothingBeltStorageBase
   id: ClothingBeltMythistophelRapier
-  name: Ножны рапиры Мифистофеля
-  description: Ножны для рапиры Мифистофеля
+  name: mephistopheles' rapier scabbard
+  description: Mephistopheles rapier scabbard
   components:
     - type: Sprite
       sprite: Backmen/Clothing/Belt/rapier.rsi

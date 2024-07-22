@@ -2,8 +2,8 @@
 - type: entity
   parent: ClothingNeckBase
   id: ClothingNeckCloakPirate
-  name: Плащ пирата
-  description: Когда нету флагштока, ты сам становишься флагштоком!
+  name: pirate's cloak
+  description: When there is no flagpole, you become the flagpole!
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Neck/Cloaks/pirate.rsi
@@ -11,7 +11,7 @@
 - type: entity
   parent: ClothingNeckBase
   id: ClothingNeckCloakOrden
-  name: Cloak of the Red Order
+  name: cloak of the Red Order
   description: Cloak of the Order of the Red Dragon! This cloak was created by an ancient cult, and to this day no one knows how it got to the station.
   components:
   - type: Sprite
@@ -20,7 +20,7 @@
 - type: entity
   parent: ClothingNeckBase
   id: ClothingNeckCloakSssp
-  name: SSSP Officer's Cloak
+  name: USSP officer's cloak
   description: Awarded for merit to the SSSP. You are the best. You can't hide it.
   components:
   - type: Sprite
@@ -29,8 +29,8 @@
 - type: entity
   parent: ClothingNeckBase
   id: ClothingNeckCloakmeibe
-  name: Плащ лучшего инженера
-  description: Выдаётся за особые заслуги перед Атмосией. Гордитесь собой ведь такой плащ есть только у единиц !
+  name: master engineer's cloak
+  description: Awarded for special services to Atmosia. Be proud of yourself, because only a few have such a cloak!
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Neck/Cloaks/cloak_best_engineer_meibe.rsi
@@ -38,8 +38,8 @@
 - type: entity
   parent: ClothingNeckBase
   id: ClothingNeckCloakchess
-  name: Плащ лучшего шахматиста станции
-  description: Только истинный стратег сможет поднять его!
+  name: cloak of the station's best chess player
+  description: Only a true strategist can lift it!
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Neck/Cloaks/chess.rsi
@@ -47,8 +47,8 @@
 - type: entity
   parent: ClothingNeckBase
   id: ClothingNeckBelovOPG
-  name: Накидка ОПГ
-  description: Плащ главы знаменитой ОПГ, Александра Белова.
+  name: cape OPG
+  description: Cloak of the head of the famous organized crime group, Alexander Belov.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Neck/Cloaks/whitebelov.rsi
@@ -56,8 +56,8 @@
 - type: entity
   parent: ClothingNeckBase
   id: ClothingNeckCloakarbitr
-  name: Плащ Арбитра
-  description: Плащ арбитра идущий в комплекте с его костюмом. Настолько же ценен.
+  name: arbiter's cloak
+  description: The referee's cloak comes with his costume. Just as valuable.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Neck/Cloaks/arbitr.rsi
@@ -65,8 +65,8 @@
 - type: entity
   parent: ClothingNeckBase
   id: ClothingNeckLeatherCoat
-  name: Кожаный плащ
-  description: Как у дедушки...
+  name: leather coat
+  description: Like grandpa...
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Neck/Cloaks/leather_coat.rsi
@@ -74,8 +74,8 @@
 - type: entity
   parent: ClothingNeckBase
   id: ClothingNeckCloakUEG
-  name: Плащ ОПЗ
-  description: Выдаётся только верхушке ОПЗ.
+  name: cloak UEG
+  description: Issued only to the top of the UEG.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Neck/Cloaks/eug-cloak.rsi
@@ -83,7 +83,7 @@
 - type: entity
   parent: ClothingNeckBase
   id: ClothingNeckCloakROE
-  name: The Cloak of the Bloody Void
+  name: the cloak of the Bloody Void
   description: A fascinating cloak, there is clearly something in this void!
   components:
   - type: Sprite
@@ -92,8 +92,8 @@
 - type: entity
   parent: ClothingNeckBase
   id: ClothingNeckCloakTGMCCloak
-  name: Офицерский плащ
-  description: На воротнике видна подпись-MK II-Dusya
+  name: officer's coat
+  description: The signature MK II-Dusya is visible on the collar
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Neck/Cloaks/TGMCcloak.rsi

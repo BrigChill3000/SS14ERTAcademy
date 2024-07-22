@@ -1,7 +1,7 @@
 - type: entity
   parent: ClothingBeltStorageBase
   id: ClothingBeltOrden
-  name: Scabbard of the red order
+  name: scabbard of the red order
   description: A special scabbard created exclusively for the sabers of the Red Order.
   components:
   - type: Sprite
@@ -59,8 +59,8 @@
 - type: entity
   parent: BaseStorageItem
   id: ClothingPounchMTF
-  name: подсумок общего назначения
-  description: Тактический штурмовой подсумок.
+  name: general purpose pouch
+  description: Tactical assault pouch.
   components:
   - type: Sprite
     netsync: false
@@ -79,8 +79,8 @@
 - type: entity
   parent: BaseStorageItem
   id: ClothingAmmoPounch
-  name: магазинный подсумок
-  description: Тактический штурмовой подсумок для хранения магазинов.
+  name: magazine pouch
+  description: Tactical assault pouch for storing magazines.
   components:
   - type: Sprite
     netsync: false
@@ -104,8 +104,8 @@
 - type: entity
   parent: BaseStorageItem
   id: ClothingMedicalPounch
-  name: медицинский подсумок
-  description: Тактический штурмовой подсумок для хранения медикоментов.
+  name: medical pouch
+  description: Tactical assault pouch for storing medicines.
   components:
   - type: Sprite
     netsync: false
@@ -141,8 +141,8 @@
 - type: entity
   parent: BaseStorageItem
   id: ClothingPistolPounch
-  name: пистолетная кобура
-  description: Кобура для пистолетов.
+  name: pistol holster
+  description: Holster for pistols.
   components:
   - type: Sprite
     netsync: false
@@ -164,8 +164,8 @@
 - type: entity
   parent: BaseStorageItem
   id: ClothingShellPounch
-  name: подсумок для дроби
-  description: Тактический штурмовой подсумок для хранения дроби.
+  name: shot pouch
+  description: Tactical assault pouch for storing shot.
   components:
   - type: Sprite
     netsync: false

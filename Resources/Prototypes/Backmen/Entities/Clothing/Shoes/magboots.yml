@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingShoesBootsMagSyndie
   id: ClothingShoesBootsMagArmy
-  name: армейские магнитные сапоги
-  description: Армейский образец магнитных сапог, дешевый и более массовый вариант продвинутых магниток, имеет встроенный джетпак.
+  name: army magnetic boots
+  description: The military model of magnetic boots, a cheaper and more widespread version of advanced magnetic boots, has a built-in jetpack.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Shoes/Boots/magboots-army.rsi
