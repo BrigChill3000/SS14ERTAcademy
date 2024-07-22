@@ -25,10 +25,10 @@
             - CartridgeCaselessRifle
 
 - type: entity
-  suffix: Дисковый
+  suffix: Disk
   parent: WeaponRifleM28Tactical
   id: WeaponRifleLecterPan
-  description: Первоклассная армейская штурмовая винтовка. Использует патроны калибра .20 винтовочный.
+  description: First class military assault rifle. Uses .20 rifle caliber ammunition.
   components:
   - type: ItemSlots
     slots:
@@ -50,7 +50,7 @@
             - CartridgeRifle
 
 - type: entity
-  suffix: Зажигательные
+  suffix: Incendiary
   parent: WeaponRifleG36
   id: WeaponRifleLecterFire
   components:
