@@ -3,8 +3,8 @@
 - type: entity
   parent: ClothingOuterBase
   id: ClothingWeddingDress
-  name: свадебное платье
-  description: Белое кружевное платье, для особ высшего света, которые венчуються.
+  name: wedding dress
+  description: White lace dress, for people of high society who are getting married.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/OuterClothing/ERPStuff/dresses/wedding.rsi
@@ -17,8 +17,8 @@
 - type: entity
   parent: ClothingOuterBase
   id: ClothingRedSexyDress
-  name: платье
-  description: Красное кружевное платье, для особ высшего света.
+  name: dress
+  description: Red lace dress, for people of high society.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/OuterClothing/ERPStuff/dresses/dress.rsi
@@ -31,8 +31,8 @@
 - type: entity
   parent: ClothingRedSexyDress
   id: ClothingRedDress
-  name: платье
-  description: Красное платье, для особ высшего света.
+  name: dress
+  description: Red dress, for people of high society.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/OuterClothing/ERPStuff/dresses/reddress.rsi
@@ -42,8 +42,8 @@
 - type: entity
   parent: ClothingRedSexyDress
   id: ClothingRedVampireDress
-  name: платье
-  description: Красное платье, для особ ночного света.
+  name: dress
+  description: Red dress, for people of night light.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/OuterClothing/ERPStuff/dresses/redvampdress.rsi
@@ -76,7 +76,7 @@
 - type: entity
   parent: ClothingTangpDress
   id: ClothingWhiteTangoDress
-  name: White dress
+  name: white dress
   description: A loose worn white dress with a white belt, perfect for someone looking to relax.
   components:
   - type: Sprite
