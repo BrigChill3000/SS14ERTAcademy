@@ -7,7 +7,7 @@
 #    - type: OfHolding
 
 - type: entity
-  name: мусорный мешок специального назначения
+  name: special purpose trash bag
   id: TrashBagExtended
   parent: BaseStorageItem
   components:
