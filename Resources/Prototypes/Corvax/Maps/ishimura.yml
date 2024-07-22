@@ -64,3 +64,7 @@
             Quartermaster: [ 1, 1 ]
             SalvageSpecialist: [ 3, 3 ]
             CargoTechnician: [ 3, 3 ]
+            #ERTAcademy
+            BlueShield: [ 1, 1 ]
+            Brigmedic: [ 1, 1 ]
+            CentComConsultant: [ 1, 1 ]
