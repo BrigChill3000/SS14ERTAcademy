@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingOuterBase
-  id: ClothingWitchHunter
-  name: Накидка охотника за ведьмами
-  description: Убей этих ведьм!
+  id: ClothingCapeWitchHunter
+  name: witch hunter's cape
+  description: Kill these witches!
   components:
   - type: Sprite
     sprite: Backmen/Clothing/OuterClothing/Misc/witchhunterbelov.rsi
@@ -12,8 +12,8 @@
 - type: entity
   parent: ClothingOuterBase
   id: ClothingMagistrateroba
-  name: Накидка магистрата
-  description: Пора уволить срочников.
+  name: magistrate's cape
+  description: It's time to fire the conscripts.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/OuterClothing/Misc/magistratenaki.rsi
