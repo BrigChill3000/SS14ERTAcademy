@@ -53,6 +53,18 @@
     {
       "name": "equipped-IDCARD",
       "directions": 4
+    },
+    {
+      "name": "pda-hos"
+    },
+    {
+      "name": "pda-warden"
+    },
+    {
+      "name": "pda-security"
+    },
+    {
+      "name": "pda-seniorofficer"
     }
   ]
 }
