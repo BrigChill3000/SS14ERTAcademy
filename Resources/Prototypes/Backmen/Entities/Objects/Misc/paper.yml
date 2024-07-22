@@ -50,12 +50,12 @@
       maxWritableArea: 400.0, 400.0
 
 - type: entity
-  name: Печать ОПЗ
+  name: stamp UEG
   parent: RubberStampBase
   id: RubberStampUEG
   components:
   - type: Stamp
-    stampedName: Объеденённое Правительство Земли
+    stampedName: United Earth Government
     stampedColor: "#4682B4"
     stampState: "paper_stamp-cap"
   - type: Sprite
@@ -64,32 +64,32 @@
 
 - type: entity
   id: PaperManualCodes
-  name: коды корректировки
+  name: correction codes
   suffix: "Vova"
   parent: Paper
   components:
   - type: Paper
     content: |
-      Коды корректировки:
-      [color=red]ДОЛГ[/color]
-      - Выполнить любой ценой.
-      [color=green]МЕЧ[/color]
-      - Протокол уничтожения цели.
-      [color=blue]ЩИТ[/color]
-      - Протокол оброны секторы,человека.
-      [color=purple]Возмездие[/color]
-      - Протокол зачистки сектора.
-      [color=cyan]Нова[/color]
-      - Протокол задержания.
-      [color=yellow]Пожертвовать[/color]
-      - Протокол на использования всех возможных методов для выполнения задачи, включая потерю юнита во время операции.
-      [color=#8B4513]Допрос[/color]
-      - Протокол допроса.
-      [color=#00FF00]Пост[/color]
-      - Протокол патрулирования местности или же охранна поста.
-      [color=#FFFFFF]Полночь[/color]
-      - Протокол радиомолчание.
-      [color=#EE82EE]Опрос[/color]
-      - Протокол провидения опроса на предмет или же человека.
-      [color=#696969]НЕМЕЗИС[/color]
-      - Разрешение на применение всего арсенала особого отдела, для выполнения задачи.
+      Correction codes:
+      [color=red]DUTY[/color]
+      - Do it at any cost.
+      [color=green]SWORD[/color]
+      - Target destruction protocol.
+      [color=blue]SHIELD[/color]
+      - Protocol for defense sectors, human.
+      [color=purple]Retribution[/color]
+      - Sector clearing protocol.
+      [color=cyan]Nova[/color]
+      - Detention protocol.
+      [color=yellow]Donate[/color]
+      - Protocol for using all possible methods to complete a task, including the loss of a unit during an operation.
+      [color=#8B4513]Interrogation[/color]
+      - Interrogation protocol.
+      [color=#00FF00]Fast[/color]
+      - Protocol for patrolling an area or guarding a post.
+      [color=#FFFFFF]Midnight[/color]
+      - Radio silence protocol.
+      [color=#EE82EE]Survey[/color]
+      - Protocol for conducting a survey on an object or person.
+      [color=#696969]NEMESIS[/color]
+      - Permission to use the entire arsenal of a special department to complete a task.
