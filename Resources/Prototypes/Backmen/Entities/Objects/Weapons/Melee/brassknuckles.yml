@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingHandsButcherable
   id: ClothingHandsGlovesBrassknuckles
-  name: Кастет
-  description: Контактное ударно-раздробляющее оружие для кулачного боя из твёрдого материала.
+  name: brass knuckles
+  description: Contact impact-crushing weapon for fist fighting made of hard material.
   components:
   - type: Sprite
     sprite: Backmen/Objects/Weapons/Melee/brassknuckles.rsi
