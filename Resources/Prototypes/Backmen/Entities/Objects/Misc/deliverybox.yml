@@ -1,8 +1,8 @@
 - type: entity
   parent: PresentRandom
   id: SpecialDeliveryBox
-  name: особая посылка
-  description: Старая помятая коробка. Пахнет диско и ретро. Интересно, что внутри?
+  name: special package
+  description: Old crumpled box. Smells like disco and retro. Wonder what's inside?
   components:
   - type: Item
     size: Normal
@@ -29,8 +29,8 @@
 - type: entity
   id: SpecialDeliveryBoxTrash
   parent: BaseItem
-  name: обертка от посылки
-  description: Пыльная обертка от посылки из картона и скотча.
+  name: parcel wrapper
+  description: Dusty parcel wrapper made of cardboard and tape.
   components:
   - type: PhysicalComposition
     materialComposition:
