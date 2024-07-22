@@ -1,7 +1,7 @@
 - type: entity
   parent: ClothingMaskGas
   id: ClothingMaskRed
-  name: Red order gas mask
+  name: red order gas mask
   suffix: Clothing
   description: Ancient gas mask of the Red Order. Thank Redspace MORE BLOOD.
   components:
@@ -17,8 +17,8 @@
 - type: entity
   parent: ClothingMaskBase
   id: ClothingDallasMask
-  name: Маска Далласа
-  description: Традиционная маска грабителя из банды PayDay
+  name: dallas's mask
+  description: Traditional mask of a PayDay gang robber
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Masks/dallasmaskbel.rsi
@@ -30,8 +30,8 @@
 - type: entity
   parent: ClothingMaskBase
   id: ClothingWolfMask
-  name: Маска Вулфа
-  description: Традиционная маска грабителя из банды PayDay
+  name: wolf's mask
+  description: Traditional mask of a PayDay gang robber
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Masks/wolfmaskbel.rsi
@@ -43,8 +43,8 @@
 - type: entity
   parent: ClothingMaskBase
   id: ClothingChainsMask
-  name: Маска Чейнса
-  description: Традиционная маска грабителя из банды PayDay
+  name: chains's mask
+  description: Traditional mask of a PayDay gang robber
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Masks/chainsmaskbel.rsi
@@ -56,8 +56,8 @@
 - type: entity
   parent: ClothingMaskBase
   id: ClothingHoxtonMask
-  name: Маска Хокстона
-  description: Традиционная маска грабителя из банды PayDay
+  name: hoxton's mask
+  description: Traditional mask of a PayDay gang robber
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Masks/hoxtonmaskbel
@@ -69,8 +69,8 @@
 - type: entity
   parent: ClothingMaskBase
   id: ClothingJokermask
-  name: Маска Джокера
-  description: Страшная маска джокера, больного психопата которая неизвестно как попала на станцию
+  name: joker's mask
+  description: A terrible mask of the joker, a sick psychopath who, it is unknown how, got to the station
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Masks/jokermaskbel.rsi
@@ -82,8 +82,8 @@
 - type: entity
   parent: ClothingMaskGas
   id: ClothingGermanGasMask
-  name: Немецкий противогаз
-  description: Противогаз немецких войск, потрепано временем но свою работу выполняет.
+  name: german gas mask
+  description: A gas mask from German troops, worn out by time but doing its job.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Masks/germangasmaskbel.rsi
@@ -100,8 +100,8 @@
 - type: entity
   parent: ClothingMaskBase
   id: ClothingBalaclavaSwat
-  name: Балаклава
-  description: Обычная балаклава из тончайшей ткани
+  name: balaclava
+  description: Regular balaclava made of the finest fabric
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Masks/swatbalaclavabel.rsi
@@ -113,8 +113,8 @@
 - type: entity
   parent: ClothingMaskGas
   id: ClothingihsGasmask
-  name: Противогаз IHS
-  description: Противогаз тактических войск IHS.
+  name: gas mask IHS
+  description: Tactical troops gas mask IHS.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Masks/ihsgasmaskheavybel.rsi
@@ -131,9 +131,9 @@
 - type: entity
   parent: ClothingMaskBase
   id: ClothingMaskblacksilense
-  name: Трофейная маска черной тишины
+  name: trophy mask of black silence
   suffix: Clothing
-  description: Маска знаменитого охотника по прозвищу Черная тишина. Источает отчаяние.
+  description: Mask of the famous hunter nicknamed Black Silence. Exudes despair.
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Masks/blacksilense.rsi
@@ -143,8 +143,8 @@
 - type: entity
   parent: ClothingMaskBase
   id: ClothingMaskKitsune
-  name: Маска Кицунэ
-  description: Обмани эту станцию!
+  name: kitsune's mask
+  description: Fool this station!
   components:
   - type: Sprite
     sprite: Backmen/Clothing/Head/Masks/kitsunemask.rsi
