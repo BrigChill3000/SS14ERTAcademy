@@ -185,10 +185,10 @@ public sealed class FoodSystem : EntitySystem
             target: target,
             used: food)
         {
+            BreakOnHandChange = false,
             BreakOnMove = forceFeed,
             BreakOnDamage = true,
             MovementThreshold = 0.01f,
-            BreakOnHandChange = false,
             DistanceThreshold = MaxFeedDistance,
             // Mice and the like can eat without hands.
             // TODO maybe set this based on some CanEatWithoutHands event or component?
