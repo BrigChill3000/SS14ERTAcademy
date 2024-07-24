@@ -122,8 +122,8 @@
   minLimit: 0
   loadouts:
   - BrigmedicMask
-  - ClothingMaskSterile
-  - ClothingMaskGasSecurity
+  - SterileMask
+  - SecurityMask
 
 - type: loadoutGroup
   id: BrigmedicNeck
