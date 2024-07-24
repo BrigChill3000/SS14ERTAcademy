@@ -111,3 +111,13 @@
   id: SecurityHelmet2
   equipment:
     head: ClothingHeadHelmetBasic2
+
+# Belt
+- type: loadout
+  id: SecurityWebbingBlack
+  equipment: SecurityWebbingBlack
+
+- type: startingGear
+  id: SecurityWebbingBlack
+  equipment:
+    belt: ClothingBeltSecurityWebbingBlackFilled

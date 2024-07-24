@@ -998,6 +998,7 @@
   loadouts:
   - SecurityBelt
   - SecurityWebbing
+  - SecurityWebbingBlack
 
 - type: loadoutGroup
   id: SecurityOuterClothing

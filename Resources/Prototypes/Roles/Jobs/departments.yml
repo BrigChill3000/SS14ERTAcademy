@@ -5,7 +5,7 @@
   roles:
   - CargoTechnician
   - Quartermaster
-  - SalvageSpecialist
+#  - SalvageSpecialist
 
 - type: department
   id: Civilian
@@ -39,7 +39,6 @@
   roles:
   - Captain
   - IAA # Corvax-IAA
-  - CentralCommandOfficial
   - ChiefEngineer
   - ChiefMedicalOfficer
   - HeadOfPersonnel
