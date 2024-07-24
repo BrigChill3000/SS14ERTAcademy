@@ -124,7 +124,7 @@
 # Mask
 - type: loadout
   id: SecurityMask
-  equipment: MaskSecurity
+  equipment: SecurityMask
 
 - type: startingGear
   id: SecurityMask
