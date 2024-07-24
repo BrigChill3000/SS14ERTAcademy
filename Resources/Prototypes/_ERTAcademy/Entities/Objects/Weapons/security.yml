@@ -20,8 +20,8 @@
   - type: Sprite
     sprite: ERTAcademy/Objects/Weapons/Melee/telescopic.rsi
     layers:
-    - state: telebaton_off
-    - state: telebaton_on
+    - state: telescopic_off
+    - state: telescopic_on
       visible: false
       map: [ "blade" ]
   - type: ItemToggleMeleeWeapon
