@@ -6,7 +6,7 @@
   - CentralCommandOfficial
 
 - type: department
-  id: CentСomSpecialists
+  id: CentComSpecialists
   description: department-CentСom-description
   color: "#35a41e"
   roles:
