@@ -82,7 +82,6 @@
     pocket2: SpeedLoaderMagnum
 
 # OuterClothing
-
 - type: loadout
   id: ArmorVestArmorSec
   equipment: ArmorVestArmorSec
@@ -121,3 +120,13 @@
   id: SecurityWebbingBlack
   equipment:
     belt: ClothingBeltSecurityWebbingBlackFilled
+
+# Mask
+- type: loadout
+  id: ClothingMaskGasSecurity
+  equipment: ClothingMaskGasSecurity
+
+- type: startingGear
+  id: ClothingMaskGasSecurity
+  equipment:
+    mask: ClothingMaskGasSecurity
