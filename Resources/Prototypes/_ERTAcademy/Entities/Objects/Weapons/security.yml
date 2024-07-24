@@ -18,7 +18,7 @@
   - type: ItemToggleDisarmMalus
     activatedDisarmMalus: 0.6
   - type: Sprite
-    sprite: ERTAcademy/Objects/Weapons/Melee/telebaton.rsi
+    sprite: ERTAcademy/Objects/Weapons/Melee/telescopic.rsi
     layers:
     - state: telebaton_off
     - state: telebaton_on
@@ -41,7 +41,7 @@
   - type: UseDelay
     delay: 0.4
   - type: Item
-    sprite: ERTAcademy/Objects/Weapons/Melee/telebaton.rsi
+    sprite: ERTAcademy/Objects/Weapons/Melee/telescopic.rsi
     size: Small
   - type: Appearance
   - type: ToggleableLightVisuals
