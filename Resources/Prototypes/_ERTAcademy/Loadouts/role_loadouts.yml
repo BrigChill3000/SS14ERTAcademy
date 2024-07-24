@@ -33,10 +33,13 @@
   id: JobBrigmedic
   groups:
   - BrigmedicHead
+  - BrigmedicMask
   - BrigmedicNeck
   - BrigmedicJumpsuit
+  - MedicalGloves
   - BrigmedicBackpack
   - BrigmedicOuterClothing
+  - SecurityShoes
   - Trinkets
   - Medals #backmen
   - Inventory # Corvax-Loadouts

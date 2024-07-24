@@ -7,3 +7,119 @@
   - type: Sprite
     sprite: ERTAcademy/Clothing/Neck/Cloaks/blueshield.rsi
 
+- type: entity
+  parent: ClothingNeckCloakCe
+  id: ClothingNeckCloakCeAlt
+  name: chief engineer's cloak
+  description: A dark green cloak with light blue ornaments, given to those who proved themselves to master the precise art of engineering.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Neck/Cloaks/cealt.rsi
+
+- type: entity
+  parent: ClothingNeckCloakCe
+  id: ClothingNeckCloakCeSunrise
+  name: chief engineer's cloak
+  description: A dark green cloak with light blue ornaments, given to those who proved themselves to master the precise art of engineering.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Neck/Cloaks/cecloak.rsi
+
+- type: entity
+  parent: ClothingNeckCloakRd
+  id: ClothingNeckCloakRdAlt
+  name: research director's cloak
+  description: A white cloak with violet stripes, showing your status as the arbiter of cutting-edge technology.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Neck/Cloaks/rdalt.rsi
+
+- type: entity
+  parent: ClothingNeckCloakRd
+  id: ClothingNeckCloakRdSunrise
+  name: research director's cloak
+  description: A white cloak with violet stripes, showing your status as the arbiter of cutting-edge technology.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Neck/Cloaks/rd.rsi
+
+- type: entity
+  parent: ClothingNeckCloakQm
+  id: ClothingNeckCloakQmSunrise
+  name: quartermaster's cloak
+  description: A strong brown cloak with a reflective stripe, while not as fancy as others, it does show your managing skills.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Neck/Cloaks/qmcloak.rsi
+
+- type: entity
+  parent: ClothingNeckCloakHos
+  id: ClothingNeckCloakHosSunrise
+  name: head of security's cloak
+  description: An exquisite dark and red cloak fitting for those who can assert dominance over wrongdoers. Take a stab at being civil in prosecution!
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Neck/Cloaks/hoscloak.rsi
+
+- type: entity
+  parent: ClothingNeckCloakHos
+  id: ClothingNeckCloakSecurityOfficer
+  name: head of security's cloak
+  description: An exquisite dark and red cloak fitting for those who can assert dominance over wrongdoers. Take a stab at being civil in prosecution!
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Neck/Cloaks/securityofficer.rsi
+
+- type: entity
+  parent: ClothingNeckCloakHop
+  id: ClothingNeckCloakHopSunrise
+  name: head of personnel's cloak
+  description: A blue cloak with red shoulders and gold buttons, proving you are the gatekeeper to any airlock on the station.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Neck/Cloaks/hopcloak.rsi
+
+- type: entity
+  parent: ClothingCloakCmo
+  id: ClothingCloakCmoSunrise
+  name: chief medical officer's cloak
+  description: A sterile blue cloak with a green cross, radiating with a sense of duty and willingness to help others.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Neck/Cloaks/cmocloak.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingNeckCloakAlpha
+  name: alhpa's cloak
+  description: Why does the defender of the heads of the station need it? In order to look more stylish, of course.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Neck/Cloaks/alpha.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingNeckCloakDelta
+  name: delta's cloak
+  description: Why does the defender of the heads of the station need it? In order to look more stylish, of course.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Neck/Cloaks/delta.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingNeckCloakBravo
+  name: bravo's cloak
+  description: Why does the defender of the heads of the station need it? In order to look more stylish, of course.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Neck/Cloaks/echo.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingNeckCloakCharlie
+  name: charlie's cloak
+  description: Why does the defender of the heads of the station need it? In order to look more stylish, of course.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Neck/Cloaks/lima.rsi

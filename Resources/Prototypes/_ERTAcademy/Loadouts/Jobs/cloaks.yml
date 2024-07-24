@@ -1,0 +1,117 @@
+# Neck
+- type: loadout
+  id: ChiefEngineerCloakAlt
+  equipment: ChiefEngineerCloakAlt
+
+- type: startingGear
+  id: ChiefEngineerCloakAlt
+  equipment:
+    neck: ClothingNeckCloakCeAlt
+
+- type: loadout
+  id: ResearchDirectorCloakAlt
+  equipment: ResearchDirectorCloakAlt
+
+- type: startingGear
+  id: ResearchDirectorCloakAlt
+  equipment:
+    neck: ClothingNeckCloakRdAlt
+
+- type: loadout
+  id: ChiefEngineerCloakSunrise
+  equipment: ChiefEngineerCloakSunrise
+
+- type: startingGear
+  id: ChiefEngineerCloakSunrise
+  equipment:
+    neck: ClothingNeckCloakCeSunrise
+
+- type: loadout
+  id: ResearchDirectorCloakSunrise
+  equipment: ResearchDirectorCloakSunrise
+
+- type: startingGear
+  id: ResearchDirectorCloakSunrise
+  equipment:
+    neck: ClothingNeckCloakRdSunrise
+
+- type: loadout
+  id: ChiefMedicalOfficerCloakSunrise
+  equipment: ChiefMedicalOfficerCloakSunrise
+
+- type: startingGear
+  id: ChiefMedicalOfficerCloakSunrise
+  equipment:
+    neck: ClothingCloakCmoSunrise
+
+- type: loadout
+  id: HeadofSecurityCloakSunrise
+  equipment: HeadofSecurityCloakSunrise
+
+- type: startingGear
+  id: HeadofSecurityCloakSunrise
+  equipment:
+    neck: ClothingNeckCloakHosSunrise
+
+- type: loadout
+  id: QuartermasterCloakSunrise
+  equipment: QuartermasterCloakSunrise
+
+- type: startingGear
+  id: QuartermasterCloakSunrise
+  equipment:
+    neck: ClothingNeckCloakQmSunrise
+
+- type: loadout
+  id: SecurityOfficerCloak
+  equipment: SecurityOfficerCloak
+
+- type: startingGear
+  id: SecurityOfficerCloak
+  equipment:
+    neck: ClothingNeckCloakSecurityOfficer
+
+- type: loadout
+  id: HoPCloakSunrise
+  equipment: HoPCloakSunrise
+
+- type: startingGear
+  id: HoPCloakSunrise
+  equipment:
+    neck: ClothingNeckCloakHopSunrise
+
+- type: loadout
+  id: AlphaCloak
+  equipment: AlphaCloak
+
+- type: startingGear
+  id: AlphaCloak
+  equipment:
+    neck: ClothingNeckCloakAlpha
+
+- type: loadout
+  id: DeltaCloak
+  equipment: DeltaCloak
+
+- type: startingGear
+  id: DeltaCloak
+  equipment:
+    neck: ClothingNeckCloakDelta
+
+- type: loadout
+  id: BravoCloak
+  equipment: BravoCloak
+
+- type: startingGear
+  id: BravoCloak
+  equipment:
+    neck: ClothingNeckCloakBravo
+
+- type: loadout
+  id: CharlieCloak
+  equipment: CharlieCloak
+
+- type: startingGear
+  id: CharlieCloak
+  equipment:
+    neck: ClothingNeckCloakCharlie

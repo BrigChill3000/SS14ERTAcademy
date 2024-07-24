@@ -116,6 +116,7 @@
   minLimit: 0
   loadouts:
   - HoPCloak
+  - HoPCloakSunrise
   - HoPMantle
 
 - type: loadoutGroup
@@ -539,6 +540,7 @@
   minLimit: 0
   loadouts:
   - QuartermasterCloak
+  - QuartermasterCloakSunrise
   - QuartermasterMantle
 
 - type: loadoutGroup
@@ -637,6 +639,8 @@
   minLimit: 0
   loadouts:
   - ChiefEngineerCloak
+  - ChiefEngineerCloakAlt
+  - ChiefEngineerCloakSunrise
   - ChiefEngineerMantle
 
 - type: loadoutGroup
@@ -762,8 +766,10 @@
   name: loadout-group-research-director-neck
   minLimit: 0
   loadouts:
-  - ResearchDirectorMantle
   - ResearchDirectorCloak
+  - ResearchDirectorCloakAlt
+  - ResearchDirectorCloakSunrise
+  - ResearchDirectorMantle
 
 - type: loadoutGroup
   id: ResearchDirectorJumpsuit
@@ -1111,6 +1117,7 @@
   minLimit: 0
   loadouts:
   - ChiefMedicalOfficerCloak
+  - ChiefMedicalOfficerCloakSunrise
   - ChiefMedicalOfficerMantle
 
 - type: loadoutGroup

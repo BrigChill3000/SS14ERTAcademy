@@ -26,6 +26,25 @@
   equipment:
     head: ClothingHeadHelmetSecurityMedic
 
+# Mask
+- type: loadout
+  id: BrigmedicMask
+  equipment: BrigmedicMask
+
+- type: startingGear
+  id: BrigmedicMask
+  equipment:
+    mask: ClothingMaskGasBrigmedic
+
+- type: loadout
+  id: MaskMedicalSecurity
+  equipment: MaskMedicalSecurity
+
+- type: startingGear
+  id: MaskMedicalSecurity
+  equipment:
+    mask: ClothingMaskBreathMedicalSecurity
+
 # Neck
 - type: loadout
   id: BrigmedicBedsheet
@@ -103,12 +122,12 @@
 # Back
 - type: loadout
   id: BrigmedicBackpack
-  equipment: BrigmedicBackpackN
+  equipment: BrigmedicBackpack
 
 - type: startingGear
   id: BrigmedicBackpack
   equipment:
-    back: ClothingBackpackBrigmedic2
+    back: ClothingBackpackBrigmedicAlt
 
 - type: loadout
   id: BrigmedicSatchel
@@ -117,7 +136,7 @@
 - type: startingGear
   id: BrigmedicSatchel
   equipment:
-    back: ClothingBackpackSatchelBrigmedic2
+    back: ClothingBackpackSatchelBrigmedicAlt
 
 - type: loadout
   id: BrigmedicDuffel
@@ -126,7 +145,7 @@
 - type: startingGear
   id: BrigmedicDuffel
   equipment:
-    back: ClothingBackpackDuffelBrigmedic2
+    back: ClothingBackpackDuffelBrigmedicAlt
 
 - type: loadout
   id: BrigmedicBackpackOld
@@ -182,6 +201,15 @@
   id: VestSecurityMedic
   equipment:
     outerClothing: ClothingOuterVestSecurityMedic
+
+- type: loadout
+  id: VestArmorMedSec
+  equipment: VestArmorMedSec
+
+- type: startingGear
+  id: VestArmorMedSec
+  equipment:
+    outerClothing: ClothingOuterVestArmorMedSec
 
 - type: loadout
   id: CoatLabSecurityMedic
