@@ -203,6 +203,15 @@
     outerClothing: ClothingOuterVestSecurityMedic
 
 - type: loadout
+  id: VestArmorMedSec
+  equipment: ClothingOuterVestArmorMedSec
+
+- type: startingGear
+  id: VestArmorMedSec
+  equipment:
+    outerClothing: ClothingOuterVestArmorMedSec
+
+- type: loadout
   id: CoatLabSecurityMedic
   equipment: CoatLabSecurityMedic
 
