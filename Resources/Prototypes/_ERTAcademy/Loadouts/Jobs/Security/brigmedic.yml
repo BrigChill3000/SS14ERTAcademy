@@ -26,6 +26,25 @@
   equipment:
     head: ClothingHeadHelmetSecurityMedic
 
+# Mask
+- type: loadout
+  id: BrigmedicMask
+  equipment: BrigmedicMask
+
+- type: startingGear
+  id: BrigmedicMask
+  equipment:
+    mask: ClothingMaskGasBrigmedic
+
+- type: loadout
+  id: MaskMedicalSecurity
+  equipment: MaskMedicalSecurity
+
+- type: startingGear
+  id: MaskMedicalSecurity
+  equipment:
+    mask: ClothingMaskBreathMedicalSecurity
+
 # Neck
 - type: loadout
   id: BrigmedicBedsheet
