@@ -123,10 +123,10 @@
 
 # Mask
 - type: loadout
-  id: MaskSecurity
+  id: SecurityMask
   equipment: MaskSecurity
 
 - type: startingGear
-  id: MaskSecurity
+  id: SecurityMask
   equipment:
     mask: ClothingMaskGasSecurity
