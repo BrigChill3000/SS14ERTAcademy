@@ -1,4 +1,4 @@
-#CentCom
+# CentCom
 - type: loadoutGroup
   id: CentComBackpack
   name: loadout-group-centcom-backpack
@@ -7,7 +7,7 @@
   - CentComSatchel
   - CentComDuffel
 
-#Consultant
+# Consultant
 - type: loadoutGroup
   id: ConsultantHead
   name: loadout-group-consultant-head
@@ -191,7 +191,7 @@
   - MagazinePistolHighCapacity
   - SpeedLoaderMagnum
 
-#NukeOps
+# NukeOps
 - type: loadoutGroup
   id: NukeOpsJumpsuit
   name: loadout-group-nukeops-jumpsuit
@@ -229,7 +229,7 @@
   - SyndiPDA
   - NukieAgentIDCard
 
-#NukeOps Medic
+# NukeOps Medic
 - type: loadoutGroup
   id: NukeOpsMedicOuterClothing
   name: loadout-group-nukeops-outerclothing
@@ -245,7 +245,7 @@
   loadouts:
   - NukeOpsMedicBelt
 
-#NukeOps Commander
+# NukeOps Commander
 - type: loadoutGroup
   id: NukeOpsCommanderOuterClothing
   name: loadout-group-nukeops-outerclothing
@@ -255,3 +255,24 @@
   - NukeOpsCommanderOuterClothingCorvax
   - NukeOpsCommanderOuterClothingSunRise
   - NukeOpsCommanderOuterClothingXeno
+
+# Survival Box
+- type: loadoutGroup
+  id: SurvivalBrigmedic
+  name: loadout-group-survival-security
+  minLimit: 2
+  maxLimit: 2
+  hidden: true
+  loadouts:
+  - EmergencyNitrogenBrigmedic
+  - EmergencyOxygenBrigmedic
+
+- type: loadoutGroup
+  id: SurvivalBlueShield
+  name: loadout-group-survival-security
+  minLimit: 2
+  maxLimit: 2
+  hidden: true
+  loadouts:
+  - EmergencyNitrogenBlueShield
+  - EmergencyOxygenBlueShield
