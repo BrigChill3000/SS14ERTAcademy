@@ -122,7 +122,7 @@
 # Back
 - type: loadout
   id: BrigmedicBackpack
-  equipment: BrigmedicBackpackN
+  equipment: BrigmedicBackpack
 
 - type: startingGear
   id: BrigmedicBackpack
