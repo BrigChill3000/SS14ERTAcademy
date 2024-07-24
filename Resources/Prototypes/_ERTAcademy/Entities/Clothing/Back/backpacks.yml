@@ -27,7 +27,7 @@
 
 - type: entity
   parent: ClothingBackpack
-  id: ClothingBackpackBrigmedic2
+  id: ClothingBackpackBrigmedicAlt
   name: brigmedic backpack
   description: It's a very sterile backpack.
   components:
