@@ -1,7 +1,18 @@
 - type: listing
+  id: UplinkEswordDouble
+  name: uplink-esword-double-name
+  description: uplink-esword-double-desc
+  icon: { sprite: /Textures/Objects/Weapons/Melee/e_sword_double.rsi, state: icon }
+  productEntity: EnergySwordDouble
+  cost:
+    Telecrystal: 20
+  categories:
+  - UplinkWeaponry
+
+- type: listing
   id: UplinkKR51Bundle
-  name: KR51
-  description: KR51
+  name: uplink-bundle-kr51
+  description: uplink-bundle-kr51-desc
   icon: { sprite: /Textures/ERTAcademy/Objects/Weapons/Guns/Rifles/kr51.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateBundleKR51
   cost:
