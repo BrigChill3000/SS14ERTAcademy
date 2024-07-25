@@ -158,7 +158,7 @@
 
 - type: loadout
   id: BrigmedicSatchelOld
-  equipment: BrigmedicSatchel
+  equipment: BrigmedicSatchelOld
 
 - type: startingGear
   id: BrigmedicSatchelOld

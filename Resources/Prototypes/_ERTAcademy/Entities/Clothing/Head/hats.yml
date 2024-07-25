@@ -59,3 +59,35 @@
     sprite: ERTAcademy/Clothing/Head/Hats/amilitary_beret.rsi
   - type: Clothing
     sprite: ERTAcademy/Clothing/Head/Hats/amilitary_beret.rsi
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretPurple
+  name: purple beret
+  description: It's just purple beret.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Head/Hats/beret_rnd.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Head/Hats/beret_rnd.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - HamsterWearable
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretEngineeringAlt
+  name: engineering beret
+  description: A beret with the engineering insignia emblazoned on it. For engineers that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: ERTAcademy/Clothing/Head/Hats/beret_engineering.rsi
+  - type: Clothing
+    sprite: ERTAcademy/Clothing/Head/Hats/beret_engineering.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - HamsterWearable
+    - WhitelistChameleon

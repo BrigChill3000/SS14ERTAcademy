@@ -1019,6 +1019,7 @@
   id: SecurityShoes
   name: loadout-group-security-shoes
   loadouts:
+  - JackSecBoots
   - CombatBoots
   - JackBoots
   - SecurityWinterBoots
