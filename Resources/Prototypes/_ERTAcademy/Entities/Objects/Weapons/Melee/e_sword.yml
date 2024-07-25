@@ -1,0 +1,89 @@
+- type: entity
+  name: energy swords
+  parent: EnergySword
+  id: EnergySwords
+  description: Syndicate Command's intern thought that having only one blade on energy swords was not cool enough. This can be stored in pockets.
+  components:
+  - type: EnergySword
+  - type: ItemToggle
+    soundActivate:
+      path: /Audio/Weapons/ebladeon.ogg
+      params:
+        volume: 3
+    soundDeactivate:
+      path: /Audio/Weapons/ebladeoff.ogg
+      params:
+        volume: 3
+  - type: ItemToggleMeleeWeapon
+    activatedSoundOnSwing:
+      path: /Audio/Weapons/eblademiss.ogg
+      params:
+        volume: 3
+        variation: 0.250
+    activatedDamage:
+        types:
+            Slash: 12
+            Heat: 12
+            Structural: 15
+  - type: ItemToggleActiveSound
+    activeSound:
+      path: /Audio/Weapons/ebladehum.ogg
+      params:
+        volume: 3
+  - type: ItemToggleDisarmMalus
+    activatedDisarmMalus: 0.7
+  - type: Wieldable
+  - type: MeleeWeapon
+    wideAnimationRotation: -135
+    attackRate: 1.5
+    angle: 100
+    damage:
+      types:
+        Blunt: 4.5
+  - type: Sprite
+    sprite: ERTAcademy/Objects/Weapons/Melee/e_sword_ebent_double.rsi
+    layers:
+      - state: e_sword_double
+      - state: e_sword_double_blade
+        color: "#FFFFFF"
+        visible: false
+        shader: unshaded
+        map: [ "blade" ]
+  - type: Item
+    size: Small
+    sprite: ERTAcademy/Objects/Weapons/Melee/e_sword_ebent_double-inhands.rsi
+  - type: Reflect
+    reflectProb: .80
+    minReflectProb: .65
+    spread: 75
+  - type: UseDelay
+    delay: 1
+  - type: ToggleableLightVisuals
+    spriteLayer: blade
+    inhandVisuals:
+      left:
+      - state: inhand-left-blade
+        shader: unshaded
+      right:
+      - state: inhand-right-blade
+        shader: unshaded
+# Corvax-HiddenDesc-Start
+  - type: HiddenDescription
+    entries:
+    - label: corvax-hidden-desc-EnergySword-syndicate
+      whitelistMind:
+        components:
+          - TraitorRole
+          - NukeOperative
+    - label: corvax-hidden-desc-EnergySword-security
+      jobRequired:
+        - HeadOfSecurity
+        - Detective
+        - SecurityCadet
+        - SecurityOfficer
+        - Warden
+        - Captain
+    - label: corvax-hidden-desc-EnergySword-cargo
+      jobRequired:
+        - SalvageSpecialist
+# Corvax-HiddenDesc-End
