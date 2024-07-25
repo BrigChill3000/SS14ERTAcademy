@@ -1,4 +1,15 @@
 - type: listing
+  id: UplinkEswords
+  name: uplink-eswords-name
+  description: uplink-eswords-desc
+  icon: { sprite: /Textures/ERTAcademy/Objects/Weapons/Melee/e_sword_ebent_double.rsi, state: icon }
+  productEntity: EnergySwords
+  cost:
+    Telecrystal: 20
+  categories:
+  - UplinkWeaponry
+
+- type: listing
   id: UplinkEswordDouble
   name: uplink-esword-double-name
   description: uplink-esword-double-desc
