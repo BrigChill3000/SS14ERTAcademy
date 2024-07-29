@@ -57,7 +57,7 @@
 
 - type: listing
   id: UplinkP90Bundle
-  name: набор "P90"
+  name: P90
   description: Старый добрый п90 военного образца, стал символом специальных операций, в комплетке 3 магазина.
   icon: { sprite: Backmen/Objects/Weapons/Gunsx64/SMGs/p90.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateFilledP90
@@ -79,7 +79,7 @@
 
 - type: listing
   id: UplinkAKMSBundle
-  name: набор "AKMS"
+  name: AKMS
   description: Символ войны, легендарное оружие зарекомендовавшие себя как самое надежное оружие в истории. В комплетке 3 магазина.
   icon: { sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/akms/big.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateFilledAKMS
@@ -101,7 +101,7 @@
 
 - type: listing
   id: UplinkV31Bundle
-  name: набор "V31"
+  name: V31
   description: Основная винтовка вооруженных сил Сынов Марса, имеет реактивные патроны, эффективен против всего. В комплетке 3 магазина.
   icon: { sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/v31/big.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateFilledV31
@@ -123,7 +123,7 @@
 
 - type: listing
   id: UplinkAKSUBundle
-  name: набор "AKSU"
+  name: AKSU
   description: Оружие ГРУ СССП, надежное, компактное, а самое главное что ничем не отличается от своего более старшего брата, поэтому его и любят отряды особого назначения. В комплетке 3 магазина.
   icon: { sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/aksu.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateFilledAKSU
@@ -145,7 +145,7 @@
 
 - type: listing
   id: UplinkStG44Bundle
-  name: набор "StG44"
+  name: StG44
   description: Первая "Штурмовая Винтовка" в истории, в отличии от её образца 1944 года, имеет современные внутренности, из-за особенности конструкции имеет более высокую скорострельность. В комплетке 3 магазина.
   icon: { sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/stg44/big.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateFilledStG44
@@ -167,7 +167,7 @@
 
 - type: listing
   id: UplinkVectorBundle
-  name: набор "Vector"
+  name: Vector
   description: Оружие используемая спецназом, такой экзепляр стал очень быстро востребован на черном рынке, благодаря своей передовой системе глушение отдачи. В комплетке 3 магазина.
   icon: { sprite: Backmen/Objects/Weapons/Gunsx64/SMGs/vector/big.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateFilledVector
@@ -200,7 +200,7 @@
 
 - type: listing
   id: UplinkMP38Bundle
-  name: набор "MP38"
+  name: MP38
   description: Дешевая, простая пушка с открытым затвором, не нуждается в обслуживании... Скорее всего это оружие с тех самых времен... В комплетке 3 магазина.
   icon: { sprite: Backmen/Objects/Weapons/Gunsx64/SMGs/mp38/big.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateFilledMP38
@@ -222,7 +222,7 @@
 
 - type: listing
   id: UplinkPPSH41Bundle
-  name: набор "PPSH41"
+  name: PPSH41
   description: ПиПиСиЭйч 41, стандартный пистолет-пулемет на вооружении СССП, попал на черный рынок из-за частых "набегов" на склады СССП, явно не проданных местными командирами. В комплетке 2 магазина.
   icon: { sprite: Backmen/Objects/Weapons/Gunsx64/SMGs/ppsh41/big.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateFilledPPSH41
@@ -265,7 +265,7 @@
 
 - type: listing
   id: UplinkZauerBundle
-  name: набор "Zauer"
+  name: Zauer
   description: Простой и надеждный, штурмовой автоматически дробовик зауер. содержит 2 барабан пуль и 4 барабана дроби.
   icon: { sprite: Backmen/Objects/Weapons/Gunsx64/Shotguns/zauer/big.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateFilledZauer
@@ -290,7 +290,7 @@
 
 - type: listing
   id: UplinkGrenadeLauncher79Bundle
-  name: набор "GL-79"
+  name: GL-79
   description: Новенький, ручной гранатомет с барабанным системой, имеет 12 гранат в комплекте
   icon: { sprite: Backmen/Objects/Weapons/Gunsx64/Launchers/gl-64/big.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateFilledGL79
@@ -314,7 +314,7 @@
 
 - type: listing
   id: UplinkGrenadeLauncherM81Bundle
-  name: набор "M-81"
+  name: M-81
   description: Однозарядный армейский штатный гранатомёт, используется пехотными подраздилениями для блокирывания зон и поддержки, имеет 6 гранат в комплекте
   icon: { sprite: Backmen/Objects/Weapons/Gunsx64/Launchers/m81.rsi, state: base }
   productEntity: ClothingBackpackDuffelSyndicateFilledM81
@@ -338,7 +338,7 @@
 
 - type: listing
   id: UplinkMG42Bundle
-  name: Набор "MG42"
+  name: MG42
   description: Очень старый общевойсковой пулемет Объеденненого Правительства Земли, все оригинальные компоненты были заменены более усовршенственными, а барабан был дополнен БлюСпейс технологией, для более бесперебойной стрельбы. Имеет 1 магазин и 2 ящика патронов.
   icon: { sprite: Backmen/Objects/Weapons/Gunsx64/LMGs/mg42/big.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateFilledMG42
@@ -360,7 +360,7 @@
 
 - type: listing
   id: UplinkBR64Bundle
-  name: Набор "BR-64"
+  name: BR-64
   description: Марксменская тяжелая винтовка, имеет автодосылатель затвора, что облегчает эксплоатирование оружия (но не его чистку). Имеет 3 магазина .60 калибра.
   icon: { sprite: Backmen/Objects/Weapons/Gunsx64/Rifles/br-64/big.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateFilledBR64
@@ -382,7 +382,7 @@
 
 - type: listing
   id: UplinkSVDBundle
-  name: набор "SVD"
+  name: SVD
   description: Легендарное оружие, зарекомендовала себя за счёт платформы АК на которой он был создан. В комплетке 3 магазина.
   icon: { sprite: Backmen/Objects/Weapons/Gunsx64/Snipers/dragunov/big.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateFilledSVD
@@ -404,7 +404,7 @@
 
 - type: listing
   id: UplinkSpas12Bundle
-  name: набор "SPAS-12"
+  name: SPAS-12
   description: Спас-12, великолепное оружие которое показала свою надежность и убойную силу. В комплетке 43 патрона.
   icon: { sprite: Backmen/Objects/Weapons/Gunsx64/Shotguns/spas-16/big.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateFilledSPAS12
@@ -425,7 +425,7 @@
 
 - type: listing
   id: UplinkFlamethrowerBundle
-  name: набор "Огнемет М6"
+  name: Огнемет М6
   description: Огнемет имеющий шланг под специальный резервуар с огненой смесью, которая способна гореть даже в полном вакууме! Имеет в наборе 1 powerpack.
   icon: { sprite: Backmen/Objects/Weapons/Gunsx64/Flamethrowers/M6/big.rsi, state: icon }
   productEntity: CrateFlamethrowerBundle
@@ -445,17 +445,6 @@
     contents:
       - id: WeaponflamethrowerSG
       - id: PowerpackFlame
-
-- type: listing
-  id: UplinkFlamethrower
-  name: Огнемет М6
-  description: Огнемет с небольшой специальным портом под маленькие баллоны с огненой смесью, которая способна гореть даже в полном вакууме!
-  icon: { sprite: Backmen/Objects/Weapons/Gunsx64/Flamethrowers/M6/big.rsi, state: icon }
-  productEntity: FirethrowerGun
-  cost:
-    Telecrystal: 5
-  categories:
-  - UplinkWeaponry
 
 - type: listing
   id: UplinkFuelTankFirethrower
