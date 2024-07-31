@@ -42,7 +42,6 @@
   categories:
   - UplinkWeaponry
 
-# Poor accuracy, slow to fire, cheap option
 - type: listing
   id: UplinkRifleMosinNew
   name: uplink-rifle-mosin-name
@@ -54,7 +53,6 @@
   - UplinkWeaponry
 
 ﻿#no_mad shit
-
 - type: listing
   id: UplinkP90Bundle
   name: P90
