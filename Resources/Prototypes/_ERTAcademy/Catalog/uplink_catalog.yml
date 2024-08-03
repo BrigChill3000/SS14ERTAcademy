@@ -149,7 +149,7 @@
   cost:
     Telecrystal: 17
   categories:
-  - UplinkBundles
+  - UplinkWeaponry
 
 - type: entity
   parent: ClothingBackpackDuffelSyndicate
@@ -418,7 +418,7 @@
   - type: StorageFill
     contents:
     - id: WeaponShotgun12
-    - id: ClothingBeltShellShotgunFill
+#    - id: ClothingBeltShellShotgunFill
 
 - type: listing
   id: UplinkFlamethrowerBundle
